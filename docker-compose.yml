@@ -6,7 +6,7 @@ services:
     container_name: db
     environment:
       MYSQL_ROOT_PASSWORD: 17072027
-      MYSQL_DATABASE: l2jbrasil
+      MYSQL_DATABASE: l2jdb
       MYSQL_USER: gereiz
       MYSQL_PASSWORD: 17072027
     volumes:
