@@ -5,14 +5,13 @@ services:
     image: mysql:5.7
     container_name: db
     environment:
-      MYSQL_ROOT_PASSWORD: NoInvernoFicaTarde+Cedo
+      MYSQL_ROOT_PASSWORD: "NoInvernoFicaTarde+Cedo"
       MYSQL_DATABASE: l2jbrasil
       MYSQL_USER: gereiz
-      MYSQL_PASSWORD: NoInvernoFicaTarde+Cedo
+      MYSQL_PASSWORD: "NoInvernoFicaTarde+Cedo"
     volumes:
       - ./sl2/db_installer/.my.cnf:/root/.my.cnf
       - ./sl2/db_installer/install_db.sh:/docker-entrypoint-initdb.d/install_db.sh
-      - ./sl2/db_installer/sql/database.sql:/docker-entrypoint-initdb.d/database.sql
       - ./mysql:/var/lib/mysql
     ports:
       - "3307:3306"  # Porta externa 3307 → interna 3306
@@ -21,10 +20,10 @@ services:
     restart: always
 
   sl2:
-    build: .
+    build:
+      context: .
+      dockerfile: Dockerfile
     container_name: sl2
-    volumes:
-      - ./sl2:/app/sl2
     networks:
       - ntw
     ports:
