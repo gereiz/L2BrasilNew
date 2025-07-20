@@ -5,10 +5,10 @@ services:
     image: mysql:5.7
     container_name: db
     environment:
-      MYSQL_ROOT_PASSWORD: "NoInvernoFicaTarde+Cedo"
+      MYSQL_ROOT_PASSWORD: 17072027
       MYSQL_DATABASE: l2jbrasil
       MYSQL_USER: gereiz
-      MYSQL_PASSWORD: "NoInvernoFicaTarde+Cedo"
+      MYSQL_PASSWORD: 17072027
     volumes:
       - ./sl2/db_installer/.my.cnf:/root/.my.cnf
       - ./sl2/db_installer/install_db.sh:/docker-entrypoint-initdb.d/install_db.sh
