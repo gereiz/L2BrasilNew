@@ -16,10 +16,6 @@ chmod +x /app/sl2/launcher/Loginserver.launch
 
 EXPOSE 2106 9014 7777
 
-# Restaura os bando de dados do servidor
-
-CMD ["bash", "/app/sl2/launcher/Acconts.launch"]
-
 CMD ["bash", "/app/sl2/launcher/Acconts.launch && \
         bash", "/app/sl2/launcher/Gameserver.launch && \ 
         bash", "/app/sl2/launcher/Loginserver.launch && bash"]
