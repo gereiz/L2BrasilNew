@@ -5,6 +5,7 @@ mkdir -p /app/sl2/{game,login}/log
 chmod 777 /app/sl2/{game,login}/log
 
 # 🛠️ Garantir permissões de execução dos scripts
+chmod +x /app/sl2/login/RegisterGameServer.sh
 chmod +x /app/sl2/login/startLoginServer.sh
 chmod +x /app/sl2/game/startGameServer.sh
 # chmod +x /app/sl2/login/LoginServerTask.sh
