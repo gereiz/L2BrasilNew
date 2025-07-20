@@ -8,8 +8,10 @@ chmod 777 /app/sl2/{game,login}/log
 chmod +x /app/sl2/login/RegisterGameServer.sh
 chmod +x /app/sl2/login/startLoginServer.sh
 chmod +x /app/sl2/game/startGameServer.sh
-# chmod +x /app/sl2/login/LoginServerTask.sh
-# chmod +x /app/sl2/game/GameServerTask.sh
+
+# Iniciar o Register Server
+cd /app/sl2/login/ || exit 1
+./RegisterGameServer.sh &
 
 # Iniciar LoginServer em segundo plano
 cd /app/sl2/login/ || exit 1
