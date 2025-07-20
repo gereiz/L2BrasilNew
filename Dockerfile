@@ -4,7 +4,7 @@ FROM openjdk:17 AS builder
 WORKDIR /app
 
 # Copia o código fonte para o container
-COPY ./java ./java
+COPY ./sl2/java ./java
 COPY ./sl2 ./sl2
 
 # Compila todos os arquivos .java em ./java, gerando .class em ./classes
