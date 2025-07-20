@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Donation Trader L2Makabro -->
+<list>
+
+<item id="1">
+<ingredient id="3490" count="50" enchant="0"/>
+<ingredient id="6393" count="200" enchant="0"/>
+<ingredient id="5575" count="98000000" enchant="0"/>
+<ingredient id="57" count="500000000" enchant="0"/>
+<production id="19711" count="1" enchant="0"/>
+</item>
+
+<item id="2">
+<ingredient id="3490" count="50" enchant="0"/>
+<ingredient id="6393" count="200" enchant="0"/>
+<ingredient id="5575" count="98000000" enchant="0"/>
+<ingredient id="57" count="500000000" enchant="0"/>
+<production id="19712" count="1" enchant="0"/>
+</item>
+
+<item id="4">
+<ingredient id="3490" count="50" enchant="0"/>
+<ingredient id="6393" count="200" enchant="0"/>
+<ingredient id="5575" count="98000000" enchant="0"/>
+<ingredient id="57" count="500000000" enchant="0"/>
+<production id="19713" count="1" enchant="0"/>
+</item>
+
+</list>

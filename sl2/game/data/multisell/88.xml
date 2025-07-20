@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--Donation Trader L2Makabro-->
+<list>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="1">
+    <ingredient id="6389" count="100" enchant="0"/>
+	<production id="8565" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="2">
+    <ingredient id="6389" count="100" enchant="0"/>
+	<production id="8562" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="3">
+    <ingredient id="6389" count="100" enchant="0"/>
+	<production id="8563" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="4">
+    <ingredient id="6389" count="100" enchant="0"/>
+	<production id="8921" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="5">
+    <ingredient id="6389" count="100" enchant="0"/>
+	<production id="6577" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="6">
+    <ingredient id="6389" count="100" enchant="0"/>
+	<production id="6578" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="7">
+    <ingredient id="6389" count="100" enchant="0"/>
+	<production id="6622" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="8">
+    <ingredient id="6389" count="100" enchant="0"/>
+	<production id="4422" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="9">
+    <ingredient id="6389" count="100" enchant="0"/>
+	<production id="4423" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="10">
+    <ingredient id="6389" count="100" enchant="0"/>
+	<production id="4424" count="1" enchant="0"/>
+  </item>
+
+</list>

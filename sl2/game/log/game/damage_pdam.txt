@@ -1,0 +1,815 @@
+[09.07.16 22:08:57] '---': Sound(268478751) 80 lvl did damage 41442 with skill Stunning Shot(101) to Boots(268478764) 80 lvl
+[09.07.16 22:09:01] '---': Sound(268478751) 80 lvl did damage 20074 with skill Stunning Shot(101) to Boots(268478764) 80 lvl
+[09.07.16 22:09:04] '---': Sound(268478751) 80 lvl did damage 20342 with skill Stunning Shot(101) to Boots(268478764) 80 lvl
+[09.07.22 18:11:33] '---': Kouje(268478706) 48 lvl did damage 5119 with skill Fatal Strike(190) to Tortured Undead(20678)53 lvl
+[09.07.23 12:25:15] '---': CanNibalL(268481168) 80 lvl did damage 14682 with skill Stunning Shot(101) to AnjoPunk(268479436) 42 lvl
+[09.07.23 22:18:50] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 6024 with skill Shock Blast(361) to Solina Lay Brother(22125)80 lvl
+[09.07.23 23:10:02] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 6604 with skill Earthquake(347) to Beholder of Light(22135)80 lvl
+[09.07.23 23:12:40] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 7160 with skill Earthquake(347) to Pilgrim of Light(22131)80 lvl
+[09.07.23 23:15:18] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 6936 with skill Earthquake(347) to Warrior Monk(22129)80 lvl
+[09.07.23 23:17:10] '---': Kouje(268478706) 77 lvl did damage 6671 with skill Crush of Doom(315) to Deinonychus(22205)83 lvl
+[09.07.23 23:17:10] '---': Kouje(268478706) 77 lvl did damage 5736 with skill Fatal Strike(190) to Deinonychus(22205)83 lvl
+[09.07.23 23:17:28] '---': Kouje(268478706) 77 lvl did damage 5566 with skill Crush of Doom(315) to Wild Strider(22211)85 lvl
+[09.07.23 23:22:26] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 6660 with skill Earthquake(347) to Guardian of the Holy Land(22134)80 lvl
+[09.07.23 23:25:39] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 5370 with skill Shock Blast(361) to Judge of Light(22132)80 lvl
+[09.07.23 23:35:18] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 9302 with skill Earthquake(347) to Ornithomimus(22219)84 lvl
+[09.07.23 23:36:08] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 6410 with skill Earthquake(347) to Ornithomimus(22200)84 lvl
+[09.07.23 23:37:23] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 5215 with skill Earthquake(347) to Deinonychus(22203)83 lvl
+[09.07.23 23:37:23] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 5242 with skill Earthquake(347) to Deinonychus(22220)83 lvl
+[09.07.23 23:42:37] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 5145 with skill Earthquake(347) to Deinonychus(22220)83 lvl
+[09.07.23 23:46:49] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 5004 with skill Earthquake(347) to Deinonychus(22205)83 lvl
+[09.07.23 23:46:49] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 5268 with skill Earthquake(347) to Deinonychus(22205)83 lvl
+[09.07.23 23:56:17] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 5316 with skill Earthquake(347) to Deinonychus(22203)83 lvl
+[09.07.23 23:56:17] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 5316 with skill Earthquake(347) to Deinonychus(22204)83 lvl
+[09.07.24 8:23:57] '---': Kouje(268478706) 78 lvl did damage 6863 with skill Crush of Doom(315) to Ornithomimus(22201)84 lvl
+[09.07.24 16:36:34] '---': laique(268479611) 48 lvl did damage 9701 with skill Stunning Shot(101) to Ketra Orc Raider(21327)78 lvl
+[09.07.24 16:37:14] '---': laique(268479611) 51 lvl did damage 7528 with skill Double Shot(19) to Ketra Orc Scout(21328)78 lvl
+[09.07.24 16:39:42] '---': laique(268479611) 65 lvl did damage 5936 with skill Stunning Shot(101) to Ketra's Head Guard(21346)80 lvl
+[09.07.24 16:39:57] '---': laique(268479611) 66 lvl did damage 8861 with skill Stunning Shot(101) to Ketra Orc Warrior(21331)80 lvl
+[09.07.24 16:39:58] '---': laique(268479611) 67 lvl did damage 9002 with skill Double Shot(19) to Ketra Orc Warrior(21331)80 lvl
+[09.07.24 16:40:01] '---': laique(268479611) 67 lvl did damage 8981 with skill Stunning Shot(101) to Ketra Orc Warrior(21331)80 lvl
+[09.07.24 16:40:33] '---': laique(268479611) 68 lvl did damage 5932 with skill Stunning Shot(101) to Grazing Elder Buffalo(21337)80 lvl
+[09.07.24 16:41:08] '---': laique(268479611) 71 lvl did damage 16632 with skill Double Shot(19) to Ketra Orc Elite Soldier(21335)80 lvl
+[09.07.24 16:41:40] '---': laique(268479611) 73 lvl did damage 7580 with skill Double Shot(19) to Ketra Orc White Captain(21336)80 lvl
+[09.07.24 16:43:19] '---': laique(268479611) 76 lvl did damage 10281 with skill Stunning Shot(101) to Ketra Orc Warrior(21331)80 lvl
+[09.07.24 16:43:21] '---': laique(268479611) 76 lvl did damage 10426 with skill Stunning Shot(101) to Ketra Orc Warrior(21331)80 lvl
+[09.07.24 16:47:54] '---': laique(268479611) 77 lvl did damage 12550 with skill Double Shot(19) to Ketra Orc Shaman(21329)79 lvl
+[09.07.24 16:49:57] '---': laique(268479611) 78 lvl did damage 11276 with skill Double Shot(19) to Grazing Kookaburra(21326)77 lvl
+[09.07.24 16:50:49] '---': laique(268479611) 78 lvl did damage 8466 with skill Stunning Shot(101) to Grazing Buffalo(21330)79 lvl
+[09.07.24 16:51:24] '---': laique(268479611) 78 lvl did damage 9201 with skill Double Shot(19) to Grazing Buffalo(21330)79 lvl
+[09.07.24 16:53:17] '---': laique(268479611) 78 lvl did damage 8265 with skill Stunning Shot(101) to Grazing Buffalo(21330)79 lvl
+[09.07.24 16:54:16] '---': laique(268479611) 78 lvl did damage 10073 with skill Stunning Shot(101) to Grazing Kookaburra(21326)77 lvl
+[09.07.24 16:54:18] '---': laique(268479611) 78 lvl did damage 22646 with skill Double Shot(19) to Grazing Kookaburra(21326)77 lvl
+[09.07.24 16:55:14] '---': laique(268479611) 79 lvl did damage 10451 with skill Stunning Shot(101) to Ketra Orc Footman(21324)77 lvl
+[09.07.24 16:56:19] '---': laique(268479611) 79 lvl did damage 10739 with skill Stunning Shot(101) to Ketra Orc Warrior(21331)80 lvl
+[09.07.24 16:56:21] '---': laique(268479611) 79 lvl did damage 8207 with skill Double Shot(19) to Grazing Windsus(21333)80 lvl
+[09.07.24 16:56:31] '---': laique(268479611) 79 lvl did damage 9047 with skill Stunning Shot(101) to Ketra Orc Lieutenant(21332)80 lvl
+[09.07.24 16:56:34] '---': laique(268479611) 79 lvl did damage 12040 with skill Double Shot(19) to Ketra Orc Warrior(21331)80 lvl
+[09.07.24 16:57:14] '---': laique(268479611) 79 lvl did damage 9314 with skill Stunning Shot(101) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.24 16:57:32] '---': laique(268479611) 79 lvl did damage 11703 with skill Double Shot(19) to Ketra Orc General(21339)80 lvl
+[09.07.24 16:57:49] '---': laique(268479611) 79 lvl did damage 11497 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.24 16:57:51] '---': laique(268479611) 79 lvl did damage 11692 with skill Double Shot(19) to Ketra Orc General(21339)80 lvl
+[09.07.24 16:58:36] '---': laique(268479611) 79 lvl did damage 9247 with skill Stunning Shot(101) to Prophet's Aide(21349)80 lvl
+[09.07.24 16:58:38] '---': laique(268479611) 79 lvl did damage 9415 with skill Stunning Shot(101) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.24 16:58:40] '---': laique(268479611) 79 lvl did damage 10135 with skill Double Shot(19) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.24 16:58:42] '---': laique(268479611) 79 lvl did damage 9149 with skill Stunning Shot(101) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.24 16:59:48] '---': laique(268479611) 79 lvl did damage 7691 with skill Stunning Shot(101) to Grazing Elder Buffalo(21337)80 lvl
+[09.07.24 16:59:52] '---': laique(268479611) 79 lvl did damage 10325 with skill Double Shot(19) to Ketra Orc Elite Soldier(21335)80 lvl
+[09.07.24 17:01:38] '---': laique(268479611) 79 lvl did damage 7793 with skill Stunning Shot(101) to Ketra's Head Guard(21346)80 lvl
+[09.07.24 17:02:27] '---': laique(268479611) 79 lvl did damage 7839 with skill Stunning Shot(101) to Grazing Windsus(21333)80 lvl
+[09.07.24 17:41:55] '---': laique(268479611) 79 lvl did damage 12187 with skill Double Shot(19) to Ketra's War Hound(21325)77 lvl
+[09.07.24 17:42:05] '---': laique(268479611) 79 lvl did damage 11276 with skill Stunning Shot(101) to Ketra Orc Shaman(21329)79 lvl
+[09.07.24 17:51:15] '---': laique(268479611) 79 lvl did damage 11670 with skill Stunning Shot(101) to Ketra Orc Shaman(21329)79 lvl
+[09.07.24 17:51:40] '---': laique(268479611) 79 lvl did damage 10895 with skill Stunning Shot(101) to Ketra Orc Footman(21324)77 lvl
+[09.07.24 17:52:07] '---': laique(268479611) 79 lvl did damage 10494 with skill Stunning Shot(101) to Ketra Orc Footman(21324)77 lvl
+[09.07.24 17:52:12] '---': laique(268479611) 79 lvl did damage 12639 with skill Double Shot(19) to Ketra's War Hound(21325)77 lvl
+[09.07.24 17:52:57] '---': laique(268479611) 79 lvl did damage 9448 with skill Stunning Shot(101) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.24 17:55:13] '---': laique(268479611) 80 lvl did damage 12805 with skill Stunning Shot(101) to Ketra Orc Raider(21327)78 lvl
+[09.07.24 17:55:51] '---': laique(268479611) 80 lvl did damage 11807 with skill Stunning Shot(101) to Ketra's War Hound(21325)77 lvl
+[09.07.24 17:56:47] '---': laique(268479611) 80 lvl did damage 8860 with skill Stunning Shot(101) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.24 17:57:01] '---': laique(268479611) 80 lvl did damage 8668 with skill Stunning Shot(101) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.24 17:58:02] '---': laique(268479611) 80 lvl did damage 11603 with skill Stunning Shot(101) to Ketra Orc Medium(21334)80 lvl
+[09.07.24 18:04:43] '---': laique(268479611) 80 lvl did damage 11177 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.24 18:04:45] '---': laique(268479611) 80 lvl did damage 12212 with skill Double Shot(19) to Ketra Orc General(21339)80 lvl
+[09.07.24 18:04:49] '---': laique(268479611) 80 lvl did damage 9002 with skill Stunning Shot(101) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.24 18:04:50] '---': laique(268479611) 80 lvl did damage 19540 with skill Double Shot(19) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.24 18:04:56] '---': laique(268479611) 80 lvl did damage 9445 with skill Double Shot(19) to Prophet's Guard(21348)80 lvl
+[09.07.24 18:05:01] '---': laique(268479611) 80 lvl did damage 9580 with skill Stunning Shot(101) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.24 18:05:04] '---': laique(268479611) 80 lvl did damage 9617 with skill Double Shot(19) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.24 18:05:08] '---': laique(268479611) 80 lvl did damage 11524 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.24 18:05:14] '---': laique(268479611) 80 lvl did damage 10012 with skill Double Shot(19) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.24 18:05:17] '---': laique(268479611) 80 lvl did damage 9278 with skill Stunning Shot(101) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.24 18:05:26] '---': laique(268479611) 80 lvl did damage 10931 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.24 18:05:33] '---': laique(268479611) 80 lvl did damage 9545 with skill Double Shot(19) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.24 18:05:59] '---': laique(268479611) 80 lvl did damage 11380 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.24 18:06:03] '---': laique(268479611) 80 lvl did damage 9235 with skill Double Shot(19) to Ketra Orc Lieutenant(21332)80 lvl
+[09.07.24 18:36:00] '---': laique(268479611) 80 lvl did damage 8812 with skill Stunning Shot(101) to Prophet's Guard(21348)80 lvl
+[09.07.24 18:36:13] '---': laique(268479611) 80 lvl did damage 9259 with skill Double Shot(19) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.24 18:36:14] '---': laique(268479611) 80 lvl did damage 8956 with skill Stunning Shot(101) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.24 18:36:17] '---': laique(268479611) 80 lvl did damage 8946 with skill Stunning Shot(101) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.24 18:36:26] '---': laique(268479611) 80 lvl did damage 9218 with skill Stunning Shot(101) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.24 18:36:30] '---': laique(268479611) 80 lvl did damage 9915 with skill Double Shot(19) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.24 18:36:53] '---': laique(268479611) 80 lvl did damage 11893 with skill Double Shot(19) to Ketra Orc General(21339)80 lvl
+[09.07.24 18:36:57] '---': laique(268479611) 80 lvl did damage 10816 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.24 18:37:00] '---': laique(268479611) 80 lvl did damage 8971 with skill Stunning Shot(101) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.24 18:37:44] '---': laique(268479611) 80 lvl did damage 9091 with skill Double Shot(19) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.24 19:49:39] '---': laique(268479611) 80 lvl did damage 10570 with skill Stunning Shot(101) to Ketra Orc Warrior(21331)80 lvl
+[09.07.24 19:50:37] '---': laique(268479611) 80 lvl did damage 11592 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.24 19:50:39] '---': laique(268479611) 80 lvl did damage 10084 with skill Double Shot(19) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.24 19:50:46] '---': laique(268479611) 80 lvl did damage 11823 with skill Double Shot(19) to Ketra Orc General(21339)80 lvl
+[09.07.24 19:50:48] '---': laique(268479611) 80 lvl did damage 10876 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.24 19:50:59] '---': laique(268479611) 80 lvl did damage 9197 with skill Double Shot(19) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.24 19:51:04] '---': laique(268479611) 80 lvl did damage 9598 with skill Double Shot(19) to Prophet's Guard(21348)80 lvl
+[09.07.24 19:51:06] '---': laique(268479611) 80 lvl did damage 9045 with skill Stunning Shot(101) to Ketra Prophet(21347)80 lvl
+[09.07.24 19:51:10] '---': laique(268479611) 80 lvl did damage 9360 with skill Stunning Shot(101) to Prophet's Aide(21349)80 lvl
+[09.07.24 19:51:15] '---': laique(268479611) 80 lvl did damage 9236 with skill Stunning Shot(101) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.24 19:51:20] '---': laique(268479611) 80 lvl did damage 11659 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.24 19:51:24] '---': laique(268479611) 80 lvl did damage 11740 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.24 19:51:33] '---': laique(268479611) 80 lvl did damage 11106 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.24 21:56:12] '---': laique(268479611) 80 lvl did damage 8013 with skill Double Shot(19) to Ketra Orc Elite Soldier(21335)80 lvl
+[09.07.24 21:56:19] '---': laique(268479611) 80 lvl did damage 7567 with skill Stunning Shot(101) to Ketra Orc Elite Soldier(21335)80 lvl
+[09.07.24 21:56:26] '---': laique(268479611) 80 lvl did damage 7425 with skill Stunning Shot(101) to Prophet's Guard(21348)80 lvl
+[09.07.24 21:56:29] '---': laique(268479611) 80 lvl did damage 7780 with skill Double Shot(19) to Ketra Orc White Captain(21336)80 lvl
+[09.07.24 21:56:31] '---': laique(268479611) 80 lvl did damage 9375 with skill Stunning Shot(101) to Ketra Orc Seer(21338)80 lvl
+[09.07.24 21:56:34] '---': laique(268479611) 80 lvl did damage 7656 with skill Double Shot(19) to Prophet's Aide(21349)80 lvl
+[09.07.24 21:56:37] '---': laique(268479611) 80 lvl did damage 6764 with skill Stunning Shot(101) to Ketra Prophet(21347)80 lvl
+[09.07.24 21:57:03] '---': laique(268479611) 80 lvl did damage 7773 with skill Double Shot(19) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.24 21:57:07] '---': laique(268479611) 80 lvl did damage 7080 with skill Stunning Shot(101) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.24 21:57:19] '---': laique(268479611) 80 lvl did damage 10074 with skill Stunning Shot(101) to Ketra Orc Seer(21338)80 lvl
+[09.07.24 21:57:24] '---': laique(268479611) 80 lvl did damage 8042 with skill Double Shot(19) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.24 21:57:40] '---': laique(268479611) 80 lvl did damage 7319 with skill Stunning Shot(101) to Prophet's Guard(21348)80 lvl
+[09.07.24 21:57:43] '---': laique(268479611) 80 lvl did damage 8128 with skill Double Shot(19) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.24 21:57:51] '---': laique(268479611) 80 lvl did damage 8998 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.24 21:57:54] '---': laique(268479611) 80 lvl did damage 8218 with skill Double Shot(19) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.24 21:57:59] '---': laique(268479611) 80 lvl did damage 7296 with skill Stunning Shot(101) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.24 21:58:08] '---': laique(268479611) 80 lvl did damage 7477 with skill Stunning Shot(101) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.24 22:23:17] '---': laique(268479611) 80 lvl did damage 8568 with skill Stunning Shot(101) to Ornithomimus(22202)84 lvl
+[09.07.24 22:23:35] '---': laique(268479611) 80 lvl did damage 8377 with skill Stunning Shot(101) to Velociraptor(22218)86 lvl
+[09.07.24 22:23:37] '---': laique(268479611) 80 lvl did damage 8997 with skill Double Shot(19) to Velociraptor(22197)86 lvl
+[09.07.24 22:23:40] '---': laique(268479611) 80 lvl did damage 8969 with skill Stunning Shot(101) to Velociraptor(22196)86 lvl
+[09.07.24 22:24:21] '---': laique(268479611) 80 lvl did damage 9761 with skill Stunning Shot(101) to Deinonychus(22203)83 lvl
+[09.07.24 22:24:34] '---': laique(268479611) 80 lvl did damage 8541 with skill Stunning Shot(101) to Velociraptor(22197)86 lvl
+[09.07.24 22:24:40] '---': laique(268479611) 80 lvl did damage 9024 with skill Stunning Shot(101) to Velociraptor(22196)86 lvl
+[09.07.24 22:24:45] '---': laique(268479611) 80 lvl did damage 9960 with skill Stunning Shot(101) to Deinonychus(22205)83 lvl
+[09.07.24 22:25:17] '---': laique(268479611) 80 lvl did damage 9965 with skill Stunning Shot(101) to Deinonychus(22205)83 lvl
+[09.07.24 22:25:21] '---': laique(268479611) 80 lvl did damage 9221 with skill Stunning Shot(101) to Deinonychus(22220)83 lvl
+[09.07.24 22:25:30] '---': laique(268479611) 80 lvl did damage 9096 with skill Stunning Shot(101) to Ornithomimus(22200)84 lvl
+[09.07.24 22:25:34] '---': laique(268479611) 80 lvl did damage 9002 with skill Stunning Shot(101) to Ornithomimus(22219)84 lvl
+[09.07.24 22:26:14] '---': laique(268479611) 80 lvl did damage 9674 with skill Stunning Shot(101) to Deinonychus(22220)83 lvl
+[09.07.24 22:26:16] '---': laique(268479611) 80 lvl did damage 20846 with skill Double Shot(19) to Deinonychus(22203)83 lvl
+[09.07.24 22:26:18] '---': laique(268479611) 80 lvl did damage 9441 with skill Stunning Shot(101) to Deinonychus(22220)83 lvl
+[09.07.24 22:26:34] '---': laique(268479611) 80 lvl did damage 18430 with skill Double Shot(19) to Ornithomimus(22200)84 lvl
+[09.07.24 22:26:35] '---': laique(268479611) 80 lvl did damage 8701 with skill Stunning Shot(101) to Ornithomimus(22202)84 lvl
+[09.07.24 22:26:38] '---': laique(268479611) 80 lvl did damage 9039 with skill Stunning Shot(101) to Ornithomimus(22201)84 lvl
+[09.07.24 22:27:02] '---': laique(268479611) 80 lvl did damage 8582 with skill Stunning Shot(101) to Sprigant(18346)80 lvl
+[09.07.24 22:27:07] '---': laique(268479611) 80 lvl did damage 8684 with skill Stunning Shot(101) to Ornithomimus(22201)84 lvl
+[09.07.24 22:27:10] '---': laique(268479611) 80 lvl did damage 9035 with skill Stunning Shot(101) to Ornithomimus(22202)84 lvl
+[09.07.24 22:27:14] '---': laique(268479611) 80 lvl did damage 9191 with skill Stunning Shot(101) to Ornithomimus(22202)84 lvl
+[09.07.24 22:27:19] '---': laique(268479611) 80 lvl did damage 8999 with skill Stunning Shot(101) to Ornithomimus(22201)84 lvl
+[09.07.24 22:27:21] '---': laique(268479611) 80 lvl did damage 9180 with skill Double Shot(19) to Velociraptor(22218)86 lvl
+[09.07.24 22:27:30] '---': laique(268479611) 80 lvl did damage 8636 with skill Stunning Shot(101) to Velociraptor(22196)86 lvl
+[09.07.24 22:27:32] '---': laique(268479611) 80 lvl did damage 9235 with skill Double Shot(19) to Ornithomimus(22219)84 lvl
+[09.07.24 22:27:36] '---': laique(268479611) 80 lvl did damage 9014 with skill Stunning Shot(101) to Ornithomimus(22200)84 lvl
+[09.07.24 22:27:38] '---': laique(268479611) 80 lvl did damage 9934 with skill Double Shot(19) to Ornithomimus(22200)84 lvl
+[09.07.24 22:27:40] '---': laique(268479611) 80 lvl did damage 9463 with skill Stunning Shot(101) to Deinonychus(22205)83 lvl
+[09.07.24 22:27:45] '---': laique(268479611) 80 lvl did damage 9593 with skill Stunning Shot(101) to Deinonychus(22203)83 lvl
+[09.07.24 22:27:46] '---': laique(268479611) 80 lvl did damage 10409 with skill Double Shot(19) to Deinonychus(22220)83 lvl
+[09.07.24 22:27:57] '---': laique(268479611) 80 lvl did damage 8581 with skill Stunning Shot(101) to Velociraptor(22196)86 lvl
+[09.07.24 22:28:02] '---': laique(268479611) 80 lvl did damage 9459 with skill Double Shot(19) to Velociraptor(22197)86 lvl
+[09.07.24 22:28:03] '---': laique(268479611) 80 lvl did damage 8423 with skill Stunning Shot(101) to Velociraptor(22196)86 lvl
+[09.07.24 22:28:05] '---': laique(268479611) 80 lvl did damage 8637 with skill Stunning Shot(101) to Velociraptor(22218)86 lvl
+[09.07.24 22:28:08] '---': laique(268479611) 80 lvl did damage 9113 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.24 22:28:09] '---': laique(268479611) 80 lvl did damage 8977 with skill Stunning Shot(101) to Velociraptor(22198)86 lvl
+[09.07.24 22:28:11] '---': laique(268479611) 80 lvl did damage 8772 with skill Stunning Shot(101) to Velociraptor(22198)86 lvl
+[09.07.24 22:28:13] '---': laique(268479611) 80 lvl did damage 8541 with skill Stunning Shot(101) to Velociraptor(22218)86 lvl
+[09.07.24 22:28:14] '---': laique(268479611) 80 lvl did damage 9606 with skill Double Shot(19) to Velociraptor(22197)86 lvl
+[09.07.24 22:28:53] '---': laique(268479611) 80 lvl did damage 8959 with skill Stunning Shot(101) to Velociraptor(22197)86 lvl
+[09.07.24 22:29:02] '---': laique(268479611) 80 lvl did damage 8566 with skill Stunning Shot(101) to Velociraptor(22196)86 lvl
+[09.07.24 22:29:06] '---': laique(268479611) 80 lvl did damage 8627 with skill Stunning Shot(101) to Ornithomimus(22200)84 lvl
+[09.07.24 22:29:08] '---': laique(268479611) 80 lvl did damage 9126 with skill Stunning Shot(101) to Ornithomimus(22202)84 lvl
+[09.07.24 22:29:24] '---': laique(268479611) 80 lvl did damage 9031 with skill Stunning Shot(101) to Ornithomimus(22201)84 lvl
+[09.07.24 22:29:28] '---': laique(268479611) 80 lvl did damage 8708 with skill Stunning Shot(101) to Ornithomimus(22219)84 lvl
+[09.07.24 22:29:30] '---': laique(268479611) 80 lvl did damage 8902 with skill Stunning Shot(101) to Velociraptor(22198)86 lvl
+[09.07.24 22:29:31] '---': laique(268479611) 80 lvl did damage 9860 with skill Double Shot(19) to Ornithomimus(22200)84 lvl
+[09.07.24 22:29:35] '---': laique(268479611) 80 lvl did damage 8759 with skill Stunning Shot(101) to Ornithomimus(22202)84 lvl
+[09.07.24 22:29:38] '---': laique(268479611) 80 lvl did damage 9518 with skill Double Shot(19) to Ornithomimus(22219)84 lvl
+[09.07.24 22:29:41] '---': laique(268479611) 80 lvl did damage 9228 with skill Stunning Shot(101) to Deinonychus(22204)83 lvl
+[09.07.24 22:29:43] '---': laique(268479611) 80 lvl did damage 10471 with skill Double Shot(19) to Deinonychus(22204)83 lvl
+[09.07.24 22:29:46] '---': laique(268479611) 80 lvl did damage 9358 with skill Stunning Shot(101) to Deinonychus(22203)83 lvl
+[09.07.24 22:29:49] '---': laique(268479611) 80 lvl did damage 10235 with skill Double Shot(19) to Deinonychus(22220)83 lvl
+[09.07.24 22:30:25] '---': laique(268479611) 80 lvl did damage 6282 with skill Double Shot(19) to Tyrannosaurus(22215)87 lvl
+[09.07.24 22:30:42] '---': laique(268479611) 80 lvl did damage 9308 with skill Double Shot(19) to Ornithomimus(22202)84 lvl
+[09.07.24 22:30:48] '---': laique(268479611) 80 lvl did damage 8651 with skill Stunning Shot(101) to Velociraptor(22197)86 lvl
+[09.07.24 23:19:08] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 24193 with skill Stunning Shot(101) to Shackle(20235)45 lvl
+[09.07.24 23:28:33] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 18301 with skill Stunning Shot(101) to Cave Maiden(20134)59 lvl
+[09.07.24 23:28:46] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 19500 with skill Stunning Shot(101) to Cave Maiden(20134)59 lvl
+[09.07.24 23:31:04] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 10217 with skill Stunning Shot(101) to Drake(20137)57 lvl
+[09.07.24 23:31:22] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 20732 with skill Stunning Shot(101) to Malruk Succubus Turen(20245)56 lvl
+[09.07.24 23:31:25] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 20864 with skill Lethal Shot(343) to Malruk Succubus Turen(20245)56 lvl
+[09.07.24 23:32:12] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 43834 with skill Double Shot(19) to Malruk Succubus Turen(20245)56 lvl
+[09.07.24 23:33:29] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 11202 with skill Lethal Shot(343) to Thunder Wyrm(20243)54 lvl
+[09.07.24 23:33:48] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 9726 with skill Stunning Shot(101) to Drake(20137)57 lvl
+[09.07.24 23:34:19] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 25544 with skill Stunning Shot(101) to Dragon Bearer Warrior(20759)48 lvl
+[09.07.24 23:35:06] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 40494 with skill Hamstring Shot(354) to Malruk Succubus(20244)55 lvl
+[09.07.24 23:36:24] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 20148 with skill Burst Shot(24) to Dragon Bearer Chief(20758)49 lvl
+[09.07.24 23:36:24] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 10897 with skill Burst Shot(24) to Dragon Bearer Archer(20760)47 lvl
+[09.07.24 23:36:24] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 12524 with skill Burst Shot(24) to Dragon Bearer Warrior(20759)48 lvl
+[09.07.24 23:36:53] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 20236 with skill Stunning Shot(101) to Malruk Succubus Turen(20245)56 lvl
+[09.07.24 23:37:26] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 10308 with skill Stunning Shot(101) to Drake(20137)57 lvl
+[09.07.24 23:37:31] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 10066 with skill Double Shot(19) to Drake(20137)57 lvl
+[09.07.24 23:37:41] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 20591 with skill Stunning Shot(101) to Malruk Succubus Turen(20245)56 lvl
+[09.07.24 23:38:39] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 21694 with skill Stunning Shot(101) to Malruk Succubus(20244)55 lvl
+[09.07.24 23:38:56] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 20358 with skill Stunning Shot(101) to Malruk Succubus Turen(20245)56 lvl
+[09.07.24 23:39:13] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 10908 with skill Double Shot(19) to Thunder Wyrm(20243)54 lvl
+[09.07.24 23:54:21] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 9252 with skill Lethal Shot(343) to Splinter Stakato Walker(21509)67 lvl
+[09.07.25 0:08:57] '---': MichaelJackson(268483095) 80 lvl did damage 10942 with skill Raging Force(346) to Cave Maiden(20134)59 lvl
+[09.07.25 0:23:39] '---': MichaelJackson(268483095) 80 lvl did damage 12984 with skill Raging Force(346) to Malruk Succubus(20244)55 lvl
+[09.07.25 0:23:56] '---': MichaelJackson(268483095) 80 lvl did damage 13131 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 0:24:08] '---': MichaelJackson(268483095) 80 lvl did damage 12562 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 0:24:10] '---': MichaelJackson(268483095) 80 lvl did damage 13278 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 0:34:20] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 23867 with skill Stunning Shot(101) to Tarlk Bugbear(20570)47 lvl
+[09.07.25 0:51:31] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 18106 with skill Stunning Shot(101) to Pilgrim of Splendor(21541)63 lvl
+[09.07.25 0:56:06] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 13500 with skill Stunning Shot(101) to Shout of Splendor(21532)65 lvl
+[09.07.25 0:56:27] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 13478 with skill Stunning Shot(101) to Shout of Splendor(21532)65 lvl
+[09.07.25 0:57:37] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 25700 with skill Hamstring Shot(354) to Shout of Splendor(21532)65 lvl
+[09.07.25 0:57:47] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 13895 with skill Lethal Shot(343) to Shout of Splendor(21532)65 lvl
+[09.07.25 0:57:53] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 12232 with skill Hamstring Shot(354) to Judge of Splendor(21544)67 lvl
+[09.07.25 0:58:23] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 14415 with skill Double Shot(19) to Shout of Splendor(21532)65 lvl
+[09.07.25 0:58:29] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 14303 with skill Hamstring Shot(354) to Alliance of Splendor(21533)65 lvl
+[09.07.25 0:58:37] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 15485 with skill Stunning Shot(101) to Victory of Splendor(21530)64 lvl
+[09.07.25 0:59:04] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 13686 with skill Stunning Shot(101) to Shout of Splendor(21532)65 lvl
+[09.07.25 0:59:14] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 15774 with skill Lethal Shot(343) to Alliance of Splendor(21533)65 lvl
+[09.07.25 0:59:36] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 15955 with skill Stunning Shot(101) to Wisdom of Splendor(21526)62 lvl
+[09.07.25 1:00:54] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 12749 with skill Stunning Shot(101) to Judge of Splendor(21544)67 lvl
+[09.07.25 2:43:42] '---': laique(268479611) 80 lvl did damage 8662 with skill Stunning Shot(101) to Velociraptor(22218)86 lvl
+[09.07.25 2:43:53] '---': laique(268479611) 80 lvl did damage 8617 with skill Stunning Shot(101) to Velociraptor(22198)86 lvl
+[09.07.25 2:43:54] '---': laique(268479611) 80 lvl did damage 8813 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.25 2:43:55] '---': laique(268479611) 80 lvl did damage 8200 with skill Stunning Shot(101) to Velociraptor(22218)86 lvl
+[09.07.25 2:44:17] '---': laique(268479611) 80 lvl did damage 8960 with skill Stunning Shot(101) to Deinonychus(22220)83 lvl
+[09.07.25 2:44:19] '---': laique(268479611) 80 lvl did damage 9060 with skill Stunning Shot(101) to Deinonychus(22204)83 lvl
+[09.07.25 2:44:59] '---': laique(268479611) 80 lvl did damage 8899 with skill Stunning Shot(101) to Ornithomimus(22202)84 lvl
+[09.07.25 2:45:01] '---': laique(268479611) 80 lvl did damage 9608 with skill Double Shot(19) to Deinonychus(22220)83 lvl
+[09.07.25 2:45:03] '---': laique(268479611) 80 lvl did damage 8443 with skill Stunning Shot(101) to Ornithomimus(22219)84 lvl
+[09.07.25 2:45:05] '---': laique(268479611) 80 lvl did damage 9202 with skill Stunning Shot(101) to Deinonychus(22220)83 lvl
+[09.07.25 2:45:28] '---': laique(268479611) 80 lvl did damage 8833 with skill Stunning Shot(101) to Velociraptor(22198)86 lvl
+[09.07.25 2:45:29] '---': laique(268479611) 80 lvl did damage 18574 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.25 2:45:37] '---': laique(268479611) 80 lvl did damage 8642 with skill Stunning Shot(101) to Ancient Egg(18344)80 lvl
+[09.07.25 2:45:46] '---': laique(268479611) 80 lvl did damage 8803 with skill Stunning Shot(101) to Velociraptor(22197)86 lvl
+[09.07.25 2:45:49] '---': laique(268479611) 80 lvl did damage 8824 with skill Stunning Shot(101) to Velociraptor(22218)86 lvl
+[09.07.25 2:45:51] '---': laique(268479611) 80 lvl did damage 8553 with skill Stunning Shot(101) to Ornithomimus(22219)84 lvl
+[09.07.25 2:45:57] '---': laique(268479611) 80 lvl did damage 8815 with skill Stunning Shot(101) to Velociraptor(22196)86 lvl
+[09.07.25 2:45:58] '---': laique(268479611) 80 lvl did damage 9152 with skill Double Shot(19) to Velociraptor(22218)86 lvl
+[09.07.25 2:46:02] '---': laique(268479611) 80 lvl did damage 8827 with skill Stunning Shot(101) to Velociraptor(22196)86 lvl
+[09.07.25 2:46:03] '---': laique(268479611) 80 lvl did damage 9462 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.25 2:46:04] '---': laique(268479611) 80 lvl did damage 8839 with skill Stunning Shot(101) to Velociraptor(22198)86 lvl
+[09.07.25 2:46:07] '---': laique(268479611) 80 lvl did damage 9019 with skill Stunning Shot(101) to Ornithomimus(22202)84 lvl
+[09.07.25 2:46:33] '---': laique(268479611) 80 lvl did damage 8474 with skill Stunning Shot(101) to Ornithomimus(22201)84 lvl
+[09.07.25 2:46:35] '---': laique(268479611) 80 lvl did damage 9720 with skill Double Shot(19) to Ornithomimus(22202)84 lvl
+[09.07.25 2:46:36] '---': laique(268479611) 80 lvl did damage 8895 with skill Stunning Shot(101) to Ornithomimus(22219)84 lvl
+[09.07.25 2:46:38] '---': laique(268479611) 80 lvl did damage 8280 with skill Stunning Shot(101) to Velociraptor(22197)86 lvl
+[09.07.25 2:46:42] '---': laique(268479611) 80 lvl did damage 8934 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.25 2:46:42] '---': laique(268479611) 80 lvl did damage 8678 with skill Stunning Shot(101) to Velociraptor(22198)86 lvl
+[09.07.25 2:46:45] '---': laique(268479611) 80 lvl did damage 8046 with skill Stunning Shot(101) to Velociraptor(22218)86 lvl
+[09.07.25 2:46:47] '---': laique(268479611) 80 lvl did damage 8360 with skill Stunning Shot(101) to Velociraptor(22196)86 lvl
+[09.07.25 2:46:48] '---': laique(268479611) 80 lvl did damage 8829 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.25 2:46:52] '---': laique(268479611) 80 lvl did damage 8510 with skill Stunning Shot(101) to Ornithomimus(22219)84 lvl
+[09.07.25 2:46:54] '---': laique(268479611) 80 lvl did damage 19096 with skill Double Shot(19) to Ornithomimus(22219)84 lvl
+[09.07.25 2:46:57] '---': laique(268479611) 80 lvl did damage 8231 with skill Stunning Shot(101) to Ornithomimus(22200)84 lvl
+[09.07.25 2:46:59] '---': laique(268479611) 80 lvl did damage 9559 with skill Stunning Shot(101) to Deinonychus(22205)83 lvl
+[09.07.25 2:47:01] '---': laique(268479611) 80 lvl did damage 9289 with skill Stunning Shot(101) to Deinonychus(22220)83 lvl
+[09.07.25 2:47:05] '---': laique(268479611) 80 lvl did damage 9260 with skill Stunning Shot(101) to Deinonychus(22204)83 lvl
+[09.07.25 2:47:07] '---': laique(268479611) 80 lvl did damage 9154 with skill Stunning Shot(101) to Deinonychus(22203)83 lvl
+[09.07.25 2:47:10] '---': laique(268479611) 80 lvl did damage 9505 with skill Stunning Shot(101) to Deinonychus(22203)83 lvl
+[09.07.25 2:47:11] '---': laique(268479611) 80 lvl did damage 9624 with skill Double Shot(19) to Deinonychus(22220)83 lvl
+[09.07.25 2:47:12] '---': laique(268479611) 80 lvl did damage 8897 with skill Stunning Shot(101) to Deinonychus(22205)83 lvl
+[09.07.25 2:47:15] '---': laique(268479611) 80 lvl did damage 8774 with skill Stunning Shot(101) to Deinonychus(22205)83 lvl
+[09.07.25 2:47:17] '---': laique(268479611) 80 lvl did damage 9735 with skill Double Shot(19) to Deinonychus(22220)83 lvl
+[09.07.25 2:47:20] '---': laique(268479611) 80 lvl did damage 9528 with skill Stunning Shot(101) to Deinonychus(22205)83 lvl
+[09.07.25 2:47:22] '---': laique(268479611) 80 lvl did damage 8978 with skill Stunning Shot(101) to Deinonychus(22204)83 lvl
+[09.07.25 2:47:24] '---': laique(268479611) 80 lvl did damage 9135 with skill Stunning Shot(101) to Deinonychus(22205)83 lvl
+[09.07.25 2:47:52] '---': laique(268479611) 80 lvl did damage 9637 with skill Double Shot(19) to Ornithomimus(22200)84 lvl
+[09.07.25 2:48:07] '---': laique(268479611) 80 lvl did damage 8956 with skill Double Shot(19) to Ornithomimus(22202)84 lvl
+[09.07.25 2:48:10] '---': laique(268479611) 80 lvl did damage 8703 with skill Stunning Shot(101) to Ornithomimus(22201)84 lvl
+[09.07.25 2:48:14] '---': laique(268479611) 80 lvl did damage 8304 with skill Stunning Shot(101) to Ornithomimus(22200)84 lvl
+[09.07.25 2:48:17] '---': laique(268479611) 80 lvl did damage 17880 with skill Double Shot(19) to Velociraptor(22197)86 lvl
+[09.07.25 2:48:18] '---': laique(268479611) 80 lvl did damage 8390 with skill Stunning Shot(101) to Velociraptor(22198)86 lvl
+[09.07.25 2:48:25] '---': laique(268479611) 80 lvl did damage 8772 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.25 2:48:27] '---': laique(268479611) 80 lvl did damage 8390 with skill Stunning Shot(101) to Ornithomimus(22202)84 lvl
+[09.07.25 2:48:33] '---': laique(268479611) 80 lvl did damage 8611 with skill Double Shot(19) to Velociraptor(22218)86 lvl
+[09.07.25 2:48:36] '---': laique(268479611) 80 lvl did damage 8088 with skill Stunning Shot(101) to Velociraptor(22196)86 lvl
+[09.07.25 2:48:38] '---': laique(268479611) 80 lvl did damage 8939 with skill Stunning Shot(101) to Ornithomimus(22219)84 lvl
+[09.07.25 2:48:47] '---': laique(268479611) 80 lvl did damage 8561 with skill Stunning Shot(101) to Velociraptor(22197)86 lvl
+[09.07.25 2:48:59] '---': laique(268479611) 80 lvl did damage 8585 with skill Stunning Shot(101) to Pterosaur(22199)87 lvl
+[09.07.25 2:49:04] '---': laique(268479611) 80 lvl did damage 8617 with skill Stunning Shot(101) to Velociraptor(22196)86 lvl
+[09.07.25 2:49:09] '---': laique(268479611) 80 lvl did damage 9426 with skill Double Shot(19) to Velociraptor(22197)86 lvl
+[09.07.25 2:49:20] '---': laique(268479611) 80 lvl did damage 8146 with skill Stunning Shot(101) to Velociraptor(22197)86 lvl
+[09.07.25 2:49:23] '---': laique(268479611) 80 lvl did damage 8731 with skill Stunning Shot(101) to Velociraptor(22218)86 lvl
+[09.07.25 2:49:26] '---': laique(268479611) 80 lvl did damage 8241 with skill Stunning Shot(101) to Ornithomimus(22201)84 lvl
+[09.07.25 2:49:28] '---': laique(268479611) 80 lvl did damage 8352 with skill Stunning Shot(101) to Ornithomimus(22200)84 lvl
+[09.07.25 2:49:31] '---': laique(268479611) 80 lvl did damage 8703 with skill Stunning Shot(101) to Velociraptor(22198)86 lvl
+[09.07.25 2:49:32] '---': laique(268479611) 80 lvl did damage 9030 with skill Double Shot(19) to Ornithomimus(22219)84 lvl
+[09.07.25 2:49:35] '---': laique(268479611) 80 lvl did damage 9370 with skill Stunning Shot(101) to Deinonychus(22204)83 lvl
+[09.07.25 2:49:38] '---': laique(268479611) 80 lvl did damage 8371 with skill Stunning Shot(101) to Ornithomimus(22202)84 lvl
+[09.07.25 2:49:39] '---': laique(268479611) 80 lvl did damage 9493 with skill Double Shot(19) to Deinonychus(22220)83 lvl
+[09.07.25 2:49:50] '---': laique(268479611) 80 lvl did damage 8326 with skill Stunning Shot(101) to Velociraptor(22218)86 lvl
+[09.07.25 2:49:52] '---': laique(268479611) 80 lvl did damage 18786 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.25 2:50:21] '---': laique(268479611) 80 lvl did damage 8698 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.25 2:50:22] '---': laique(268479611) 80 lvl did damage 8071 with skill Stunning Shot(101) to Velociraptor(22198)86 lvl
+[09.07.25 2:50:29] '---': laique(268479611) 80 lvl did damage 9508 with skill Stunning Shot(101) to Deinonychus(22203)83 lvl
+[09.07.25 2:50:42] '---': laique(268479611) 80 lvl did damage 9303 with skill Double Shot(19) to Sprigant(18345)80 lvl
+[09.07.25 2:50:47] '---': laique(268479611) 80 lvl did damage 8762 with skill Stunning Shot(101) to Velociraptor(22197)86 lvl
+[09.07.25 2:50:51] '---': laique(268479611) 80 lvl did damage 8722 with skill Stunning Shot(101) to Velociraptor(22198)86 lvl
+[09.07.25 2:50:54] '---': laique(268479611) 80 lvl did damage 17714 with skill Double Shot(19) to Velociraptor(22196)86 lvl
+[09.07.25 2:51:00] '---': laique(268479611) 80 lvl did damage 17290 with skill Double Shot(19) to Velociraptor(22218)86 lvl
+[09.07.25 2:51:03] '---': laique(268479611) 80 lvl did damage 9012 with skill Stunning Shot(101) to Deinonychus(22205)83 lvl
+[09.07.25 2:51:23] '---': laique(268479611) 80 lvl did damage 8756 with skill Stunning Shot(101) to Velociraptor(22218)86 lvl
+[09.07.25 2:51:53] '---': laique(268479611) 80 lvl did damage 9028 with skill Stunning Shot(101) to Ancient Egg(18344)80 lvl
+[09.07.25 2:51:54] '---': laique(268479611) 80 lvl did damage 9376 with skill Double Shot(19) to Velociraptor(22196)86 lvl
+[09.07.25 2:52:25] '---': laique(268479611) 80 lvl did damage 19294 with skill Double Shot(19) to Deinonychus(22203)83 lvl
+[09.07.25 2:52:27] '---': laique(268479611) 80 lvl did damage 8857 with skill Stunning Shot(101) to Deinonychus(22205)83 lvl
+[09.07.25 2:52:44] '---': laique(268479611) 80 lvl did damage 17512 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.25 2:52:48] '---': laique(268479611) 80 lvl did damage 8574 with skill Stunning Shot(101) to Velociraptor(22218)86 lvl
+[09.07.25 2:52:52] '---': laique(268479611) 80 lvl did damage 8081 with skill Stunning Shot(101) to Velociraptor(22197)86 lvl
+[09.07.25 2:53:12] '---': laique(268479611) 80 lvl did damage 8815 with skill Stunning Shot(101) to Sprigant(18346)80 lvl
+[09.07.25 2:53:14] '---': laique(268479611) 80 lvl did damage 19708 with skill Double Shot(19) to Deinonychus(22204)83 lvl
+[09.07.25 2:53:22] '---': laique(268479611) 80 lvl did damage 8840 with skill Stunning Shot(101) to Ancient Egg(18344)80 lvl
+[09.07.25 2:53:31] '---': laique(268479611) 80 lvl did damage 9425 with skill Double Shot(19) to Velociraptor(22197)86 lvl
+[09.07.25 2:53:35] '---': laique(268479611) 80 lvl did damage 8547 with skill Stunning Shot(101) to Velociraptor(22218)86 lvl
+[09.07.25 2:53:42] '---': laique(268479611) 80 lvl did damage 8332 with skill Stunning Shot(101) to Velociraptor(22198)86 lvl
+[09.07.25 2:53:46] '---': laique(268479611) 80 lvl did damage 9017 with skill Stunning Shot(101) to Deinonychus(22204)83 lvl
+[09.07.25 2:53:48] '---': laique(268479611) 80 lvl did damage 9138 with skill Stunning Shot(101) to Deinonychus(22205)83 lvl
+[09.07.25 2:54:13] '---': laique(268479611) 80 lvl did damage 8795 with skill Stunning Shot(101) to Sprigant(18346)80 lvl
+[09.07.25 2:54:27] '---': laique(268479611) 80 lvl did damage 9651 with skill Double Shot(19) to Deinonychus(22203)83 lvl
+[09.07.25 2:54:59] '---': laique(268479611) 80 lvl did damage 9066 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.25 2:54:59] '---': laique(268479611) 80 lvl did damage 8670 with skill Stunning Shot(101) to Velociraptor(22198)86 lvl
+[09.07.25 2:55:06] '---': laique(268479611) 80 lvl did damage 9579 with skill Double Shot(19) to Ornithomimus(22202)84 lvl
+[09.07.25 2:55:10] '---': laique(268479611) 80 lvl did damage 8463 with skill Stunning Shot(101) to Ornithomimus(22219)84 lvl
+[09.07.25 2:55:12] '---': laique(268479611) 80 lvl did damage 9729 with skill Double Shot(19) to Deinonychus(22203)83 lvl
+[09.07.25 2:55:17] '---': laique(268479611) 80 lvl did damage 9958 with skill Double Shot(19) to Deinonychus(22204)83 lvl
+[09.07.25 2:55:29] '---': laique(268479611) 80 lvl did damage 9155 with skill Double Shot(19) to Velociraptor(22196)86 lvl
+[09.07.25 2:55:29] '---': laique(268479611) 80 lvl did damage 8625 with skill Stunning Shot(101) to Velociraptor(22218)86 lvl
+[09.07.25 2:55:42] '---': laique(268479611) 80 lvl did damage 9286 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.25 2:55:49] '---': laique(268479611) 80 lvl did damage 8492 with skill Stunning Shot(101) to Ornithomimus(22202)84 lvl
+[09.07.25 2:55:51] '---': laique(268479611) 80 lvl did damage 8286 with skill Stunning Shot(101) to Ornithomimus(22219)84 lvl
+[09.07.25 2:55:56] '---': laique(268479611) 80 lvl did damage 8188 with skill Stunning Shot(101) to Ornithomimus(22219)84 lvl
+[09.07.25 2:56:01] '---': laique(268479611) 80 lvl did damage 17858 with skill Double Shot(19) to Ornithomimus(22201)84 lvl
+[09.07.25 2:56:03] '---': laique(268479611) 80 lvl did damage 8696 with skill Stunning Shot(101) to Ornithomimus(22202)84 lvl
+[09.07.25 2:56:29] '---': laique(268479611) 80 lvl did damage 18900 with skill Double Shot(19) to Deinonychus(22204)83 lvl
+[09.07.25 2:56:44] '---': laique(268479611) 80 lvl did damage 9993 with skill Double Shot(19) to Deinonychus(22205)83 lvl
+[09.07.25 2:56:46] '---': laique(268479611) 80 lvl did damage 8168 with skill Stunning Shot(101) to Ornithomimus(22219)84 lvl
+[09.07.25 2:56:48] '---': laique(268479611) 80 lvl did damage 8629 with skill Stunning Shot(101) to Ornithomimus(22201)84 lvl
+[09.07.25 2:56:49] '---': laique(268479611) 80 lvl did damage 9011 with skill Double Shot(19) to Ornithomimus(22202)84 lvl
+[09.07.25 2:56:56] '---': laique(268479611) 80 lvl did damage 9502 with skill Stunning Shot(101) to Deinonychus(22220)83 lvl
+[09.07.25 2:57:02] '---': laique(268479611) 80 lvl did damage 8819 with skill Stunning Shot(101) to Deinonychus(22204)83 lvl
+[09.07.25 2:57:07] '---': laique(268479611) 80 lvl did damage 8607 with skill Stunning Shot(101) to Ancient Egg(18344)80 lvl
+[09.07.25 2:57:08] '---': laique(268479611) 80 lvl did damage 9111 with skill Double Shot(19) to Sprigant(18345)80 lvl
+[09.07.25 2:57:13] '---': laique(268479611) 80 lvl did damage 9391 with skill Stunning Shot(101) to Deinonychus(22220)83 lvl
+[09.07.25 2:57:26] '---': laique(268479611) 80 lvl did damage 8278 with skill Stunning Shot(101) to Ornithomimus(22219)84 lvl
+[09.07.25 2:57:27] '---': laique(268479611) 80 lvl did damage 8986 with skill Double Shot(19) to Sprigant(18346)80 lvl
+[09.07.25 2:57:28] '---': laique(268479611) 80 lvl did damage 8314 with skill Stunning Shot(101) to Ornithomimus(22200)84 lvl
+[09.07.25 2:57:30] '---': laique(268479611) 80 lvl did damage 8270 with skill Stunning Shot(101) to Ornithomimus(22201)84 lvl
+[09.07.25 2:57:35] '---': laique(268479611) 80 lvl did damage 8868 with skill Stunning Shot(101) to Deinonychus(22220)83 lvl
+[09.07.25 2:57:37] '---': laique(268479611) 80 lvl did damage 8886 with skill Double Shot(19) to Ornithomimus(22200)84 lvl
+[09.07.25 2:57:49] '---': laique(268479611) 80 lvl did damage 9630 with skill Double Shot(19) to Deinonychus(22203)83 lvl
+[09.07.25 2:57:51] '---': laique(268479611) 80 lvl did damage 8815 with skill Stunning Shot(101) to Deinonychus(22220)83 lvl
+[09.07.25 2:57:53] '---': laique(268479611) 80 lvl did damage 9206 with skill Stunning Shot(101) to Deinonychus(22204)83 lvl
+[09.07.25 2:58:21] '---': laique(268479611) 80 lvl did damage 9075 with skill Double Shot(19) to Ornithomimus(22202)84 lvl
+[09.07.25 2:58:22] '---': laique(268479611) 80 lvl did damage 8727 with skill Stunning Shot(101) to Ornithomimus(22219)84 lvl
+[09.07.25 2:58:28] '---': laique(268479611) 80 lvl did damage 9478 with skill Double Shot(19) to Deinonychus(22220)83 lvl
+[09.07.25 2:58:31] '---': laique(268479611) 80 lvl did damage 8778 with skill Stunning Shot(101) to Deinonychus(22205)83 lvl
+[09.07.25 2:58:42] '---': laique(268479611) 80 lvl did damage 8174 with skill Stunning Shot(101) to Velociraptor(22196)86 lvl
+[09.07.25 2:58:43] '---': laique(268479611) 80 lvl did damage 17488 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.25 2:58:51] '---': laique(268479611) 80 lvl did damage 9020 with skill Double Shot(19) to Ornithomimus(22200)84 lvl
+[09.07.25 2:58:55] '---': laique(268479611) 80 lvl did damage 8555 with skill Stunning Shot(101) to Ornithomimus(22219)84 lvl
+[09.07.25 2:59:03] '---': laique(268479611) 80 lvl did damage 8439 with skill Stunning Shot(101) to Velociraptor(22198)86 lvl
+[09.07.25 2:59:04] '---': laique(268479611) 80 lvl did damage 9344 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.25 2:59:06] '---': laique(268479611) 80 lvl did damage 8701 with skill Stunning Shot(101) to Velociraptor(22218)86 lvl
+[09.07.25 2:59:10] '---': laique(268479611) 80 lvl did damage 9034 with skill Double Shot(19) to Velociraptor(22197)86 lvl
+[09.07.25 2:59:12] '---': laique(268479611) 80 lvl did damage 8504 with skill Stunning Shot(101) to Velociraptor(22196)86 lvl
+[09.07.25 2:59:22] '---': laique(268479611) 80 lvl did damage 9346 with skill Double Shot(19) to Velociraptor(22197)86 lvl
+[09.07.25 2:59:25] '---': laique(268479611) 80 lvl did damage 8218 with skill Stunning Shot(101) to Velociraptor(22198)86 lvl
+[09.07.25 2:59:28] '---': laique(268479611) 80 lvl did damage 8257 with skill Stunning Shot(101) to Velociraptor(22218)86 lvl
+[09.07.25 3:00:09] '---': laique(268479611) 80 lvl did damage 9190 with skill Double Shot(19) to Sprigant(18346)80 lvl
+[09.07.25 3:00:28] '---': laique(268479611) 80 lvl did damage 9368 with skill Stunning Shot(101) to Deinonychus(22205)83 lvl
+[09.07.25 3:00:59] '---': laique(268479611) 80 lvl did damage 17846 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.25 3:01:06] '---': laique(268479611) 80 lvl did damage 8698 with skill Double Shot(19) to Velociraptor(22196)86 lvl
+[09.07.25 3:01:20] '---': laique(268479611) 80 lvl did damage 9037 with skill Double Shot(19) to Velociraptor(22218)86 lvl
+[09.07.25 3:01:30] '---': laique(268479611) 80 lvl did damage 8684 with skill Double Shot(19) to Velociraptor(22196)86 lvl
+[09.07.25 3:01:42] '---': laique(268479611) 80 lvl did damage 18448 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.25 3:01:52] '---': laique(268479611) 80 lvl did damage 8886 with skill Stunning Shot(101) to Ornithomimus(22200)84 lvl
+[09.07.25 3:02:05] '---': laique(268479611) 80 lvl did damage 8316 with skill Stunning Shot(101) to Velociraptor(22218)86 lvl
+[09.07.25 3:02:09] '---': laique(268479611) 80 lvl did damage 9421 with skill Double Shot(19) to Velociraptor(22196)86 lvl
+[09.07.25 3:02:28] '---': laique(268479611) 80 lvl did damage 8990 with skill Double Shot(19) to Sprigant(18346)80 lvl
+[09.07.25 3:02:50] '---': laique(268479611) 80 lvl did damage 8189 with skill Stunning Shot(101) to Velociraptor(22197)86 lvl
+[09.07.25 3:02:54] '---': laique(268479611) 80 lvl did damage 8811 with skill Double Shot(19) to Velociraptor(22196)86 lvl
+[09.07.25 3:02:55] '---': laique(268479611) 80 lvl did damage 8643 with skill Stunning Shot(101) to Velociraptor(22196)86 lvl
+[09.07.25 3:03:03] '---': laique(268479611) 80 lvl did damage 8164 with skill Stunning Shot(101) to Ornithomimus(22201)84 lvl
+[09.07.25 3:03:05] '---': laique(268479611) 80 lvl did damage 8451 with skill Stunning Shot(101) to Ornithomimus(22200)84 lvl
+[09.07.25 3:03:09] '---': laique(268479611) 80 lvl did damage 8801 with skill Double Shot(19) to Ornithomimus(22202)84 lvl
+[09.07.25 3:03:20] '---': laique(268479611) 80 lvl did damage 8913 with skill Stunning Shot(101) to Ornithomimus(22200)84 lvl
+[09.07.25 3:14:18] '---': laique(268479611) 80 lvl did damage 19094 with skill Double Shot(19) to Velociraptor(22196)86 lvl
+[09.07.25 3:14:35] '---': laique(268479611) 80 lvl did damage 9645 with skill Double Shot(19) to Velociraptor(22198)86 lvl
+[09.07.25 3:14:36] '---': laique(268479611) 80 lvl did damage 8903 with skill Stunning Shot(101) to Pterosaur(22199)87 lvl
+[09.07.25 3:14:45] '---': laique(268479611) 80 lvl did damage 9268 with skill Stunning Shot(101) to Velociraptor(22198)86 lvl
+[09.07.25 3:28:34] '---': laique(268479611) 80 lvl did damage 6316 with skill Double Shot(19) to Especial Mob Drop 2(21581)85 lvl
+[09.07.25 3:34:48] '---': laique(268479611) 80 lvl did damage 9190 with skill Stunning Shot(101) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 3:53:01] '---': laique(268479611) 80 lvl did damage 11385 with skill Stunning Shot(101) to Ketra Orc Warrior(21331)80 lvl
+[09.07.25 4:12:39] '---': laique(268479611) 80 lvl did damage 9279 with skill Stunning Shot(101) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 4:13:09] '---': laique(268479611) 80 lvl did damage 9092 with skill Stunning Shot(101) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.25 4:13:52] '---': laique(268479611) 80 lvl did damage 13561 with skill Double Shot(19) to Ketra Orc Raider(21327)78 lvl
+[09.07.25 9:22:15] '---': laique(268479611) 80 lvl did damage 6264 with skill Double Shot(19) to Especial Mob Drop 2(21581)85 lvl
+[09.07.25 10:01:21] '---': laique(268479611) 80 lvl did damage 9198 with skill Stunning Shot(101) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.25 10:02:10] '---': laique(268479611) 80 lvl did damage 9133 with skill Stunning Shot(101) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.25 12:03:13] '---': MichaelJackson(268483095) 80 lvl did damage 11778 with skill Raging Force(346) to Malruk Succubus Turen(20245)56 lvl
+[09.07.25 12:03:33] '---': MichaelJackson(268483095) 80 lvl did damage 11909 with skill Raging Force(346) to Dragon Bearer Chief(20758)49 lvl
+[09.07.25 12:03:35] '---': MichaelJackson(268483095) 80 lvl did damage 31256 with skill Raging Force(346) to Dragon Bearer Warrior(20759)48 lvl
+[09.07.25 12:03:38] '---': MichaelJackson(268483095) 80 lvl did damage 13030 with skill Raging Force(346) to Dragon Bearer Archer(20760)47 lvl
+[09.07.25 12:04:07] '---': MichaelJackson(268483095) 80 lvl did damage 12332 with skill Raging Force(346) to Malruk Succubus Turen(20245)56 lvl
+[09.07.25 12:04:56] '---': MichaelJackson(268483095) 80 lvl did damage 12309 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 12:05:24] '---': MichaelJackson(268483095) 80 lvl did damage 13973 with skill Soul Breaker(281) to Malruk Succubus(20244)55 lvl
+[09.07.25 12:05:37] '---': MichaelJackson(268483095) 80 lvl did damage 24326 with skill Raging Force(346) to Malruk Succubus(20244)55 lvl
+[09.07.25 12:05:58] '---': MichaelJackson(268483095) 80 lvl did damage 12304 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 12:06:31] '---': MichaelJackson(268483095) 80 lvl did damage 12432 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 12:06:32] '---': MichaelJackson(268483095) 80 lvl did damage 24744 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 12:06:36] '---': MichaelJackson(268483095) 80 lvl did damage 12462 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 12:07:50] '---': MichaelJackson(268483095) 80 lvl did damage 13085 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 12:09:05] '---': MichaelJackson(268483095) 80 lvl did damage 25544 with skill Raging Force(346) to Malruk Succubus(20244)55 lvl
+[09.07.25 12:09:12] '---': MichaelJackson(268483095) 80 lvl did damage 12477 with skill Raging Force(346) to Malruk Succubus(20244)55 lvl
+[09.07.25 12:09:13] '---': MichaelJackson(268483095) 80 lvl did damage 12927 with skill Raging Force(346) to Malruk Succubus(20244)55 lvl
+[09.07.25 12:09:13] '---': MichaelJackson(268483095) 80 lvl did damage 26212 with skill Raging Force(346) to Malruk Succubus(20244)55 lvl
+[09.07.25 12:09:33] '---': MichaelJackson(268483095) 80 lvl did damage 13887 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 12:10:27] '---': MichaelJackson(268483095) 80 lvl did damage 13966 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 12:11:20] '---': MichaelJackson(268483095) 80 lvl did damage 12425 with skill Raging Force(346) to Malruk Succubus(20244)55 lvl
+[09.07.25 12:12:31] '---': MichaelJackson(268483095) 80 lvl did damage 13592 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 12:14:31] '---': MichaelJackson(268483095) 80 lvl did damage 12812 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 12:14:55] '---': MichaelJackson(268483095) 80 lvl did damage 13098 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 12:15:09] '---': MichaelJackson(268483095) 80 lvl did damage 12998 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 12:15:12] '---': MichaelJackson(268483095) 80 lvl did damage 13316 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 12:15:29] '---': MichaelJackson(268483095) 80 lvl did damage 25030 with skill Raging Force(346) to Malruk Succubus(20244)55 lvl
+[09.07.25 12:16:19] '---': MichaelJackson(268483095) 80 lvl did damage 13025 with skill Raging Force(346) to Thunder Wyrm(20243)54 lvl
+[09.07.25 12:36:25] '---': MichaelJackson(268483095) 80 lvl did damage 8921 with skill Raging Force(346) to Needle Stakato(21513)70 lvl
+[09.07.25 12:40:07] '---': MichaelJackson(268483095) 80 lvl did damage 7919 with skill Raging Force(346) to Splinter Stakato Drone(21511)69 lvl
+[09.07.25 13:48:32] '---': laique(268479611) 80 lvl did damage 11816 with skill Double Shot(19) to Lesser Ancient Scout(21162)74 lvl
+[09.07.25 13:49:05] '---': laique(268479611) 80 lvl did damage 13908 with skill Stunning Shot(101) to Crypt Preacher(21253)72 lvl
+[09.07.25 13:49:13] '---': laique(268479611) 80 lvl did damage 10458 with skill Stunning Shot(101) to Lesser Ancient Scout(21162)74 lvl
+[09.07.25 13:49:20] '---': laique(268479611) 80 lvl did damage 13075 with skill Stunning Shot(101) to Crypt Preacher(21253)72 lvl
+[09.07.25 13:49:52] '---': laique(268479611) 80 lvl did damage 10578 with skill Stunning Shot(101) to Lesser Ancient Scout(21162)74 lvl
+[09.07.25 13:51:10] '---': laique(268479611) 80 lvl did damage 11022 with skill Stunning Shot(101) to Lesser Ancient Scout(21162)74 lvl
+[09.07.25 13:51:12] '---': laique(268479611) 80 lvl did damage 7688 with skill Stunning Shot(101) to Lilim Slayer(21184)75 lvl
+[09.07.25 13:51:16] '---': laique(268479611) 80 lvl did damage 14059 with skill Double Shot(19) to Crypt Preacher(21253)72 lvl
+[09.07.25 13:51:23] '---': laique(268479611) 80 lvl did damage 7670 with skill Stunning Shot(101) to Lilim Slayer(21184)75 lvl
+[09.07.25 13:51:44] '---': laique(268479611) 80 lvl did damage 13555 with skill Stunning Shot(101) to Crypt Preacher(21253)72 lvl
+[09.07.25 13:52:03] '---': laique(268479611) 80 lvl did damage 13653 with skill Stunning Shot(101) to Crypt Preacher(21253)72 lvl
+[09.07.25 13:52:52] '---': laique(268479611) 80 lvl did damage 7390 with skill Stunning Shot(101) to Lilim Slayer(21184)75 lvl
+[09.07.25 13:53:17] '---': laique(268479611) 80 lvl did damage 13419 with skill Stunning Shot(101) to Crypt Preacher(21253)72 lvl
+[09.07.25 13:53:41] '---': laique(268479611) 80 lvl did damage 13906 with skill Stunning Shot(101) to Crypt Preacher(21253)72 lvl
+[09.07.25 13:53:58] '---': laique(268479611) 80 lvl did damage 12483 with skill Stunning Shot(101) to Nephilim Cardinal(21206)78 lvl
+[09.07.25 13:54:06] '---': laique(268479611) 80 lvl did damage 12130 with skill Stunning Shot(101) to Lilim Great Mystic(21185)78 lvl
+[09.07.25 13:54:14] '---': laique(268479611) 80 lvl did damage 14028 with skill Double Shot(19) to Lesser Ancient Shaman(21163)76 lvl
+[09.07.25 13:55:27] '---': laique(268479611) 80 lvl did damage 9613 with skill Stunning Shot(101) to Tomb Preacher(21255)77 lvl
+[09.07.25 13:55:34] '---': laique(268479611) 80 lvl did damage 6301 with skill Double Shot(19) to Lilim Court Knight(21186)80 lvl
+[09.07.25 13:55:59] '---': laique(268479611) 80 lvl did damage 9640 with skill Stunning Shot(101) to Lesser Ancient Warrior(21165)80 lvl
+[09.07.25 13:56:01] '---': laique(268479611) 80 lvl did damage 6106 with skill Stunning Shot(101) to Lilim Court Knight(21186)80 lvl
+[09.07.25 13:56:05] '---': laique(268479611) 80 lvl did damage 9682 with skill Stunning Shot(101) to Tomb Preacher(21255)77 lvl
+[09.07.25 13:56:09] '---': laique(268479611) 80 lvl did damage 5875 with skill Stunning Shot(101) to Nephilim Commander(21207)80 lvl
+[09.07.25 13:56:13] '---': laique(268479611) 80 lvl did damage 9616 with skill Stunning Shot(101) to Lesser Ancient Warrior(21165)80 lvl
+[09.07.25 13:56:54] '---': laique(268479611) 80 lvl did damage 6067 with skill Stunning Shot(101) to Lilim Court Knight(21186)80 lvl
+[09.07.25 13:56:59] '---': laique(268479611) 80 lvl did damage 9547 with skill Stunning Shot(101) to Tomb Preacher(21255)77 lvl
+[09.07.25 13:57:02] '---': laique(268479611) 80 lvl did damage 9428 with skill Stunning Shot(101) to Lesser Ancient Warrior(21165)80 lvl
+[09.07.25 13:57:08] '---': laique(268479611) 80 lvl did damage 5633 with skill Stunning Shot(101) to Lilim Court Knight(21186)80 lvl
+[09.07.25 13:57:25] '---': laique(268479611) 80 lvl did damage 6050 with skill Stunning Shot(101) to Lilim Court Knight(21186)80 lvl
+[09.07.25 13:58:48] '---': laique(268479611) 80 lvl did damage 9514 with skill Stunning Shot(101) to Lesser Ancient Warrior(21165)80 lvl
+[09.07.25 13:58:56] '---': laique(268479611) 80 lvl did damage 9996 with skill Stunning Shot(101) to Tomb Preacher(21255)77 lvl
+[09.07.25 13:59:00] '---': laique(268479611) 80 lvl did damage 5626 with skill Stunning Shot(101) to Nephilim Commander(21207)80 lvl
+[09.07.25 13:59:17] '---': laique(268479611) 80 lvl did damage 9778 with skill Double Shot(19) to Lesser Ancient Warrior(21165)80 lvl
+[09.07.25 13:59:34] '---': laique(268479611) 80 lvl did damage 9701 with skill Stunning Shot(101) to Tomb Preacher(21255)77 lvl
+[09.07.25 14:00:04] '---': laique(268479611) 80 lvl did damage 5709 with skill Stunning Shot(101) to Lilim Court Knight(21186)80 lvl
+[09.07.25 14:00:21] '---': laique(268479611) 80 lvl did damage 12549 with skill Stunning Shot(101) to Nephilim Cardinal(21206)78 lvl
+[09.07.25 14:00:41] '---': laique(268479611) 80 lvl did damage 11610 with skill Stunning Shot(101) to Lilim Great Mystic(21185)78 lvl
+[09.07.25 14:00:54] '---': laique(268479611) 80 lvl did damage 13120 with skill Double Shot(19) to Tomb Guard(21254)75 lvl
+[09.07.25 14:00:55] '---': laique(268479611) 80 lvl did damage 13384 with skill Stunning Shot(101) to Lesser Ancient Shaman(21163)76 lvl
+[09.07.25 14:01:09] '---': laique(268479611) 80 lvl did damage 13623 with skill Stunning Shot(101) to Lesser Ancient Shaman(21163)76 lvl
+[09.07.25 14:01:19] '---': laique(268479611) 80 lvl did damage 13320 with skill Stunning Shot(101) to Crypt Preacher(21253)72 lvl
+[09.07.25 14:02:03] '---': laique(268479611) 80 lvl did damage 7688 with skill Stunning Shot(101) to Nephilim Royal Guard(21205)75 lvl
+[09.07.25 14:02:08] '---': laique(268479611) 80 lvl did damage 7396 with skill Stunning Shot(101) to Lilim Slayer(21184)75 lvl
+[09.07.25 14:02:35] '---': laique(268479611) 80 lvl did damage 7740 with skill Stunning Shot(101) to Nephilim Royal Guard(21205)75 lvl
+[09.07.25 14:02:42] '---': laique(268479611) 80 lvl did damage 13719 with skill Stunning Shot(101) to Crypt Preacher(21253)72 lvl
+[09.07.25 14:04:03] '---': laique(268479611) 80 lvl did damage 10935 with skill Stunning Shot(101) to Lesser Ancient Scout(21162)74 lvl
+[09.07.25 14:05:26] '---': laique(268479611) 80 lvl did damage 90301 with skill Stunning Shot(101) to Blood Fungus(20400)12 lvl
+[09.07.25 14:05:30] '---': laique(268479611) 80 lvl did damage 94623 with skill Double Shot(19) to Blood Fungus(20400)12 lvl
+[09.07.25 14:27:53] '---': laique(268479611) 80 lvl did damage 10420 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.25 14:27:56] '---': laique(268479611) 80 lvl did damage 19970 with skill Double Shot(19) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 14:28:05] '---': laique(268479611) 80 lvl did damage 8544 with skill Stunning Shot(101) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 14:28:09] '---': laique(268479611) 80 lvl did damage 9570 with skill Double Shot(19) to Ketra Prophet(21347)80 lvl
+[09.07.25 14:28:16] '---': laique(268479611) 80 lvl did damage 9211 with skill Stunning Shot(101) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 14:28:22] '---': laique(268479611) 80 lvl did damage 12038 with skill Double Shot(19) to Ketra Orc General(21339)80 lvl
+[09.07.25 14:28:28] '---': laique(268479611) 80 lvl did damage 10928 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.25 14:28:44] '---': laique(268479611) 80 lvl did damage 10674 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.25 14:55:00] '---': laique(268479611) 80 lvl did damage 8416 with skill Stunning Shot(101) to Grazing Buffalo(21330)79 lvl
+[09.07.25 14:56:25] '---': laique(268479611) 80 lvl did damage 12191 with skill Stunning Shot(101) to Ketra Orc Raider(21327)78 lvl
+[09.07.25 15:34:19] '---': laique(268479611) 80 lvl did damage 9004 with skill Stunning Shot(101) to Grazing Buffalo(21330)79 lvl
+[09.07.25 15:35:17] '---': laique(268479611) 80 lvl did damage 10158 with skill Stunning Shot(101) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 15:35:20] '---': laique(268479611) 80 lvl did damage 9336 with skill Stunning Shot(101) to Ketra Prophet(21347)80 lvl
+[09.07.25 15:35:35] '---': laique(268479611) 80 lvl did damage 9835 with skill Stunning Shot(101) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 15:36:24] '---': laique(268479611) 80 lvl did damage 12486 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.25 15:36:47] '---': laique(268479611) 80 lvl did damage 9039 with skill Stunning Shot(101) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.25 16:00:53] '---': Killer(268479137) 80 lvl did damage 5054 with skill Shock Blast(361) to Deinonychus(22203)83 lvl
+[09.07.25 16:00:53] '---': Killer(268479137) 80 lvl did damage 5050 with skill Shock Blast(361) to Deinonychus(22205)83 lvl
+[09.07.25 16:00:53] '---': Killer(268479137) 80 lvl did damage 5072 with skill Shock Blast(361) to Deinonychus(22203)83 lvl
+[09.07.25 16:08:24] '---': laique(268479611) 80 lvl did damage 9442 with skill Stunning Shot(101) to Ketra's Head Guard(21346)80 lvl
+[09.07.25 16:08:43] '---': laique(268479611) 80 lvl did damage 13830 with skill Stunning Shot(101) to Ketra Orc Medium(21334)80 lvl
+[09.07.25 16:09:50] '---': laique(268479611) 80 lvl did damage 14114 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:09:53] '---': laique(268479611) 80 lvl did damage 11418 with skill Double Shot(19) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:10:52] '---': laique(268479611) 80 lvl did damage 11248 with skill Stunning Shot(101) to Prophet's Aide(21349)80 lvl
+[09.07.25 16:11:08] '---': laique(268479611) 80 lvl did damage 11165 with skill Double Shot(19) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:11:10] '---': laique(268479611) 80 lvl did damage 13261 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:11:43] '---': laique(268479611) 80 lvl did damage 11118 with skill Stunning Shot(101) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 16:12:22] '---': laique(268479611) 80 lvl did damage 22976 with skill Double Shot(19) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 16:13:26] '---': laique(268479611) 80 lvl did damage 10536 with skill Stunning Shot(101) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.25 16:14:29] '---': laique(268479611) 80 lvl did damage 14010 with skill Stunning Shot(101) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:15:06] '---': Chuk(268487592) 80 lvl did damage 12046 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:16:58] '---': Chuk(268487592) 80 lvl did damage 11699 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:17:00] '---': Chuk(268487592) 80 lvl did damage 23720 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:17:03] '---': Chuk(268487592) 80 lvl did damage 11845 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:17:07] '---': Chuk(268487592) 80 lvl did damage 20080 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:17:08] '---': Chuk(268487592) 80 lvl did damage 10329 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 16:17:11] '---': Chuk(268487592) 80 lvl did damage 9502 with skill Sonic Rage(345) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.25 16:17:14] '---': Chuk(268487592) 80 lvl did damage 9800 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:17:18] '---': Chuk(268487592) 80 lvl did damage 19588 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:17:20] '---': Chuk(268487592) 80 lvl did damage 10404 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 16:17:42] '---': Chuk(268487592) 80 lvl did damage 9167 with skill Sonic Rage(345) to Prophet's Guard(21348)80 lvl
+[09.07.25 16:17:43] '---': Chuk(268487592) 80 lvl did damage 9433 with skill Sonic Rage(345) to Prophet's Guard(21348)80 lvl
+[09.07.25 16:17:45] '---': Chuk(268487592) 80 lvl did damage 18546 with skill Sonic Rage(345) to Prophet's Aide(21349)80 lvl
+[09.07.25 16:17:47] '---': Chuk(268487592) 80 lvl did damage 9188 with skill Sonic Rage(345) to Ketra Prophet(21347)80 lvl
+[09.07.25 16:17:48] '---': Chuk(268487592) 80 lvl did damage 9129 with skill Sonic Rage(345) to Ketra Prophet(21347)80 lvl
+[09.07.25 16:18:26] '---': Chuk(268487592) 80 lvl did damage 24852 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:18:28] '---': Chuk(268487592) 80 lvl did damage 9927 with skill Sonic Rage(345) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.25 16:25:52] '---': Chuk(268487592) 80 lvl did damage 23868 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:25:55] '---': Chuk(268487592) 80 lvl did damage 11364 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:25:58] '---': Chuk(268487592) 80 lvl did damage 9982 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 16:26:01] '---': Chuk(268487592) 80 lvl did damage 9862 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 16:26:04] '---': Chuk(268487592) 80 lvl did damage 11770 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:26:05] '---': Chuk(268487592) 80 lvl did damage 9586 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:26:07] '---': Chuk(268487592) 80 lvl did damage 9630 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:26:10] '---': Chuk(268487592) 80 lvl did damage 11494 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:26:11] '---': Chuk(268487592) 80 lvl did damage 11751 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:26:13] '---': Chuk(268487592) 80 lvl did damage 9726 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 16:26:14] '---': Chuk(268487592) 80 lvl did damage 11586 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:26:16] '---': Chuk(268487592) 80 lvl did damage 9745 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:26:20] '---': Chuk(268487592) 80 lvl did damage 9982 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 16:26:22] '---': Chuk(268487592) 80 lvl did damage 9149 with skill Sonic Rage(345) to Prophet's Guard(21348)80 lvl
+[09.07.25 16:26:23] '---': Chuk(268487592) 80 lvl did damage 9588 with skill Sonic Rage(345) to Prophet's Guard(21348)80 lvl
+[09.07.25 16:26:24] '---': Chuk(268487592) 80 lvl did damage 8943 with skill Sonic Rage(345) to Ketra Prophet(21347)80 lvl
+[09.07.25 16:26:37] '---': Chuk(268487592) 80 lvl did damage 11774 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:26:39] '---': Chuk(268487592) 80 lvl did damage 12266 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:26:45] '---': Chuk(268487592) 80 lvl did damage 10019 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:30:55] '---': Chuk(268487592) 80 lvl did damage 11276 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:30:58] '---': Chuk(268487592) 80 lvl did damage 23874 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:31:00] '---': Chuk(268487592) 80 lvl did damage 9841 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 16:31:02] '---': Chuk(268487592) 80 lvl did damage 24038 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:31:05] '---': Chuk(268487592) 80 lvl did damage 9892 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:31:10] '---': Chuk(268487592) 80 lvl did damage 9606 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:31:10] '---': Chuk(268487592) 80 lvl did damage 9751 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:31:11] '---': Chuk(268487592) 80 lvl did damage 10188 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 16:31:13] '---': Chuk(268487592) 80 lvl did damage 9397 with skill Sonic Rage(345) to Prophet's Aide(21349)80 lvl
+[09.07.25 16:31:15] '---': Chuk(268487592) 80 lvl did damage 9000 with skill Sonic Rage(345) to Ketra Prophet(21347)80 lvl
+[09.07.25 16:31:17] '---': Chuk(268487592) 80 lvl did damage 9892 with skill Sonic Rage(345) to Prophet's Guard(21348)80 lvl
+[09.07.25 16:31:19] '---': Chuk(268487592) 80 lvl did damage 9617 with skill Sonic Rage(345) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.25 16:31:22] '---': Chuk(268487592) 80 lvl did damage 22904 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:31:24] '---': Chuk(268487592) 80 lvl did damage 11310 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:31:29] '---': Chuk(268487592) 80 lvl did damage 12294 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:31:30] '---': Chuk(268487592) 80 lvl did damage 9643 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:31:32] '---': Chuk(268487592) 80 lvl did damage 9129 with skill Sonic Rage(345) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.25 16:31:33] '---': Chuk(268487592) 80 lvl did damage 9800 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:31:35] '---': Chuk(268487592) 80 lvl did damage 10000 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:31:36] '---': Chuk(268487592) 80 lvl did damage 9851 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 16:31:39] '---': Chuk(268487592) 80 lvl did damage 9637 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 16:31:41] '---': Chuk(268487592) 80 lvl did damage 12015 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:31:43] '---': Chuk(268487592) 80 lvl did damage 11764 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:31:44] '---': Chuk(268487592) 80 lvl did damage 23450 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:49:20] '---': MichaelJackson(268483095) 80 lvl did damage 7565 with skill Raging Force(346) to Needle Stakato Drone(21516)73 lvl
+[09.07.25 16:49:23] '---': MichaelJackson(268483095) 80 lvl did damage 6960 with skill Raging Force(346) to Needle Stakato Drone(21516)73 lvl
+[09.07.25 16:51:48] '---': Chuk(268487592) 80 lvl did damage 12351 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:51:51] '---': Chuk(268487592) 80 lvl did damage 12390 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:51:52] '---': Chuk(268487592) 80 lvl did damage 11500 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:51:57] '---': Chuk(268487592) 80 lvl did damage 9544 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 16:51:59] '---': Chuk(268487592) 80 lvl did damage 9783 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:52:06] '---': Chuk(268487592) 80 lvl did damage 9433 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:52:07] '---': Chuk(268487592) 80 lvl did damage 9944 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:52:08] '---': Chuk(268487592) 80 lvl did damage 9825 with skill Sonic Rage(345) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.25 16:52:11] '---': Chuk(268487592) 80 lvl did damage 9758 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:52:12] '---': Chuk(268487592) 80 lvl did damage 9807 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 16:52:15] '---': Chuk(268487592) 80 lvl did damage 12274 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:52:16] '---': Chuk(268487592) 80 lvl did damage 10321 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 16:52:17] '---': Chuk(268487592) 80 lvl did damage 12231 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:52:18] '---': Chuk(268487592) 80 lvl did damage 11906 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 16:52:21] '---': Chuk(268487592) 80 lvl did damage 18946 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:52:25] '---': Chuk(268487592) 80 lvl did damage 9509 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 16:52:26] '---': Chuk(268487592) 80 lvl did damage 9600 with skill Sonic Rage(345) to Prophet's Guard(21348)80 lvl
+[09.07.25 16:52:27] '---': Chuk(268487592) 80 lvl did damage 19158 with skill Sonic Rage(345) to Prophet's Guard(21348)80 lvl
+[09.07.25 16:52:33] '---': Chuk(268487592) 80 lvl did damage 20278 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 16:52:39] '---': Chuk(268487592) 80 lvl did damage 9680 with skill Sonic Rage(345) to Prophet's Aide(21349)80 lvl
+[09.07.25 17:11:25] '---': MichaelJackson(268483095) 80 lvl did damage 9872 with skill Raging Force(346) to Flash of Splendor(21523)61 lvl
+[09.07.25 17:11:39] '---': MichaelJackson(268483095) 80 lvl did damage 17874 with skill Raging Force(346) to Restrainer of Glory(27317)70 lvl
+[09.07.25 17:11:40] '---': MichaelJackson(268483095) 80 lvl did damage 9309 with skill Raging Force(346) to Restrainer of Glory(27317)70 lvl
+[09.07.25 17:11:46] '---': MichaelJackson(268483095) 80 lvl did damage 18920 with skill Raging Force(346) to Restrainer of Glory(27317)70 lvl
+[09.07.25 17:11:47] '---': MichaelJackson(268483095) 80 lvl did damage 9074 with skill Raging Force(346) to Restrainer of Glory(27317)70 lvl
+[09.07.25 17:32:01] '---': MichaelJackson(268483095) 80 lvl did damage 10345 with skill Raging Force(346) to Flash of Splendor(21523)61 lvl
+[09.07.25 17:34:06] '---': MichaelJackson(268483095) 80 lvl did damage 12225 with skill Soul Breaker(281) to Pilgrim of Splendor(21541)63 lvl
+[09.07.25 17:34:21] '---': Chuk(268487592) 80 lvl did damage 11549 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 17:34:23] '---': Chuk(268487592) 80 lvl did damage 10713 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 17:34:25] '---': Chuk(268487592) 80 lvl did damage 23380 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 17:34:26] '---': Chuk(268487592) 80 lvl did damage 9427 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 17:34:28] '---': Chuk(268487592) 80 lvl did damage 9633 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 17:34:30] '---': Chuk(268487592) 80 lvl did damage 8838 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 17:34:31] '---': Chuk(268487592) 80 lvl did damage 17658 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 17:34:32] '---': Chuk(268487592) 80 lvl did damage 11005 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 17:34:57] '---': Chuk(268487592) 80 lvl did damage 8612 with skill Sonic Rage(345) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.25 17:34:58] '---': Chuk(268487592) 80 lvl did damage 8587 with skill Sonic Rage(345) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.25 17:34:59] '---': Chuk(268487592) 80 lvl did damage 8554 with skill Sonic Rage(345) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.25 17:34:59] '---': Chuk(268487592) 80 lvl did damage 17220 with skill Sonic Rage(345) to Grazing Elder Kookaburra(21341)80 lvl
+[09.07.25 17:59:11] '---': Nyvia(268485478) 76 lvl did damage 7497 with skill Judgment(401) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 18:16:00] '---': Chuk(268487592) 80 lvl did damage 6286 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 18:16:03] '---': Chuk(268487592) 80 lvl did damage 6119 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 18:16:04] '---': Chuk(268487592) 80 lvl did damage 6217 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 18:16:07] '---': Chuk(268487592) 80 lvl did damage 5991 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 18:16:08] '---': Chuk(268487592) 80 lvl did damage 6089 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 18:16:11] '---': Chuk(268487592) 80 lvl did damage 12810 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 18:16:16] '---': Chuk(268487592) 80 lvl did damage 5132 with skill Sonic Rage(345) to Prophet's Guard(21348)80 lvl
+[09.07.25 18:16:22] '---': Chuk(268487592) 80 lvl did damage 10214 with skill Sonic Rage(345) to Prophet's Aide(21349)80 lvl
+[09.07.25 18:16:23] '---': Chuk(268487592) 80 lvl did damage 20264 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 18:16:25] '---': Chuk(268487592) 80 lvl did damage 10192 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 18:16:26] '---': Chuk(268487592) 80 lvl did damage 9832 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 18:16:28] '---': Chuk(268487592) 80 lvl did damage 11836 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 18:16:31] '---': Chuk(268487592) 80 lvl did damage 10584 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 18:16:32] '---': Chuk(268487592) 80 lvl did damage 12254 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 18:16:33] '---': Chuk(268487592) 80 lvl did damage 12654 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 18:36:10] '---': Nyvia(268485478) 78 lvl did damage 11172 with skill Judgment(401) to Ketra Orc Medium(21334)80 lvl
+[09.07.25 18:53:45] '---': Chuk(268487592) 80 lvl did damage 11709 with skill Sonic Rage(345) to 76 lvl
+[09.07.25 19:06:07] '---': Chuk(268487592) 80 lvl did damage 12353 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 19:06:09] '---': Chuk(268487592) 80 lvl did damage 10321 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 19:06:11] '---': Chuk(268487592) 80 lvl did damage 9670 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 19:06:14] '---': Chuk(268487592) 80 lvl did damage 11817 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 19:06:18] '---': Chuk(268487592) 80 lvl did damage 10455 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 19:06:19] '---': Chuk(268487592) 80 lvl did damage 9744 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 19:06:25] '---': Chuk(268487592) 80 lvl did damage 9318 with skill Sonic Rage(345) to Prophet's Guard(21348)80 lvl
+[09.07.25 19:06:26] '---': Chuk(268487592) 80 lvl did damage 9941 with skill Sonic Rage(345) to Ketra Prophet(21347)80 lvl
+[09.07.25 19:06:27] '---': Chuk(268487592) 80 lvl did damage 10048 with skill Sonic Rage(345) to Prophet's Aide(21349)80 lvl
+[09.07.25 19:06:29] '---': Chuk(268487592) 80 lvl did damage 10097 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 19:06:30] '---': Chuk(268487592) 80 lvl did damage 20384 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 19:06:32] '---': Chuk(268487592) 80 lvl did damage 10142 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 19:06:35] '---': Chuk(268487592) 80 lvl did damage 18854 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 19:06:37] '---': Chuk(268487592) 80 lvl did damage 24996 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 19:06:38] '---': Chuk(268487592) 80 lvl did damage 11864 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 19:06:40] '---': Chuk(268487592) 80 lvl did damage 25196 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 19:06:53] '---': Chuk(268487592) 80 lvl did damage 12026 with skill Sonic Rage(345) to Ketra Orc General(21339)80 lvl
+[09.07.25 19:06:56] '---': Chuk(268487592) 80 lvl did damage 9763 with skill Sonic Rage(345) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.25 19:06:58] '---': Chuk(268487592) 80 lvl did damage 10385 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 19:06:59] '---': Chuk(268487592) 80 lvl did damage 20492 with skill Sonic Rage(345) to Ketra Orc Battalion Commander(21340)80 lvl
+[09.07.25 19:07:32] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 9529 with skill Raging Force(346) to Ornithomimus(22200)84 lvl
+[09.07.25 19:07:33] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 9378 with skill Raging Force(346) to Ornithomimus(22200)84 lvl
+[09.07.25 19:07:35] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 9034 with skill Raging Force(346) to Ornithomimus(22202)84 lvl
+[09.07.25 19:07:36] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 9238 with skill Raging Force(346) to Ornithomimus(22202)84 lvl
+[09.07.25 19:07:36] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 8852 with skill Raging Force(346) to Ornithomimus(22202)84 lvl
+[09.07.25 19:07:37] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 17938 with skill Raging Force(346) to Ornithomimus(22219)84 lvl
+[09.07.25 19:07:40] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 10298 with skill Raging Force(346) to Deinonychus(22205)83 lvl
+[09.07.25 19:07:41] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 10141 with skill Raging Force(346) to Deinonychus(22205)83 lvl
+[09.07.25 19:07:43] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 9730 with skill Raging Force(346) to Deinonychus(22220)83 lvl
+[09.07.25 19:07:45] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 10267 with skill Raging Force(346) to Deinonychus(22204)83 lvl
+[09.07.25 19:07:45] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 20568 with skill Raging Force(346) to Deinonychus(22204)83 lvl
+[09.07.25 19:07:59] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 9159 with skill Raging Force(346) to Ornithomimus(22201)84 lvl
+[09.07.25 19:08:15] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 9506 with skill Raging Force(346) to Pachycephalosaurus(22209)85 lvl
+[09.07.25 19:08:15] '---': YouLoOSeOwNs(268481558) 80 lvl did damage 18220 with skill Raging Force(346) to Pachycephalosaurus(22209)85 lvl
+[09.07.25 20:03:46] '---': SmoothCriminaL(268492126) 80 lvl did damage 6170 with skill Thunder Storm(48) to Deinonychus(22203)83 lvl
+[09.07.25 20:03:46] '---': SmoothCriminaL(268492126) 80 lvl did damage 14740 with skill Earthquake(347) to Deinonychus(22203)83 lvl
+[09.07.25 20:03:46] '---': SmoothCriminaL(268492126) 80 lvl did damage 7344 with skill Earthquake(347) to Deinonychus(22205)83 lvl
+[09.07.25 20:03:46] '---': SmoothCriminaL(268492126) 80 lvl did damage 7758 with skill Earthquake(347) to Deinonychus(22203)83 lvl
+[09.07.25 20:03:46] '---': SmoothCriminaL(268492126) 80 lvl did damage 6902 with skill Earthquake(347) to Pachycephalosaurus(22209)85 lvl
+[09.07.25 20:03:46] '---': SmoothCriminaL(268492126) 80 lvl did damage 6796 with skill Earthquake(347) to Ornithomimus(22202)84 lvl
+[09.07.25 20:03:46] '---': SmoothCriminaL(268492126) 80 lvl did damage 7632 with skill Earthquake(347) to Deinonychus(22203)83 lvl
+[09.07.25 20:03:46] '---': SmoothCriminaL(268492126) 80 lvl did damage 7448 with skill Earthquake(347) to Deinonychus(22205)83 lvl
+[09.07.25 20:03:46] '---': SmoothCriminaL(268492126) 80 lvl did damage 7216 with skill Earthquake(347) to Deinonychus(22204)83 lvl
+[09.07.25 20:03:46] '---': SmoothCriminaL(268492126) 80 lvl did damage 7206 with skill Earthquake(347) to Deinonychus(22220)83 lvl
+[09.07.25 20:03:46] '---': SmoothCriminaL(268492126) 80 lvl did damage 6646 with skill Earthquake(347) to Pachycephalosaurus(22209)85 lvl
+[09.07.25 20:03:46] '---': SmoothCriminaL(268492126) 80 lvl did damage 6728 with skill Whirlwind(36) to Deinonychus(22204)83 lvl
+[09.07.25 20:04:01] '---': SmoothCriminaL(268492126) 80 lvl did damage 6230 with skill Whirlwind(36) to Wild Strider(22211)85 lvl
+[09.07.25 20:04:02] '---': SmoothCriminaL(268492126) 80 lvl did damage 7090 with skill Earthquake(347) to Wild Strider(22211)85 lvl
+[09.07.25 20:04:02] '---': SmoothCriminaL(268492126) 80 lvl did damage 6046 with skill Thunder Storm(48) to Pachycephalosaurus(22208)85 lvl
+[09.07.25 20:05:15] '---': SmoothCriminaL(268492126) 80 lvl did damage 6465 with skill Whirlwind(36) to Deinonychus(22203)83 lvl
+[09.07.25 20:05:15] '---': SmoothCriminaL(268492126) 80 lvl did damage 6397 with skill Thunder Storm(48) to Deinonychus(22203)83 lvl
+[09.07.25 20:05:16] '---': SmoothCriminaL(268492126) 80 lvl did damage 7412 with skill Earthquake(347) to Deinonychus(22204)83 lvl
+[09.07.25 20:05:16] '---': SmoothCriminaL(268492126) 80 lvl did damage 6592 with skill Earthquake(347) to Pachycephalosaurus(22209)85 lvl
+[09.07.25 20:05:16] '---': SmoothCriminaL(268492126) 80 lvl did damage 7118 with skill Earthquake(347) to Deinonychus(22204)83 lvl
+[09.07.25 20:05:16] '---': SmoothCriminaL(268492126) 80 lvl did damage 6860 with skill Earthquake(347) to Wild Strider(22212)85 lvl
+[09.07.25 20:05:16] '---': SmoothCriminaL(268492126) 80 lvl did damage 6788 with skill Earthquake(347) to Pachycephalosaurus(22209)85 lvl
+[09.07.25 20:05:16] '---': SmoothCriminaL(268492126) 80 lvl did damage 7152 with skill Earthquake(347) to Pachycephalosaurus(22221)84 lvl
+[09.07.25 20:05:16] '---': SmoothCriminaL(268492126) 80 lvl did damage 6852 with skill Earthquake(347) to Wild Strider(22212)85 lvl
+[09.07.25 20:05:19] '---': SmoothCriminaL(268492126) 80 lvl did damage 6320 with skill Whirlwind(36) to Deinonychus(22205)83 lvl
+[09.07.25 20:05:20] '---': SmoothCriminaL(268492126) 80 lvl did damage 5713 with skill Thunder Storm(48) to Ornithomimus(22201)84 lvl
+[09.07.25 20:05:22] '---': SmoothCriminaL(268492126) 80 lvl did damage 6636 with skill Earthquake(347) to Ornithomimus(22219)84 lvl
+[09.07.25 20:05:22] '---': SmoothCriminaL(268492126) 80 lvl did damage 6606 with skill Earthquake(347) to Ornithomimus(22200)84 lvl
+[09.07.25 20:05:24] '---': SmoothCriminaL(268492126) 80 lvl did damage 6049 with skill Whirlwind(36) to Ornithomimus(22219)84 lvl
+[09.07.25 20:05:24] '---': SmoothCriminaL(268492126) 80 lvl did damage 6010 with skill Thunder Storm(48) to Wild Strider(22211)85 lvl
+[09.07.25 20:05:28] '---': SmoothCriminaL(268492126) 80 lvl did damage 5999 with skill Whirlwind(36) to Pachycephalosaurus(22208)85 lvl
+[09.07.25 20:05:29] '---': SmoothCriminaL(268492126) 80 lvl did damage 6797 with skill Earthquake(347) to Ornithomimus(22219)84 lvl
+[09.07.25 20:05:29] '---': SmoothCriminaL(268492126) 80 lvl did damage 7154 with skill Earthquake(347) to Deinonychus(22220)83 lvl
+[09.07.25 20:05:29] '---': SmoothCriminaL(268492126) 80 lvl did damage 6806 with skill Earthquake(347) to Pachycephalosaurus(22210)85 lvl
+[09.07.25 20:05:29] '---': SmoothCriminaL(268492126) 80 lvl did damage 6028 with skill Thunder Storm(48) to Ornithomimus(22219)84 lvl
+[09.07.25 20:05:42] '---': SmoothCriminaL(268492126) 80 lvl did damage 5950 with skill Thunder Storm(48) to Wild Strider(22222)85 lvl
+[09.07.25 20:05:42] '---': SmoothCriminaL(268492126) 80 lvl did damage 6219 with skill Whirlwind(36) to Wild Strider(22222)85 lvl
+[09.07.25 20:05:44] '---': SmoothCriminaL(268492126) 80 lvl did damage 6809 with skill Earthquake(347) to Wild Strider(22222)85 lvl
+[09.07.25 20:41:37] '---': Damasco(268478882) 80 lvl did damage 5352 with skill Double Shot(19) to Bloody Priest Rudelto(251073)85 lvl
+[09.07.25 20:50:58] '---': Damasco(268478882) 80 lvl did damage 5434 with skill Double Shot(19) to Bloody Priest Rudelto(251073)85 lvl
+[09.07.25 21:22:23] '---': Damasco(268478882) 80 lvl did damage 19794 with skill Power Shot(56) to Grave Wanderer(20659)45 lvl
+[09.07.25 23:25:03] '---': Chuk(268487592) 80 lvl did damage 5958 with skill Sonic Rage(345) to Especial Mob Drop 2(21581)85 lvl
+[09.07.26 1:37:12] '---': Chuk(268487592) 80 lvl did damage 14965 with skill Sonic Rage(345) to Hames Orc Scout(21109)68 lvl
+[09.07.26 1:37:15] '---': Chuk(268487592) 80 lvl did damage 13432 with skill Sonic Rage(345) to Tulben(20677)66 lvl
+[09.07.26 1:37:19] '---': Chuk(268487592) 80 lvl did damage 15699 with skill Sonic Rage(345) to Judge of Marsh(20676)65 lvl
+[09.07.26 1:37:21] '---': Chuk(268487592) 80 lvl did damage 15457 with skill Sonic Rage(345) to Judge of Marsh(20676)65 lvl
+[09.07.26 1:37:26] '---': Chuk(268487592) 80 lvl did damage 12130 with skill Sonic Rage(345) to Lava Wyrm(21111)70 lvl
+[09.07.26 1:37:28] '---': Chuk(268487592) 80 lvl did damage 27080 with skill Sonic Rage(345) to Tulben(20677)66 lvl
+[09.07.26 1:38:31] '---': Chuk(268487592) 80 lvl did damage 15344 with skill Sonic Rage(345) to Judge of Marsh(20676)65 lvl
+[09.07.26 1:38:34] '---': Chuk(268487592) 80 lvl did damage 16201 with skill Sonic Rage(345) to Judge of Marsh(20676)65 lvl
+[09.07.26 11:33:55] '---': Xurupita(268480978) 80 lvl did damage 11546 with skill Earthquake(347) to Ketra's War Hound(21325)77 lvl
+[09.07.26 12:40:55] '---': Damasco(268478882) 80 lvl did damage 5382 with skill Double Shot(19) to Bloody Priest Rudelto(251073)85 lvl
+[09.07.26 19:05:31] '---': Skunkm(268505091) 80 lvl did damage 5021 with skill Earthquake(347) to Cave Basilisk(27111)30 lvl
+[09.07.27 1:15:56] '---': Chuk(268487592) 80 lvl did damage 5270 with skill Raging Force(346) to Ketra Orc Elite Soldier(21335)80 lvl
+[09.07.27 1:15:57] '---': Chuk(268487592) 80 lvl did damage 10052 with skill Raging Force(346) to Ketra Orc Elite Soldier(21335)80 lvl
+[09.07.27 1:16:00] '---': Chuk(268487592) 80 lvl did damage 6351 with skill Raging Force(346) to Ketra Orc Seer(21338)80 lvl
+[09.07.27 1:16:01] '---': Chuk(268487592) 80 lvl did damage 6500 with skill Raging Force(346) to Ketra Orc Seer(21338)80 lvl
+[09.07.27 1:16:04] '---': Chuk(268487592) 80 lvl did damage 8608 with skill Raging Force(346) to Grazing Elder Buffalo(21337)80 lvl
+[09.07.27 1:16:24] '---': Chuk(268487592) 80 lvl did damage 10148 with skill Raging Force(346) to Ketra Orc Elite Soldier(21335)80 lvl
+[09.07.27 1:16:52] '---': Chuk(268487592) 80 lvl did damage 9721 with skill Raging Force(346) to Prophet's Aide(21349)80 lvl
+[09.07.27 1:17:26] '---': Chuk(268487592) 80 lvl did damage 9862 with skill Raging Force(346) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.27 1:17:29] '---': Chuk(268487592) 80 lvl did damage 13185 with skill Raging Force(346) to Ketra Orc Seer(21338)80 lvl
+[09.07.27 1:17:35] '---': Chuk(268487592) 80 lvl did damage 10160 with skill Raging Force(346) to Prophet's Aide(21349)80 lvl
+[09.07.27 1:37:57] '---': Chuk(268487592) 80 lvl did damage 6518 with skill Sonic Rage(345) to Especial Mob Drop 2(21581)85 lvl
+[09.07.27 1:37:58] '---': Chuk(268487592) 80 lvl did damage 6340 with skill Sonic Rage(345) to Especial Mob Drop 2(21581)85 lvl
+[09.07.27 3:03:17] '---': Chuk(268487592) 80 lvl did damage 29680 with skill Raging Force(346) to Vagabond of the Ruins(22028)40 lvl
+[09.07.27 3:05:40] '---': Chuk(268487592) 80 lvl did damage 30799 with skill Raging Force(346) to Frozen Wasteland Werewolf(22025)38 lvl
+[09.07.27 4:39:44] '---': FriikaZoid(268489672) 43 lvl did damage 6415 with skill Sting(223) to Cave Maiden(20134)59 lvl
+[09.07.27 4:40:01] '---': FriikaZoid(268489672) 44 lvl did damage 5767 with skill Sting(223) to Death Wave(20621)62 lvl
+[09.07.27 4:40:07] '---': FriikaZoid(268489672) 49 lvl did damage 6146 with skill Sting(223) to Cave Beast(20620)61 lvl
+[09.07.27 4:40:12] '---': FriikaZoid(268489672) 52 lvl did damage 5712 with skill Sting(223) to Bloody Lady(21084)60 lvl
+[09.07.27 4:40:16] '---': FriikaZoid(268489672) 54 lvl did damage 5908 with skill Sting(223) to Death Wave(20621)62 lvl
+[09.07.27 4:40:22] '---': FriikaZoid(268489672) 55 lvl did damage 5749 with skill Sting(223) to Cave Beast(20620)61 lvl
+[09.07.27 4:40:26] '---': FriikaZoid(268489672) 56 lvl did damage 5683 with skill Sting(223) to Death Wave(20621)62 lvl
+[09.07.27 4:40:30] '---': FriikaZoid(268489672) 57 lvl did damage 5992 with skill Sting(223) to Cave Beast(20620)61 lvl
+[09.07.27 4:40:32] '---': FriikaZoid(268489672) 58 lvl did damage 5900 with skill Sting(223) to Death Wave(20621)62 lvl
+[09.07.27 4:40:38] '---': FriikaZoid(268489672) 59 lvl did damage 5566 with skill Sting(223) to Bloody Lady(21084)60 lvl
+[09.07.27 4:40:42] '---': FriikaZoid(268489672) 59 lvl did damage 5774 with skill Sting(223) to Cave Beast(20620)61 lvl
+[09.07.27 4:40:52] '---': FriikaZoid(268489672) 60 lvl did damage 5432 with skill Sting(223) to Bloody Lady(21084)60 lvl
+[09.07.27 4:41:00] '---': FriikaZoid(268489672) 60 lvl did damage 5832 with skill Sting(223) to Death Wave(20621)62 lvl
+[09.07.27 4:41:17] '---': FriikaZoid(268489672) 62 lvl did damage 5700 with skill Sting(223) to Bloody Lady(21084)60 lvl
+[09.07.27 21:10:07] '---': Chuk(268487592) 80 lvl did damage 46374 with skill Sonic Rage(345) to Boots(268478764) 80 lvl
+[09.07.27 21:11:58] '---': Chuk(268487592) 80 lvl did damage 15912 with skill Sonic Rage(345) to Antelope(21278)68 lvl
+[09.07.27 21:14:45] '---': Chuk(268487592) 80 lvl did damage 15618 with skill Sonic Rage(345) to Antelope(21278)68 lvl
+[09.07.27 21:21:18] '---': Chuk(268487592) 80 lvl did damage 18591 with skill Sonic Rage(345) to Antelope(21280)68 lvl
+[09.07.28 0:22:24] '---': Chuk(268487592) 80 lvl did damage 6896 with skill Sonic Rage(345) to Especial Mob Drop 2(21581)85 lvl
+[09.07.28 0:22:33] '---': Chuk(268487592) 80 lvl did damage 6784 with skill Sonic Rage(345) to Especial Mob Drop 2(21581)85 lvl
+[09.07.28 3:05:36] '---': Scarlett(268482738) 80 lvl did damage 5922 with skill Double Shot(19) to Bloody Priest Rudelto(251073)85 lvl
+[09.07.28 3:07:43] '---': Scarlett(268482738) 80 lvl did damage 6180 with skill Double Shot(19) to Bloody Priest Rudelto(251073)85 lvl
+[09.07.28 3:09:40] '---': Scarlett(268482738) 80 lvl did damage 6006 with skill Double Shot(19) to Bloody Priest Rudelto(251073)85 lvl
+[09.07.28 3:54:27] '---': xMystman(268479309) 80 lvl did damage 15320 with skill Crush of Doom(315) to xxMystmanxx(268480441) 17 lvl
+[09.07.28 3:54:49] '---': xMystman(268479309) 80 lvl did damage 17390 with skill Armor Crush(362) to xxMystmanxx(268480441) 17 lvl
+[09.07.28 4:20:16] '---': xMystman(268479309) 80 lvl did damage 10269 with skill Crush of Doom(315) to Delu Lizardman Shaman(20781)35 lvl
+[09.07.28 4:21:47] '---': xMystman(268479309) 80 lvl did damage 11878 with skill Crush of Doom(315) to Cursed Seer(21106)34 lvl
+[09.07.28 4:22:06] '---': xMystman(268479309) 80 lvl did damage 9620 with skill Crush of Doom(315) to Delu Lizardman Commander(21107)35 lvl
+[09.07.28 7:43:34] '---': xMystman(268479309) 80 lvl did damage 12427 with skill Crush of Doom(315) to Vale Master(20847)54 lvl
+[09.07.28 8:14:41] '---': xMystman(268479309) 80 lvl did damage 6685 with skill Crush of Doom(315) to Pachycephalosaurus(22210)85 lvl
+[09.07.28 8:14:42] '---': xMystman(268479309) 80 lvl did damage 11750 with skill Armor Crush(362) to Pachycephalosaurus(22210)85 lvl
+[09.07.28 8:14:46] '---': xMystman(268479309) 80 lvl did damage 5848 with skill Armor Crush(362) to Pachycephalosaurus(22208)85 lvl
+[09.07.28 8:14:48] '---': xMystman(268479309) 80 lvl did damage 7584 with skill Crush of Doom(315) to Deinonychus(22205)83 lvl
+[09.07.28 8:14:49] '---': xMystman(268479309) 80 lvl did damage 6103 with skill Armor Crush(362) to Deinonychus(22203)83 lvl
+[09.07.28 8:14:54] '---': xMystman(268479309) 80 lvl did damage 6823 with skill Crush of Doom(315) to Wild Strider(22213)85 lvl
+[09.07.28 8:15:21] '---': xMystman(268479309) 80 lvl did damage 7055 with skill Crush of Doom(315) to Pachycephalosaurus(22208)85 lvl
+[09.07.28 8:15:27] '---': xMystman(268479309) 80 lvl did damage 6158 with skill Armor Crush(362) to Deinonychus(22205)83 lvl
+[09.07.28 8:15:31] '---': xMystman(268479309) 80 lvl did damage 5989 with skill Armor Crush(362) to Ornithomimus(22202)84 lvl
+[09.07.28 8:15:35] '---': xMystman(268479309) 80 lvl did damage 6142 with skill Armor Crush(362) to Deinonychus(22220)83 lvl
+[09.07.28 8:15:35] '---': xMystman(268479309) 80 lvl did damage 7635 with skill Crush of Doom(315) to Deinonychus(22220)83 lvl
+[09.07.28 8:15:39] '---': xMystman(268479309) 80 lvl did damage 5755 with skill Armor Crush(362) to Ornithomimus(22219)84 lvl
+[09.07.28 8:15:41] '---': xMystman(268479309) 80 lvl did damage 6755 with skill Crush of Doom(315) to Ornithomimus(22200)84 lvl
+[09.07.28 8:15:43] '---': xMystman(268479309) 80 lvl did damage 5590 with skill Armor Crush(362) to Ornithomimus(22201)84 lvl
+[09.07.28 8:15:48] '---': xMystman(268479309) 80 lvl did damage 7276 with skill Crush of Doom(315) to Ornithomimus(22201)84 lvl
+[09.07.28 8:15:54] '---': xMystman(268479309) 80 lvl did damage 6802 with skill Crush of Doom(315) to Pachycephalosaurus(22209)85 lvl
+[09.07.28 8:16:04] '---': xMystman(268479309) 80 lvl did damage 7064 with skill Crush of Doom(315) to Pachycephalosaurus(22208)85 lvl
+[09.07.28 8:16:51] '---': xMystman(268479309) 80 lvl did damage 6833 with skill Crush of Doom(315) to Pachycephalosaurus(22209)85 lvl
+[09.07.28 8:17:14] '---': xMystman(268479309) 80 lvl did damage 7047 with skill Crush of Doom(315) to Ornithomimus(22219)84 lvl
+[09.07.28 8:18:25] '---': xMystman(268479309) 80 lvl did damage 5135 with skill Armor Crush(362) to Wild Strider(22222)85 lvl
+[09.07.28 8:18:29] '---': xMystman(268479309) 80 lvl did damage 5072 with skill Armor Crush(362) to Wild Strider(22213)85 lvl
+[09.07.28 8:18:31] '---': xMystman(268479309) 80 lvl did damage 6295 with skill Crush of Doom(315) to Wild Strider(22213)85 lvl
+[09.07.28 8:18:32] '---': xMystman(268479309) 80 lvl did damage 5326 with skill Armor Crush(362) to Wild Strider(22213)85 lvl
+[09.07.28 8:18:36] '---': xMystman(268479309) 80 lvl did damage 5074 with skill Armor Crush(362) to Pachycephalosaurus(22221)84 lvl
+[09.07.28 8:18:38] '---': xMystman(268479309) 80 lvl did damage 6608 with skill Crush of Doom(315) to Elroki(22214)85 lvl
+[09.07.28 8:18:39] '---': xMystman(268479309) 80 lvl did damage 5166 with skill Armor Crush(362) to Elroki(22214)85 lvl
+[09.07.28 8:18:43] '---': xMystman(268479309) 80 lvl did damage 5367 with skill Armor Crush(362) to Ornithomimus(22200)84 lvl
+[09.07.28 8:18:45] '---': xMystman(268479309) 80 lvl did damage 6469 with skill Crush of Doom(315) to Wild Strider(22212)85 lvl
+[09.07.28 8:18:49] '---': xMystman(268479309) 80 lvl did damage 10068 with skill Armor Crush(362) to Ornithomimus(22202)84 lvl
+[09.07.28 8:18:51] '---': xMystman(268479309) 80 lvl did damage 6269 with skill Crush of Doom(315) to Ornithomimus(22201)84 lvl
+[09.07.28 9:18:07] '---': IIIIIZeusIIIII(268483700) 40 lvl did damage 5996 with skill Triple Slash(1) to Ghost of a Gatekeeper(21799)76 lvl
+[09.07.28 9:18:14] '---': IIIIIZeusIIIII(268483700) 46 lvl did damage 6049 with skill Triple Slash(1) to Vassal Ghost(21800)77 lvl
+[09.07.28 9:18:18] '---': IIIIIZeusIIIII(268483700) 48 lvl did damage 5798 with skill Triple Slash(1) to Ghost of a Gatekeeper(21798)76 lvl
+[09.07.28 9:18:21] '---': IIIIIZeusIIIII(268483700) 50 lvl did damage 5078 with skill Triple Slash(1) to Treasure Chest(18286)84 lvl
+[09.07.28 9:19:15] '---': IIIIIZeusIIIII(268483700) 51 lvl did damage 6285 with skill Triple Slash(1) to Ghost of a Gatekeeper(21798)76 lvl
+[09.07.28 9:20:21] '---': IIIIIZeusIIIII(268483700) 55 lvl did damage 5864 with skill Triple Slash(1) to Tera Beetle(21405)80 lvl
+[09.07.28 9:20:23] '---': IIIIIZeusIIIII(268483700) 56 lvl did damage 5923 with skill Triple Slash(1) to Katraxis(21403)79 lvl
+[09.07.28 9:20:30] '---': IIIIIZeusIIIII(268483700) 60 lvl did damage 5692 with skill Triple Slash(1) to Katraxis(21403)79 lvl
+[09.07.28 9:20:53] '---': IIIIIZeusIIIII(268483700) 66 lvl did damage 6024 with skill Triple Slash(1) to Soldier Scarab(21398)78 lvl
+[09.07.28 9:21:45] '---': IIIIIZeusIIIII(268483700) 66 lvl did damage 6170 with skill Triple Slash(1) to Katraxis(21402)79 lvl
+[09.07.28 9:22:04] '---': IIIIIZeusIIIII(268483700) 69 lvl did damage 5871 with skill Triple Slash(1) to Katraxis(21403)79 lvl
+[09.07.28 9:23:20] '---': IIIIIZeusIIIII(268483700) 74 lvl did damage 6067 with skill Triple Slash(1) to Guardian Scarab(21411)80 lvl
+[09.07.28 9:23:22] '---': IIIIIZeusIIIII(268483700) 74 lvl did damage 5864 with skill Triple Slash(1) to Guardian Scarab(21411)80 lvl
+[09.07.28 9:23:30] '---': IIIIIZeusIIIII(268483700) 74 lvl did damage 5770 with skill Triple Slash(1) to Guardian Scarab(21410)80 lvl
+[09.07.28 9:23:34] '---': IIIIIZeusIIIII(268483700) 75 lvl did damage 5820 with skill Triple Slash(1) to Guardian Scarab(21410)80 lvl
+[09.07.28 9:23:51] '---': IIIIIZeusIIIII(268483700) 75 lvl did damage 6055 with skill Triple Slash(1) to Hexa Beetle(21400)79 lvl
+[09.07.28 9:24:01] '---': IIIIIZeusIIIII(268483700) 76 lvl did damage 6132 with skill Triple Slash(1) to Hexa Beetle(21400)79 lvl
+[09.07.28 10:36:10] '---': IIIIIZeusIIIII(268483700) 77 lvl did damage 14016 with skill Power Shot(56) to Malruk Succubus Turen(20245)56 lvl
+[09.07.28 11:19:41] '---': IIIIIZeusIIIII(268483700) 77 lvl did damage 9792 with skill Triple Slash(1) to Splinter Stakato Soldier(21510)68 lvl
+[09.07.28 13:45:34] '---': laique(268479611) 80 lvl did damage 12041 with skill Stunning Shot(101) to Ketra Orc White Captain(21336)80 lvl
+[09.07.28 13:45:51] '---': laique(268479611) 80 lvl did damage 10555 with skill Stunning Shot(101) to Grazing Elder Buffalo(21337)80 lvl
+[09.07.28 13:45:54] '---': laique(268479611) 80 lvl did damage 17924 with skill Stunning Shot(101) to Ketra Orc Seer(21338)80 lvl
+[09.07.28 13:45:59] '---': laique(268479611) 80 lvl did damage 25158 with skill Double Shot(19) to Ketra Orc White Captain(21336)80 lvl
+[09.07.28 13:46:01] '---': laique(268479611) 80 lvl did damage 16575 with skill Stunning Shot(101) to Ketra Orc Seer(21338)80 lvl
+[09.07.28 13:46:24] '---': laique(268479611) 80 lvl did damage 12304 with skill Stunning Shot(101) to Ketra Orc Grand Seer(21342)80 lvl
+[09.07.28 16:45:25] '---': laique(268479611) 80 lvl did damage 5016 with skill Double Shot(19) to Bloody Priest Rudelto(251073)85 lvl
+[09.07.28 16:47:48] '---': laique(268479611) 80 lvl did damage 5064 with skill Double Shot(19) to Bloody Priest Rudelto(251073)85 lvl

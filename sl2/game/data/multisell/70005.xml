@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Npc Craft - L2legends -->
+<list>
+    <!-- Dynasty Breastplate -->
+    <item id="1">
+    <ingredient id="28120" count="7000" enchant="0"/>
+    <production id="9416" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dynasty Gaiters -->
+    <item id="2">
+    <ingredient id="28120" count="7000" enchant="0"/>
+    <production id="9421" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dynasty Helm -->
+    <item id="3">
+    <ingredient id="28120" count="7000" enchant="0"/>
+    <production id="9422" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dynasty Gloves -->
+    <item id="4">
+    <ingredient id="28120" count="7000" enchant="0"/>
+    <production id="9423" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dynasty Boots -->
+    <item id="5">
+    <ingredient id="28120" count="7000" enchant="0"/>
+    <production id="9424" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dynasty Leather -->
+    <item id="6">
+    <ingredient id="28120" count="7000" enchant="0"/>
+    <production id="9425" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dynasty Leather Pants -->
+    <item id="7">
+    <ingredient id="28120" count="7000" enchant="0"/>
+    <production id="9428" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dynasty Leather Helm -->
+    <item id="8">
+    <ingredient id="28120" count="7000" enchant="0"/>
+    <production id="9429" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dynasty Leather Gloves -->
+    <item id="9">
+    <ingredient id="28120" count="7000" enchant="0"/>
+    <production id="9430" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dynasty Leather Shoes -->
+    <item id="10">
+    <ingredient id="28120" count="7000" enchant="0"/>
+    <production id="9431" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dynasty Robe -->
+    <item id="11">
+    <ingredient id="28120" count="7000" enchant="0"/>
+    <production id="9432" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dynasty Stockings -->
+    <item id="12">
+    <ingredient id="28120" count="7000" enchant="0"/>
+    <production id="9437" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dynasty Cap -->
+    <item id="13">
+    <ingredient id="28120" count="7000" enchant="0"/>
+    <production id="9438" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dynasty Mittens -->
+    <item id="14">
+    <ingredient id="28120" count="7000" enchant="0"/>
+    <production id="9439" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dynasty Slippers -->
+    <item id="15">
+    <ingredient id="28120" count="7000" enchant="0"/>
+    <production id="9440" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dynasty Shield -->
+    <item id="15">
+    <ingredient id="28120" count="7000" enchant="0"/>
+    <production id="9529" count="1" enchant="0"/>
+    </item>
+    </list>

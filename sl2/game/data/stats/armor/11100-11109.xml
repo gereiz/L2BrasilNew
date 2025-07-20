@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "armors.dtd">
+<list>
+<item id='11100' name="Sacrifice Helmet">
+  <for> 
+    <add val='205' order='0x10' stat='pDef'/> 
+    <enchant val='0' order='0x0C' stat='pDef'/> 
+  </for> 
+</item>
+<item id='11101' name="Sacrifice Plate Armor">
+  <for> 
+   <add val='4000' order='0x10' stat='pDef' /> 
+    <enchant val='0' order='0x0C' stat='pDef'/>
+    <mul val='1.20' order='0x35' stat='pAtk'/> 
+    <add val='50' order='0x10' stat='pAtkSpd'/>
+  </for>
+</item>
+<item id='11102' name="Sacrifice Gauntlets">
+  <for>
+    <add val='250' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+<item id='11103' name="Sacrifice Boots">
+  <for>
+    <add val='250' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='11104' name="Sacrifice Robe">
+<for> 
+   <add val='4000' order='0x10' stat='pDef' /> 
+    <enchant val='0' order='0x0C' stat='pDef'/> 
+    <mul val='1.1' order='0x35' stat='mAtk'/> 
+    <add val='200' order='0x10' stat='mAtkSpd'/>
+  </for>
+</item>
+<item id='11105' name="Sacrifice Robe Gloves">
+    <for>
+        <add val='250' order='0x10' stat='pDef'/>
+        <enchant val='0' order='0x0C' stat='pDef'/>
+    </for>
+</item>
+<item id='11106' name="Sacrifice Robe Boots">
+    <for>
+        <add val='250' order='0x10' stat='pDef'/>
+        <enchant val='0' order='0x0C' stat='pDef'/>
+    </for>
+</item>
+<item id='11107' name="Sacrifice Leather">
+ <for> 
+   <add val='4000' order='0x10' stat='pDef' /> 
+    <enchant val='0' order='0x0C' stat='pDef'/> 
+    <mul val='1.20' order='0x35' stat='pAtk'/> 
+    <add val='50' order='0x10' stat='pAtkSpd'/>
+  </for>
+</item>
+<item id='11108' name="Sacrifice Leather Gloves">
+    <for>
+        <add val='250' order='0x10' stat='pDef'/>
+        <enchant val='0' order='0x0C' stat='pDef'/>
+    </for>
+</item>
+<item id='11109' name="Sacrifice Leather Boots">
+    <for>
+        <add val='250' order='0x10' stat='pDef'/>
+        <enchant val='0' order='0x0C' stat='pDef'/>
+    </for>
+</item>
+</list>

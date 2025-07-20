@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Vesper Set by mend3 e XxJrBrxX L2JM Team-->
+	<item id='9970' name="Vesper Gold Helmet">
+		<for>
+                        <add val='50' order='0x40' stat='maxCp' />
+                        <add val='80' order='0x40' stat='maxHp'/>
+                        <add val='92' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9971' name="Vesper Gold Breatsplate Heavy">
+		<for>
+                    <add val='425' order='0x10' stat='pDef'/>
+<add val='1000' order='0x40' stat='maxHp'>
+<and>
+<using slotitem="9970;9"/>
+<using slotitem="9973;12"/>
+<using slotitem="9972;6"/>
+</and>
+</add>
+<mul val='0.97' order='0x40' stat='pDef'>
+<and>
+<using slotitem="9970;9"/>
+<using slotitem="9973;12"/>
+<using slotitem="9972;6"/>
+</and>
+</mul>
+<mul val='1.20' order='0x40' stat='pAtkSpd'>
+<and> 
+<using slotitem="9970;9"/>
+<using slotitem="9973;12"/>
+<using slotitem="9972;6"/>
+</and> 
+</mul>
+<mul val='1.29' order='0x40' stat='mDef'>
+<and> 
+<using slotitem="9970;9"/>
+<using slotitem="9973;12"/>
+<using slotitem="9972;6"/>
+</and> 
+</mul>  
+<mul val='1.25' order='0x40' stat='pAtk'>
+<and> 
+<using slotitem="9970;9"/>
+<using slotitem="9973;12"/>
+<using slotitem="9972;6"/>
+</and> 
+</mul> 
+<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9972' name="Vesper Gold Gaiters Heavy">
+		<for>
+			<add val='130' order='0x10' stat='pDef' />
+                       		<add val='25' order='0x10' stat='pAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9973' name="Vesper Gold Gloves Heavy">
+		<for>
+			<add val='120' order='0x10' stat='pDef' />
+                       		<add val='25' order='0x10' stat='pAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9974' name="Vesper Gold Boots Heavy">
+		<for>
+			<add val='120' order='0x10' stat='pDef' />
+                       		<add val='25' order='0x10' stat='pAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9975' name="Vesper Gold Leather Armor Light">
+		<for>
+                    <add val='425' order='0x10' stat='pDef'/>
+<add val='1000' order='0x40' stat='maxHp'>
+<and>
+<using slotitem="9970;9"/>
+<using slotitem="9977;12"/>
+<using slotitem="9978;6"/>
+</and>
+</add>
+<mul val='0.97' order='0x40' stat='pDef'>
+<and>
+<using slotitem="9970;9"/>
+<using slotitem="9977;12"/>
+<using slotitem="9978;6"/>
+</and>
+</mul>
+<mul val='0.95' order='0x40' stat='pAtkSpd'>
+<and> 
+<using slotitem="9970;9"/>
+<using slotitem="9977;12"/>
+<using slotitem="9978;6"/>
+</and> 
+</mul>
+<mul val='1.18' order='0x40' stat='mDef'>
+<and> 
+<using slotitem="9970;9"/>
+<using slotitem="9977;12"/>
+<using slotitem="9978;6"/>
+</and> 
+</mul>  
+<mul val='1.12' order='0x40' stat='pAtk'>
+<and> 
+<using slotitem="9970;9"/>
+<using slotitem="9977;12"/>
+<using slotitem="9978;6"/>
+</and> 
+</mul> 
+<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9976' name="Vesper Gold Leggings Light">
+		<for>
+			<add val='85' order='0x10' stat='pDef'/>
+        			<add val='27' order='0x10' stat='pAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9977' name="Vesper Gold Gloves Light">
+		<for>
+			<add val='90' order='0x10' stat='pDef'/>
+        			<add val='27' order='0x10' stat='pAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9978' name="Vesper Gold Boots Light">
+		<for>
+			<add val='90' order='0x10' stat='pDef'/>
+        			<add val='27' order='0x10' stat='pAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9979' name="Vesper Gold Tunic Robe">
+		<for>
+			<add val='99' order='0x10' stat='pDef'/>
+                                           <add val='128' order='0x10' stat='mAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9980' name="Vesper Gold Stockings Robe">
+		<for>
+	            <add val='425' order='0x10' stat='pDef'/>
+<add val='1000' order='0x40' stat='maxHp'>
+<and>
+<using slotitem="9970;9"/>
+<using slotitem="9959;12"/>
+<using slotitem="9961;6"/>
+</and>
+</add>
+<mul val='0.97' order='0x40' stat='pDef'>
+<and>
+<using slotitem="9950;9"/>
+<using slotitem="9979;12"/>
+<using slotitem="9981;6"/>
+</and>
+</mul>
+<mul val='0.95' order='0x40' stat='mAtkSpd'>
+<and> 
+<using slotitem="9950;9"/>
+<using slotitem="9979;12"/>
+<using slotitem="9981;6"/>
+</and> 
+</mul>
+<mul val='1.18' order='0x40' stat='mDef'>
+<and> 
+<using slotitem="9950;9"/>
+<using slotitem="9979;12"/>
+<using slotitem="9981;6"/>
+</and> 
+</mul>  
+<mul val='1.12' order='0x40' stat='mAtk'>
+<and> 
+<using slotitem="9950;9"/>
+<using slotitem="9979;12"/>
+<using slotitem="9981;6"/>
+</and> 
+</mul> 
+<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9981' name="Vesper Gold Gloves Robe">
+		<for>
+			<add val='86' order='0x10' stat='pDef'/>
+                        	              <add val='83' order='0x10' stat='mAtkSpd'/>
+                        <add val='0' order='0x40' stat='maxCp' />
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9982' name="Vesper Gold Boots Robe">
+		<for>
+			<add val='86' order='0x10' stat='pDef'/>
+                        	              <add val='83' order='0x10' stat='mAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9983' name="Vesper Gold Helmet">
+		<for>
+                        <add val='100' order='0x10' stat='maxCp' />
+                        <add val='100' order='0x10' stat='maxHp'/>
+                        <add val='100' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9984' name="*Vesper Gold Breatsplate Heavy">
+		<for>
+                        <add val='400' order='0x10' stat='pDef'/>
+                        <add val='35' order='0x10' stat='pAtkSpd'/>
+                        <add val='50' order='0x10' stat='mDef'/>
+                        <add val='105' order='0x10' stat='maxHp'/>
+                        <add val='105' order='0x10' stat='pAtk'/>
+                        <add val='100' order='0x10' stat='maxCp'/>
+                        <add val='0' order='0x10' stat='runSpd'/>
+
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9985' name="*Vesper Gold Gaiters Heavy">
+		<for>
+			<add val='95' order='0x10' stat='pDef'/>
+                               <add val='36' order='0x10' stat='pAtk'/>
+                       		<add val='50' order='0x10' stat='mDef'/>
+                       		<add val='25' order='0x10' stat='pAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9986' name="*Vesper Gold Gloves Heavy">
+		<for>
+			<add val='85' order='0x10' stat='pDef'/>
+                               <add val='36' order='0x10' stat='pAtk'/>
+                       		<add val='50' order='0x10' stat='mDef'/>
+                       		<add val='25' order='0x10' stat='pAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9987' name="Vesper Gold Boots Heavy">
+		<for>
+			<add val='85' order='0x10' stat='pDef'/>
+                               <add val='36' order='0x10' stat='pAtk'/>
+                       		<add val='50' order='0x10' stat='mDef'/>
+                       		<add val='25' order='0x10' stat='pAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9988' name="Vesper Gold Leather Armor Light">
+		<for>
+                        <add val='325' order='0x10' stat='pDef'/>
+                        <add val='27' order='0x10' stat='pAtkSpd'/>
+                        <add val='101' order='0x10' stat='maxCp' />
+                        <add val='105' order='0x10' stat='maxHp'/>
+                        <add val='36' order='0x10' stat='pAtk'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9989' name="Vesper Gold Leggings Light">
+		<for>
+			<add val='85' order='0x10' stat='pDef'/>
+                               <add val='36' order='0x10' stat='pAtk'/>
+        			<add val='27' order='0x10' stat='pAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9990' name="Vesper Gold Gloves Light">
+		<for>
+			<add val='75' order='0x10' stat='pDef'/>
+                               <add val='36' order='0x10' stat='pAtk'/>
+        			<add val='27' order='0x10' stat='pAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9991' name="Vesper Gold Boots Light">
+		<for>
+			<add val='75' order='0x10' stat='pDef'/>
+                               <add val='36' order='0x10' stat='pAtk'/>
+        			<add val='27' order='0x10' stat='pAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9992' name="Vesper Gold Tunic Robe">
+		<for>
+			<add val='195' order='0x10' stat='pDef'/>
+                        <add val='15' order='0x10' stat='mAtk'/>
+                        <add val='205' order='0x10' stat='mAtkSpd'/>
+                        <add val='6' order='0x10' stat="runSpd"/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9993' name="Vesper Gold Stockings Robe">
+		<for>
+			<add val='98' order='0x10' stat='pDef'/>
+                               <add val='68' order='0x10' stat='mAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9994' name="Vesper Gold Gloves Robe">
+		<for>
+			<add val='95' order='0x10' stat='pDef'/>
+                               <add val='60' order='0x10' stat='mAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+	<item id='9995' name="Vesper Gold Boots Robe">
+		<for>
+			<add val='95' order='0x10' stat='pDef'/>
+                               <add val='60' order='0x10' stat='mAtkSpd'/>
+			<enchant val='0' order='0x0C' stat='pDef' />
+		</for>
+	</item>
+</list>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="1">
+    <ingredient id="21000" count="1" enchant="0"/>
+	<production id="10016" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="2">
+    <ingredient id="21000" count="1" enchant="0"/>
+	<production id="14630" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="3">
+    <ingredient id="21000" count="1" enchant="0"/>
+	<production id="14631" count="1" enchant="0"/>
+  </item>
+
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="4">
+    <ingredient id="21000" count="1" enchant="0"/>
+	<production id="14632" count="1" enchant="0"/>
+  </item>
+
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="5">
+    <ingredient id="21000" count="1" enchant="0"/>
+	<production id="14633" count="1" enchant="0"/>
+  </item>
+
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="6">
+    <ingredient id="21000" count="1" enchant="0"/>
+	<production id="14634" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="7">
+    <ingredient id="21000" count="1" enchant="0"/>
+	<production id="14635" count="1" enchant="0"/>
+  </item>
+
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="8">
+    <ingredient id="21000" count="1" enchant="0"/>
+	<production id="14636" count="1" enchant="0"/>
+  </item>
+
+<item id="9">
+    <ingredient id="21000" count="1" enchant="0"/>
+<production id="5799" count="1" enchant="0"/>
+</item>
+
+</list>

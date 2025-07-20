@@ -1,0 +1,125 @@
+2016.12.18 14:37:13,923	INFO	1	net.sf.l2j.Config	loading gameserver config
+2016.12.18 14:37:14,178	INFO	1	net.sf.l2j.Config	Chat Filter: Loaded 40 words
+2016.12.18 14:37:14,400	INFO	1	com.mchange.v2.log.MLog	MLog clients using java 1.4+ standard logging.
+2016.12.18 14:37:15,029	INFO	1	com.mchange.v2.c3p0.C3P0Registry	Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2016.12.18 14:37:16,528	INFO	1	com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource	Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 0, acquireRetryDelay -> 500, autoCommitOnClose -> true, automaticTestTable -> connection_test_table, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1b60feh9l59vib11cuyva7|2957fcb0, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1b60feh9l59vib11cuyva7|2957fcb0, idleConnectionTestPeriod -> 3600, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://localhost/l2jesenn, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 500, maxStatements -> 0, maxStatementsPerConnection -> 100, minPoolSize -> 10, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2016.12.18 14:37:16,593	INFO	1	net.sf.l2j.gameserver.idfactory.IdFactory	Updated characters online status.
+2016.12.18 14:37:16,641	INFO	1	net.sf.l2j.gameserver.idfactory.IdFactory	Cleaned 0 elements from database.
+2016.12.18 14:37:17,122	INFO	1	net.sf.l2j.gameserver.idfactory.BitSetIDFactory	IDFactory: 102912 id's available.
+2016.12.18 14:37:20,207	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	SkillTreeTable: Loaded 35570 skills.
+2016.12.18 14:37:20,612	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	FishingSkillTreeTable: Loaded 109 general skills.
+2016.12.18 14:37:20,615	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	DwarvenCraftSkillTreeTable: Loaded 8 dwarven skills.
+2016.12.18 14:37:20,617	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	EnchantSkillTreeTable: Loaded 13200 enchant skills.
+2016.12.18 14:37:20,619	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	PledgeSkillTreeTable: Loaded 64 pledge skills
+2016.12.18 14:37:27,784	SEVERE	1	net.sf.l2j.gameserver.skills.DocumentBase	Error loading file E:\Program files\Servidor No Custom\L2 Frozen Chop Suey Server\gameserver_Frozen\data\stats\armor\itens de cabeca.xml
+2016.12.18 14:37:27,856	SEVERE	1	net.sf.l2j.gameserver.skills.DocumentBase	Error loading file E:\Program files\Servidor No Custom\L2 Frozen Chop Suey Server\gameserver_Frozen\data\stats\armor\Tatos.xml
+2016.12.18 14:37:27,907	CONFIG	1	net.sf.l2j.gameserver.datatables.ItemTable	ItemTable: Loaded 1129 Armors.
+2016.12.18 14:37:27,927	CONFIG	1	net.sf.l2j.gameserver.datatables.ItemTable	ItemTable: Loaded 6882 Items.
+2016.12.18 14:37:28,216	SEVERE	1	net.sf.l2j.gameserver.skills.DocumentBase	Error in file E:\Program files\Servidor No Custom\L2 Frozen Chop Suey Server\gameserver_Frozen\data\stats\weapon\20001-20002.xml
+2016.12.18 14:37:29,038	CONFIG	1	net.sf.l2j.gameserver.datatables.ItemTable	ItemTable: Loaded 1475 Weapons.
+2016.12.18 14:37:31,010	CONFIG	1	net.sf.l2j.gameserver.TradeController	TradeController: Loaded 530 Buylists.
+2016.12.18 14:37:31,017	CONFIG	1	net.sf.l2j.gameserver.TradeController	TradeController: Loaded 120 Limited Buylists.
+2016.12.18 14:37:31,091	INFO	1	net.sf.l2j.gameserver.datatables.SpawnTable	Initializing Walkers Routes Table.
+2016.12.18 14:37:31,097	INFO	1	net.sf.l2j.gameserver.datatables.SpawnTable	WalkerRoutesTable: Loaded 4 Npc Walker Routes.
+2016.12.18 14:37:31,151	CONFIG	1	net.sf.l2j.gameserver.RecipeController	RecipeController: Loaded 871 Recipes.
+2016.12.18 14:37:31,163	INFO	1	net.sf.l2j.gameserver.GameServer	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2016.12.18 14:37:31,167	INFO	1	net.sf.l2j.gameserver.GameServer	                 Voce esta usando o L2J-MWX Interlude Version
+2016.12.18 14:37:31,169	INFO	1	net.sf.l2j.gameserver.GameServer	                              Copyright 2009-2010
+2016.12.18 14:37:31,170	INFO	1	net.sf.l2j.gameserver.GameServer	                _______ ______  ___    ___ __      __ ___    ___ 
+2016.12.18 14:37:31,173	INFO	1	net.sf.l2j.gameserver.GameServer	               |   |   |       |   .  /   |  |    |  |.  .  /  / 
+2016.12.18 14:37:31,177	INFO	1	net.sf.l2j.gameserver.GameServer	               |.  |   |___|   |    ./    |  | /. |  | .  ./  /  
+2016.12.18 14:37:31,179	INFO	1	net.sf.l2j.gameserver.GameServer	               |.  |___ /  ___/|  |.  /|  |  |/  .|  |  >    <   
+2016.12.18 14:37:31,183	INFO	1	net.sf.l2j.gameserver.GameServer	               |:  |   |:  |   |  | ./ |  |    /.    | /  /.  .  
+2016.12.18 14:37:31,186	INFO	1	net.sf.l2j.gameserver.GameServer	               |::.. . |::.. . |  |    |  |   /  .   |/  /  .  . 
+2016.12.18 14:37:31,188	INFO	1	net.sf.l2j.gameserver.GameServer	               `-------`-------`--'    `--'--'    `--'--     --- 
+2016.12.18 14:37:31,190	INFO	1	net.sf.l2j.gameserver.GameServer	                              L2MwX Server Version: 9:10
+2016.12.18 14:37:31,205	INFO	1	net.sf.l2j.gameserver.GameServer	                              L2MWX Datapack Version: 9:11M
+2016.12.18 14:37:31,208	INFO	1	net.sf.l2j.gameserver.GameServer	                                  By DanielMwx 
+2016.12.18 14:37:31,230	INFO	1	net.sf.l2j.gameserver.GameServer	                           Projeto baseado em L2JDdot 
+2016.12.18 14:37:31,236	INFO	1	net.sf.l2j.gameserver.GameServer	
+2016.12.18 14:37:31,238	INFO	1	net.sf.l2j.gameserver.GameServer	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2016.12.18 14:37:31,247	CONFIG	1	net.sf.l2j.gameserver.datatables.ArmorSetsTable	ArmorSetsTable: Loaded 63 armor sets.
+2016.12.18 14:37:31,265	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	FishTable: Loaded 270 Fishes.
+2016.12.18 14:37:31,276	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	SkillSpellbookTable: Loaded 334 Spellbooks.
+2016.12.18 14:37:31,328	CONFIG	1	net.sf.l2j.gameserver.datatables.CharTemplateTable	CharTemplateTable: Loaded 89 Character Templates.
+2016.12.18 14:37:31,339	INFO	1	net.sf.l2j.gameserver.cache.HtmCache	Cache[HTML]: Running lazy cache
+2016.12.18 14:37:31,378	INFO	1	net.sf.l2j.gameserver.cache.CrestCache	Cache[Crest]: 0,006MB on 26 files loaded. (Forget Time: 300s , Capacity: 50)
+2016.12.18 14:37:31,392	CONFIG	1	net.sf.l2j.gameserver.datatables.ClanTable	Restored 0 clans from the database.
+2016.12.18 14:37:33,616	CONFIG	1	net.sf.l2j.gameserver.datatables.NpcTable	NpcTable: Loaded 6530 custom NPC templates.
+2016.12.18 14:37:33,639	CONFIG	1	net.sf.l2j.gameserver.datatables.NpcTable	NpcTable: Loaded 6544 custom NPC templates.
+2016.12.18 14:37:33,643	INFO	1	net.sf.l2j.gameserver.datatables.NpcTable	NpcTable: Loaded 14 Custom Npc Templates.
+2016.12.18 14:37:34,187	INFO	1	net.sf.l2j.gameserver.datatables.NpcTable	CustomDropList: Added 0 custom droplist.
+2016.12.18 14:37:34,224	CONFIG	1	net.sf.l2j.gameserver.datatables.NpcTable	NpcTable: Loaded 439 Minions.
+2016.12.18 14:37:34,243	CONFIG	1	net.sf.l2j.gameserver.datatables.HennaTable	HennaTable: Loaded 180 Templates.
+2016.12.18 14:37:34,411	CONFIG	1	net.sf.l2j.gameserver.datatables.HennaTreeTable	HennaTreeTable: Loaded 7128 Henna Tree Templates.
+2016.12.18 14:37:34,426	CONFIG	1	net.sf.l2j.gameserver.datatables.HennaTable	Helper Buff Table: Loaded 15 Templates.
+2016.12.18 14:37:34,444	INFO	1	net.sf.l2j.gameserver.GeoData	Geodata Engine: Disabled.
+2016.12.18 14:37:34,629	CONFIG	1	net.sf.l2j.gameserver.model.L2World	L2World: Setting up World Regions
+2016.12.18 14:37:36,562	CONFIG	1	net.sf.l2j.gameserver.model.L2World	L2World: (87 by 128) World Region Grid set up.
+2016.12.18 14:37:36,785	CONFIG	1	net.sf.l2j.gameserver.datatables.TeleportLocationTable	TeleportLocationTable: Loaded 659 Teleport Location Templates.
+2016.12.18 14:37:36,790	CONFIG	1	net.sf.l2j.gameserver.datatables.TeleportLocationTable	TeleportLocationTable: Loaded 174 Custom Teleport Location Templates.
+2016.12.18 14:37:36,800	CONFIG	1	net.sf.l2j.gameserver.datatables.LevelUpData	LevelUpData: Loaded 89 Character Level Up Templates.
+2016.12.18 14:37:36,819	INFO	1	net.sf.l2j.gameserver.datatables.ZoneData	Loading zones...
+2016.12.18 14:37:37,193	INFO	1	net.sf.l2j.gameserver.instancemanager.TownManager	Initializing TownManager
+2016.12.18 14:37:38,067	INFO	1	net.sf.l2j.gameserver.datatables.ZoneData	Done: loaded 111 zones.
+2016.12.18 14:37:57,044	INFO	1	net.sf.l2j.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Day/Night handler initialised
+2016.12.18 14:38:00,591	WARNING	1	net.sf.l2j.gameserver.datatables.SpawnTable	SpawnTable: Data missing in NPC table for ID: 90001.
+2016.12.18 14:38:00,638	CONFIG	1	net.sf.l2j.gameserver.datatables.SpawnTable	SpawnTable: Loaded 38956 Npc Spawn Locations.
+2016.12.18 14:38:00,851	WARNING	1	net.sf.l2j.gameserver.instancemanager.RaidBossSpawnManager	RaidBossSpawnManager: Could not load raidboss #251073 from DB
+2016.12.18 14:38:00,859	INFO	1	net.sf.l2j.gameserver.instancemanager.RaidBossSpawnManager	RaidBossSpawnManager: Loaded 179 Instances
+2016.12.18 14:38:00,861	INFO	1	net.sf.l2j.gameserver.instancemanager.RaidBossSpawnManager	RaidBossSpawnManager: Scheduled 0 Instances
+2016.12.18 14:38:00,866	INFO	1	net.sf.l2j.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Deleted 0 night creatures
+2016.12.18 14:38:00,878	INFO	1	net.sf.l2j.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawning 232 day creatures
+2016.12.18 14:38:00,983	INFO	1	net.sf.l2j.gameserver.instancemanager.DimensionalRiftManager	DimensionalRiftManager: Loaded 7 room types with 56 rooms.
+2016.12.18 14:38:01,045	INFO	1	net.sf.l2j.gameserver.instancemanager.DimensionalRiftManager	DimensionalRiftManager: Loaded 462 dimensional rift spawns, 0 errors.
+2016.12.18 14:38:01,156	CONFIG	1	net.sf.l2j.gameserver.Announcements	Announcements: Loaded 3 Announcements.
+2016.12.18 14:38:01,267	INFO	1	net.sf.l2j.gameserver.model.L2Manor	ManorManager: Loaded 256 seeds
+2016.12.18 14:38:01,779	INFO	1	net.sf.l2j.gameserver.instancemanager.CastleManorManager	Initializing CastleManorManager
+2016.12.18 14:38:01,795	INFO	1	net.sf.l2j.gameserver.instancemanager.CastleManorManager	Manor System: Manor refresh updated
+2016.12.18 14:38:01,798	INFO	1	net.sf.l2j.gameserver.instancemanager.CastleManorManager	Manor System: Manor period approve updated
+2016.12.18 14:38:01,802	INFO	1	net.sf.l2j.gameserver.instancemanager.CastleManorManager	Manor System: New Schedule for period approve @ Mon Dec 19 06:00:01 GMT-03:00 2016
+2016.12.18 14:38:27,782	INFO	1	net.sf.l2j.gameserver.datatables.AugmentationData	Initializing AugmentationData.
+2016.12.18 14:38:27,810	INFO	1	net.sf.l2j.gameserver.datatables.AugmentationData	AugmentationData: Loaded: 52 augmentation stats.
+2016.12.18 14:38:27,812	INFO	1	net.sf.l2j.gameserver.datatables.AugmentationData	AugmentationData: Loaded: 80 active, 21 passive and 70 chance skills
+2016.12.18 14:38:27,832	WARNING	1	net.sf.l2j.gameserver.datatables.DoorTable	Searching clan halls doors:
+2016.12.18 14:38:27,967	CONFIG	1	net.sf.l2j.gameserver.datatables.DoorTable	DoorTable: Loaded 548 Door Templates.
+2016.12.18 14:38:28,007	CONFIG	1	net.sf.l2j.gameserver.datatables.StaticObjects	StaticObject: Loaded 29 StaticObject Templates.
+2016.12.18 14:38:28,032	INFO	1	net.sf.l2j.gameserver.SevenSigns	SevenSigns: Currently in the Seal Validation period!
+2016.12.18 14:38:28,034	INFO	1	net.sf.l2j.gameserver.SevenSigns	SevenSigns: The Seal of Avarice remains unclaimed.
+2016.12.18 14:38:28,035	INFO	1	net.sf.l2j.gameserver.SevenSigns	SevenSigns: The Seal of Gnosis remains unclaimed.
+2016.12.18 14:38:28,036	INFO	1	net.sf.l2j.gameserver.SevenSigns	SevenSigns: The Seal of Strife remains unclaimed.
+2016.12.18 14:38:28,037	INFO	1	net.sf.l2j.gameserver.SevenSigns	SevenSigns: The competition ended with a tie last week.
+2016.12.18 14:38:28,041	INFO	1	net.sf.l2j.gameserver.SevenSigns	SevenSigns: Next period begins in 1 days, 3 hours and 21 mins.
+2016.12.18 14:38:28,057	INFO	1	net.sf.l2j.gameserver.SevenSignsFestival	SevenSignsFestival: Initialization bypassed due to Seal Validation in effect.
+2016.12.18 14:38:28,255	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: Loading Olympiad System....
+2016.12.18 14:38:28,255	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: Currently in Olympiad Period
+2016.12.18 14:38:28,257	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: Period Ends....
+2016.12.18 14:38:28,259	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: In 44 days, 21 hours and 21 mins.
+2016.12.18 14:38:28,261	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: Next Weekly Change is in....
+2016.12.18 14:38:28,263	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: 7 days, 21 hours and 33 mins.
+2016.12.18 14:38:28,266	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: Loaded 0 Nobles
+2016.12.18 14:38:28,268	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: Competition Period Starts in 0 days, 0 hours and 0 mins.
+2016.12.18 14:38:28,270	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: Event starts/started : Sun Dec 18 12:00:28 GMT-03:00 2016
+2016.12.18 14:38:28,290	INFO	15	net.sf.l2j.gameserver.Olympiad	Olympiad System: Olympiad Game Started
+2016.12.18 14:38:28,307	INFO	1	net.sf.l2j.gameserver.model.entity.Hero	Hero System: Loaded 0 Heroes.
+2016.12.18 14:38:28,308	INFO	1	net.sf.l2j.gameserver.model.entity.Hero	Hero System: Loaded 0 all time Heroes.
+2016.12.18 14:38:28,560	WARNING	1	net.sf.l2j.gameserver.script.faenor.FaenorEventParser	Event ID: (Valentines Event) has passed... Ignored.
+2016.12.18 14:38:28,566	INFO	1	net.sf.l2j.gameserver.instancemanager.CursedWeaponsManager	Initializing CursedWeaponsManager
+2016.12.18 14:38:28,586	INFO	1	net.sf.l2j.gameserver.instancemanager.CursedWeaponsManager	Loaded : 2 cursed weapon(s).
+2016.12.18 14:38:28,588	CONFIG	1	net.sf.l2j.gameserver.GameServer	AutoChatHandler: Loaded 32 handlers in total.
+2016.12.18 14:38:28,589	CONFIG	1	net.sf.l2j.gameserver.GameServer	AutoSpawnHandler: Loaded 129 handlers in total.
+2016.12.18 14:38:28,766	CONFIG	1	net.sf.l2j.gameserver.handler.AdminCommandHandler	AdminCommandHandler: Loaded 370 handlers.
+2016.12.18 14:38:28,826	CONFIG	1	net.sf.l2j.gameserver.handler.ItemHandler	ItemHandler: Loaded 2010 handlers.
+2016.12.18 14:38:28,879	CONFIG	1	net.sf.l2j.gameserver.handler.SkillHandler	SkillHandler: Loaded 71 handlers.
+2016.12.18 14:38:28,895	CONFIG	1	net.sf.l2j.gameserver.handler.ItemHandler	VoicedCommandHandler: Loaded 10 handlers.
+2016.12.18 14:38:28,903	INFO	1	net.sf.l2j.gameserver.handler.AutoAnnouncementHandler	GameServer: Loaded 2 Auto Announcements.
+2016.12.18 14:38:29,011	CONFIG	1	net.sf.l2j.gameserver.GameServer	IdFactory: Free ObjectID's remaining: 1879004705
+2016.12.18 14:38:29,018	INFO	1	net.sf.l2j.gameserver.util.FloodProtector	Initializing FloodProtector
+2016.12.18 14:38:29,029	INFO	1	net.sf.l2j.gameserver.GameServer	Away System
+2016.12.18 14:38:29,033	INFO	1	net.sf.l2j.gameserver.instancemanager.AwayManager	AwayManager: initialized.
+2016.12.18 14:38:32,723	INFO	1	net.sf.l2j.gameserver.GameServer	GameServer Started, free memory 156 Mb of 455 Mb
+2016.12.18 14:38:32,768	INFO	48	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.12.18 14:38:33,143	CONFIG	1	net.sf.l2j.gameserver.GameServer	Maximum Numbers of Connected Players: 1000
+2016.12.18 14:38:34,287	INFO	48	net.sf.l2j.gameserver.LoginServerThread	Registered on login as Server 1 : Bartz
+2016.12.18 14:38:49,465	SEVERE	52	net.sf.l2j.gameserver.model.L2ItemInstance	Item item_id=9545 not known, object_id=268478879
+2016.12.18 14:39:01,182	INFO	55	net.sf.l2j.gameserver.instancemanager.CrownManager	CrownManager: initialized

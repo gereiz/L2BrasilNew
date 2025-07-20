@@ -1,0 +1,19 @@
+2016.10.07 04:50:12,971	INFO	1	net.sf.l2j.Config	loading login config
+2016.10.07 04:50:14,136	INFO	1	com.mchange.v2.log.MLog	MLog clients using java 1.4+ standard logging.
+2016.10.07 04:50:18,611	INFO	1	com.mchange.v2.c3p0.C3P0Registry	Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2016.10.07 04:50:22,699	INFO	1	com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource	Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 0, acquireRetryDelay -> 500, autoCommitOnClose -> true, automaticTestTable -> connection_test_table, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hge1369j17vfephppzmag|6477463f, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge1369j17vfephppzmag|6477463f, idleConnectionTestPeriod -> 3600, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://localhost/l2jesenn, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 100, minPoolSize -> 10, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2016.10.07 04:50:22,803	INFO	1	net.sf.l2j.loginserver.LoginController	Loading LoginContoller...
+2016.10.07 04:50:27,590	INFO	1	net.sf.l2j.loginserver.LoginController	Cached 10 KeyPairs for RSA communication
+2016.10.07 04:50:29,254	INFO	1	net.sf.l2j.loginserver.LoginController	Stored 20 keys for Blowfish communication
+2016.10.07 04:50:29,353	INFO	1	net.sf.l2j.loginserver.GameServerTable	Loaded 127 server names
+2016.10.07 04:50:29,424	INFO	1	net.sf.l2j.loginserver.GameServerTable	Loaded 1 registered Game Servers
+2016.10.07 04:50:30,028	INFO	1	net.sf.l2j.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
+2016.10.07 04:50:30,063	CONFIG	1	net.sf.l2j.loginserver.L2LoginServer	Loaded 2 IP Bans.
+2016.10.07 04:50:30,204	INFO	1	net.sf.l2j.loginserver.L2LoginServer	Listening for GameServers on 127.0.0.1:9014
+2016.10.07 04:50:30,359	INFO	1	net.sf.l2j.loginserver.L2LoginServer	Login Server ready on *:2106
+2016.10.07 04:51:28,800	INFO	18	net.sf.l2j.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2016.10.07 04:51:28,801	INFO	18	net.sf.l2j.loginserver.GameServerThread	InternalIP: 192.168.1.4
+2016.10.07 04:51:28,801	INFO	18	net.sf.l2j.loginserver.GameServerThread	ExternalIP: l2chopsuey.servegame.com
+2016.10.07 04:51:32,159	INFO	20	net.sf.l2j.loginserver.LoginController	Created new account for rafaelsiva
+2016.10.07 04:52:39,864	INFO	18	net.sf.l2j.loginserver.GameServerThread	GameServer [1] Bartz: Connection lost: Connection reset
+2016.10.07 04:52:39,865	INFO	18	net.sf.l2j.loginserver.GameServerThread	Server [1] Bartz is now set as disconnected

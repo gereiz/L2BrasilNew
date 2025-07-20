@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Gold Bank Multisell -->
+
+<list maintainEnchantment="true">
+
+  <!-- Adena To Gold Bar -->
+  <item id="1">
+    <ingredient id="5574" count="1"/>
+	<production id="5575" count="3"/>
+  </item>
+
+  <!-- Adena To Gold Bar -->
+  <item id="2">
+    <ingredient id="5572" count="1"/>
+	<production id="5575" count="2"/>
+  </item>
+
+  <!-- Adena To Gold Bar -->
+  <item id="3">
+    <ingredient id="5570" count="1"/>
+	<production id="5575" count="1"/>
+  </item>
+
+  <!-- Adena To Gold Bar -->
+  <item id="4">
+    <ingredient id="5574" count="10"/>
+	<production id="5575" count="13"/>
+  </item>
+
+  <!-- Adena To Gold Bar -->
+  <item id="5">
+    <ingredient id="5572" count="10"/>
+	<production id="5575" count="12"/>
+  </item>
+
+  <!-- Adena To Gold Bar -->
+  <item id="6">
+    <ingredient id="5570" count="10"/>
+	<production id="5575" count="10"/>
+  </item>
+</list>

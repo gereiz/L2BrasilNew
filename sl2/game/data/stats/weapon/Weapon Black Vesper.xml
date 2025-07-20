@@ -1,0 +1,551 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='9900' name="Vesper Black Blade">
+  <for>
+   <set val='854' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9901' name="Vesper Black Blade - Focus">
+  <for>
+   <set val='854' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9902' name="Vesper Black Blade - Haster">
+  <for>
+   <set val='854' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9903' name="Vesper Black Blade - Health">
+  <for>
+   <set val='854' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9904' name="Vesper Black Bow">
+  <for>
+   <set val='1300' order='0x08' stat='pAtk'/>
+   <set val='402' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='-3' order='0x10' stat='accCombat'/>
+   <set val='293' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9905' name="Vesper Black Bow - Focus">
+  <for>
+   <set val='1300' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='-3' order='0x10' stat='accCombat'/>
+   <set val='293' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9906' name="Vesper Black Bow - Quick Recovery">
+  <for>
+   <set val='1300' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='-3' order='0x10' stat='accCombat'/>
+   <set val='293' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9907' name="Vesper Black Bow - Critical Slow">
+  <for>
+   <set val='1300' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='-3' order='0x10' stat='accCombat'/>
+   <set val='293' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9908' name="Vesper Black Dagger">
+  <for>
+   <set val='759' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='-3' order='0x10' stat='accCombat'/>
+   <set val='433' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9909' name="Vesper Black Dagger - Focus">
+  <for>
+   <set val='759' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='-3' order='0x10' stat='accCombat'/>
+   <set val='433' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9910' name="Vesper Black Dagger - Haste">
+  <for>
+   <set val='759' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='-3' order='0x10' stat='accCombat'/>
+   <set val='433' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9911' name="Vesper Black Dagger - Critical Damage">
+  <for>
+   <set val='759' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='-3' order='0x10' stat='accCombat'/>
+   <set val='433' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9912' name="Vesper Black Avenger">
+  <for>
+   <set val='804' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='4' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9913' name="Vesper Black Avenger - Focus">
+  <for>
+   <set val='804' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='4' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9914' name="Vesper Black Avenger - Haste">
+  <for>
+   <set val='804' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='4' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9915' name="Vesper Black Avenger - Health">
+  <for>
+   <set val='804' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='4' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9916' name="Vesper Black Fangs">
+  <for>
+   <set val='859' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='325' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9917' name="Vesper Black Fangs - Focus">
+  <for>
+   <set val='859' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='4' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9918' name="Vesper Black Fangs - Critical Stun">
+  <for>
+   <set val='859' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='4' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9919' name="Vesper Black Fangs - Critical Silence">
+  <for>
+   <set val='850' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='4' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9920' name="Vesper Black Magic Blunt">
+  <for>
+   <set val='459' order='0x08' stat='pAtk'/>
+   <set val='700' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9921' name="Vesper Black Magic Blunt - Acumen">
+  <for>
+   <set val='459' order='0x08' stat='pAtk'/>
+   <set val='700' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9922' name="Vesper Black Magic Blunt - Empower">
+  <for>
+   <set val='459' order='0x08' stat='pAtk'/>
+   <set val='700' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9923' name="Vesper Black Magic Blunt - Mana Up">
+  <for>
+   <set val='459' order='0x08' stat='pAtk'/>
+   <set val='700' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9924' name="Vesper Black Spear">
+  <for>
+   <set val='834' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='-3' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9925' name="Vesper Black Spear - Haste">
+  <for>
+   <set val='834' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='-3' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9926' name="Vesper Black Spear - Health">
+  <for>
+   <set val='834' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='-3' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9927' name="Vesper Black Spear - Critical Stun">
+  <for>
+   <set val='834' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='-3' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9928' name="Vesper Black Magic Sword">
+  <for>
+   <set val='399' order='0x08' stat='pAtk'/>
+   <set val='700' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9929' name="Vesper Black Magic Sword - Acumen">
+  <for>
+   <set val='399' order='0x08' stat='pAtk'/>
+   <set val='700' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9930' name="Vesper Black Magic Sword - Empower">
+  <for>
+   <set val='399' order='0x08' stat='pAtk'/>
+   <set val='700' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9931' name="Vesper Black Magic Sword - Magic Paralize">
+  <for>
+   <set val='399' order='0x08' stat='pAtk'/>
+   <set val='700' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='379' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9932' name="Vesper Black Big Sword">
+  <for>
+   <set val='879' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='325' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9933' name="Vesper Black Big Sword - Focus">
+  <for>
+   <set val='879' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='325' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9934' name="Vesper Black Big Sword - Haste">
+  <for>
+   <set val='879' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='325' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9935' name="Vesper Black Big Sword - Health">
+  <for>
+   <set val='879' order='0x08' stat='pAtk'/>
+   <set val='411' order='0x08' stat='mAtk'/>
+   <set val='15' order='0x08' stat='rCrit'/>
+   <add val='0' order='0x10' stat='accCombat'/>
+   <set val='325' order='0x08' stat='pAtkSpd'/>
+   <enchant val='0' order='0x0C' stat='pAtk'/>
+   <enchant val='0' order='0x0C' stat='mAtk'/>
+   <!-- Enhances damage to target during PvP -->
+   <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+   <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+
+<item id='9936' name="Vesper Black Shield">
+  <for>
+   <sub val='7' order='0x10' stat='rEvas'/>
+   <set val='475' order='0x08' stat='sDef'/>
+   <set val='20' order='0x08' stat='rShld'/>
+   <enchant val='0' order='0x0C' stat='pDef'/>
+  </for>
+</item>
+</list>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--Donation Trader L2Makabro-->
+<list>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="1">
+    <ingredient id="7552" count="1500" enchant="0"/>
+    <ingredient id="3470" count="2" enchant="0"/>
+	<production id="8566" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="2">
+    <ingredient id="7552" count="1500" enchant="0"/>
+    <ingredient id="3470" count="2" enchant="0"/>
+	<production id="8568" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="2">
+    <ingredient id="7552" count="1500" enchant="0"/>
+    <ingredient id="3470" count="2" enchant="0"/>
+	<production id="8567" count="1" enchant="0"/>
+  </item>
+</list>

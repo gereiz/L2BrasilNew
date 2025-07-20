@@ -1,0 +1,36 @@
+2016.12.19 06:13:52,820	INFO	1	net.sf.l2j.Config	loading login config
+2016.12.19 06:13:55,048	INFO	1	com.mchange.v2.log.MLog	MLog clients using java 1.4+ standard logging.
+2016.12.19 06:13:58,097	INFO	1	com.mchange.v2.c3p0.C3P0Registry	Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2016.12.19 06:14:02,202	INFO	1	com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource	Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 0, acquireRetryDelay -> 500, autoCommitOnClose -> true, automaticTestTable -> connection_test_table, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1b60feh9l67c30soif4zl|6477463f, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1b60feh9l67c30soif4zl|6477463f, idleConnectionTestPeriod -> 3600, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://localhost/l2jesenn, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 100, minPoolSize -> 10, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2016.12.19 06:14:02,490	INFO	1	net.sf.l2j.loginserver.LoginController	Loading LoginContoller...
+2016.12.19 06:14:06,199	INFO	1	net.sf.l2j.loginserver.LoginController	Cached 10 KeyPairs for RSA communication
+2016.12.19 06:14:11,089	INFO	1	net.sf.l2j.loginserver.LoginController	Stored 20 keys for Blowfish communication
+2016.12.19 06:14:11,345	INFO	1	net.sf.l2j.loginserver.GameServerTable	Loaded 127 server names
+2016.12.19 06:14:11,765	INFO	1	net.sf.l2j.loginserver.GameServerTable	Loaded 1 registered Game Servers
+2016.12.19 06:14:13,143	INFO	1	net.sf.l2j.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
+2016.12.19 06:14:13,148	CONFIG	1	net.sf.l2j.loginserver.L2LoginServer	Loaded 2 IP Bans.
+2016.12.19 06:14:14,061	INFO	1	net.sf.l2j.loginserver.L2LoginServer	Listening for GameServers on 127.0.0.1:9014
+2016.12.19 06:14:14,065	INFO	1	net.sf.l2j.loginserver.L2LoginServer	Login Server ready on *:2106
+2016.12.19 06:17:17,335	INFO	18	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:17:22,325	INFO	19	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:17:27,381	INFO	20	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:17:32,425	INFO	21	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:17:37,448	INFO	22	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:17:42,584	INFO	23	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:17:47,635	INFO	24	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:17:52,654	INFO	25	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:17:57,679	INFO	26	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:18:02,709	INFO	27	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:18:07,725	INFO	28	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:18:12,763	INFO	29	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:18:17,804	INFO	30	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:18:22,820	INFO	31	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:18:27,865	INFO	32	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:18:32,985	INFO	33	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:18:38,007	INFO	34	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:18:43,027	INFO	35	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:18:48,041	INFO	36	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:18:53,073	INFO	37	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:18:58,094	INFO	38	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:19:03,112	INFO	39	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.12.19 06:19:08,124	INFO	40	net.sf.l2j.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='9800' name="Helm">
+  <for>
+<add order="0x30" stat="maxHp" val="2000"/>
+<add order="0x30" stat="maxMp" val="2000"/>
+<add order="0x30" stat="maxCp" val="2000"/>
+<mul order="0x30" stat="pDef" val="1.30"/>
+<mul order="0x30" stat="mDef" val="1.20"/>
+<mul order="0x30" stat="pAtk" val="1.60"/>
+<mul order="0x30" stat="mAtk" val="1.60"/>
+<mul order="0x30" stat="pAtkSpd" val="1.30"/>
+<mul order="0x30" stat="mAtkSpd" val="1.30"/>
+  </for>
+</item>
+<item id='9801' name="Helm">
+  <for>
+<add order="0x30" stat="maxHp" val="2000"/>
+<add order="0x30" stat="maxMp" val="2000"/>
+<add order="0x30" stat="maxCp" val="2000"/>
+<mul order="0x30" stat="pDef" val="1.30"/>
+<mul order="0x30" stat="mDef" val="1.20"/>
+<mul order="0x30" stat="pAtk" val="1.60"/>
+<mul order="0x30" stat="mAtk" val="1.60"/>
+<mul order="0x30" stat="pAtkSpd" val="1.30"/>
+<mul order="0x30" stat="mAtkSpd" val="1.30"/>
+  </for>
+</item>
+</list>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+        <skill id="6001" levels="1" name="Shield of Reflect">
+	<!--Description(s):
+         Shield damage and Magical Mirror effect.]-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+		<add val="15" order="0x40" stat='reflectDam' />
+                <add val="10" order="0x40" stat="reflectSkillPhysic"/>
+                <add val="10" order="0x40" stat="reflectSkillMagic"/>
+                </for>
+	</skill>
+        <skill id="6002" levels="1" name="Shield of Evasion">
+	<!--Description(s):
+         +7 speed and evasion is 0.-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+	        <add order="0x40" stat="runSpd" val="7"/>
+                </for>
+	</skill>
+        <skill id="6003" levels="1" name="Lady's Fan">
+	<!--Description(s):
+         Casting speed +17.5%-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+	        <mul order="0x30" stat="mAtkSpd" val="1.175"/> <!-- Casting Spd. +17.5% -->
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+        <skill id="6004" levels="1" name="Bow of Halisha">
+	<!--Description(s):
+         +95 Critical damage-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+                <add val='95' order='0x40' stat='cAtk'/>
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+        <skill id="6005" levels="1" name="Dreadbane">
+	<!--Description(s):
+         Vampiric rage,improves the effect of HP regeneration magic and restores HP by using some of the damage inflicted upon the enemy (does not include damage from skill or range attacks).-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<set name="hitRadius" val="360"/>
+                <for>
+	        <add order="0x40" stat="atkCountMax" val="5"/>
+                <mul val='1.10' order='0x30' stat='gainHp'/>
+                <add val='4' order='0x40' stat='absorbDam'/>
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+  <skill id="6006" levels="1" name="Crokian Blade*Crokian Blade">
+	<!--Description(s):
+         Special L2Moria Duals.-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+	        <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+                <add val='95' order='0x40' stat='cAtk'/>
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+  <skill id="6007" levels="1" name="Giant Trident">
+	<!--Description(s):
+         Special L2Moria Dagger.-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+ <skill id="6008" levels="1" name="Giant Trident - On crit">
+	<!--Description(s):
+         Increases P. Atk. during critical-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+	        <add order="0x40" stat="pAtk" val="265"/> <!-- P. Atk. +265 -->
+                </for>
+	</skill>
+ <skill id="6009" levels="1" name="Doll Knife">
+	<!--Description(s):
+         Special L2 Moria dagger-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+	        <add val='95' order='0x40' stat='cAtk'/>
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+ <skill id="6010" levels="1" name="Ahrimanes">
+	<!--Description(s):
+         Special L2 Moria dagger-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+	        <mul order="0x30" stat="blowRate" val="1.40"/>
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+ <skill id="6012" levels="1" name="Dusk Sword">
+	<!--Description(s):
+         Increases C.Spd. by 17.5%.-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+	        <mul order="0x30" stat="mAtk" val="1.15"/>
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+ <skill id="6013" levels="1" name="Dusk Staff">
+	<!--Description(s):
+         Increases Casting Spd. by 17.5%.-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+	        <mul order="0x30" stat="mAtkSpd" val="1.175"/> <!-- Casting Spd. +17.5% -->
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+<skill id="6014" levels="1" name="Crokian Blade">
+	<!--Description(s):
+         Increases Atk. speed by 7% and Accuracy by 6. Enhances damage to target during PvP.-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+	        <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+<skill id="6015" levels="1" name="Sword of Apostle">
+	<!--Description(s):
+         Increases Accuracy by 6 and maximum HP by 25%. Enhances damage to target during PvP.-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+	        <mul val='1.25' order='0x40' stat='maxHp'/>
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+<skill id="6016" levels="1" name="Sword of Vampire">
+	<!--Description(s):
+         Increases Critical Attack by 95 and maximum HP by 25%. Enhances damage to target during PvP.-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+	        <add val='95' order='0x40' stat='cAtk'/>
+                <mul val='1.25' order='0x40' stat='maxHp'/>
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+<skill id="6017" levels="1" name="Nos Sword*Nos Sword">
+	<!--Description(s):
+        Aio buffer duals-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+	        <mul order="0x30" stat="mAtkSpd" val="1.175"/> <!-- Casting Spd. +17.5% -->
+                <add val='1200' order='0x40' stat='pAtkSpd'/>
+                <add val='15000' order='0x40' stat='maxMp'/>
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+<skill id="6018" levels="1" name="Axe of Ketra">
+	<!--Description(s):
+        Increases Accuracy by 6 and P. Atk. by 265 during a critical attack. Enhances damage to target during PvP.-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+	        <add val='6' order='0x40' stat='accCombat'/>
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+<skill id="6019" levels="1" name="Dusk Sword*Dusk Sword">
+	<!--Description(s):
+        Aio buffer duals-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+                <mul order="0x30" stat="mAtkSpd" val="1.30"/> <!-- Casting Spd. +17.5% -->
+                <add val='1200' order='0x40' stat='pAtkSpd'/>
+                <add val='15000' order='0x40' stat='maxMp'/>
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+<skill id="6020" levels="1" name="Doll Knife*Doll Knife">
+	<!--Description(s):
+        Increases Atk. speed by 7% and Accuracy by 6. Enhances damage to target during PvP.-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+	        <mul val='1.07' order='0x30' stat='pAtkSpd'/>
+                <add val='6' order='0x40' stat='accCombat'/>
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+<skill id="6021" levels="1" name="Dual SOM">
+	<!--Description(s):
+       C. Spd+ 18,5%.-->
+		<set name="power" val="0.0"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<set name="effectRange" val="-1"/>
+                <set name="castRange" val="-1"/>
+		<for>
+	      <mul order="0x30" stat="mAtkSpd" val="1.185"/> <!-- Casting Spd. +18.5% -->
+                <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+                <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+                </for>
+	</skill>
+</list>

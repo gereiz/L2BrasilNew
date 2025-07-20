@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='9754' name="Baium Hair">
+  <for>
+   <add val="2000" order="0x40" stat='pDef'/>
+   <add val="2000" order="0x40" stat='mDef'/>
+   <add val="2000" order="0x40" stat='pAtk'/>
+   <add val="2000" order="0x40" stat='mAtk'/>
+   <add val="2000" order="0x40" stat='maxHp'/>
+   <add val="2000" order="0x40" stat='maxCp'/>
+  </for>
+</item>
+</list>

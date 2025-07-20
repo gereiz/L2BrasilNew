@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='9754' name="Baium Hair">
+  <for>
+<add val='0' order='0x40' stat='pAtk'/>
+<add val='0' order='0x40' stat='mAtk'/>
+<add val="0" order="0x40" stat='runSpd'/>
+<add val='0' order='0x40' stat='maxHp'/>
+<add val='0' order='0x40' stat='maxMp'/>
+<add val='0' order='0x40' stat='maxCp'/>
+<enchant val='0' order='0x0C' stat='pDef' />
+  </for>
+</item>
+</list>

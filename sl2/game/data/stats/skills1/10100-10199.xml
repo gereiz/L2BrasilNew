@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Vesper Set By mend3 e XxJrBrxX L2JM Team -->
+  <skill id="10100" levels="1" name="Vesper Gold Light">
+    <set name="power" val="0.0" />
+    <set name="target" val="TARGET_SELF" />
+    <set name="skillType" val="BUFF" />
+    <set name="operateType" val="OP_PASSIVE" />
+    <set name="castRange" val="-1" />
+    <set name="effectRange" val="-1" />
+    <for>
+      <add order="0x40" stat="CON" val="1" /><!-- Con +1 -->
+      <add order="0x40" stat="DEX" val="2" /><!-- Dex +2 -->
+      <add order="0x40" stat="accCombat" val="2.72" /><!-- Accuracy +2.72 -->
+      <add order="0x40" stat="rEvas" val="1.72" /><!-- Evasion +2.72 -->
+      <add order="0x40" stat="pAtk" val="3000" /><!-- M. Atk. +10.4% -->
+      <add order="0x40" stat="maxHp" val="8000" /><!-- MaxHP +900 -->
+      <add order="0x40" stat="maxCp" val="2000" /><!-- MaxCP +1000 -->
+      <mul order="0x30" stat="darkVuln" val="0.94" /><!-- Darkness Resistance +6 -->
+    </for>
+  </skill>
+  <skill id="10101" levels="1" name="Vesper Gold Heavy">
+    <set name="power" val="0.0" />
+    <set name="target" val="TARGET_SELF" />
+    <set name="skillType" val="BUFF" />
+    <set name="operateType" val="OP_PASSIVE" />
+    <set name="castRange" val="-1" />
+    <set name="effectRange" val="-1" />
+    <for>
+      <add order="0x40" stat="CON" val="1" /><!-- Con +1 -->
+      <add order="0x40" stat="STR" val="2" /><!-- Str +2 -->
+      <mul order="0x30" stat="pDef" val="1.213" /><!-- P. Def +14.6% -->
+      <add order="0x40" stat="maxHp" val="10000" /><!-- MaxHP +1300 -->
+      <add order="0x40" stat="maxCp" val="2500" /><!-- MaxCP +1000 -->
+      <mul order="0x30" stat="darkVuln" val="0.94" /><!-- Darkness Resistance +6 -->
+    </for>
+  </skill>
+  <skill id="10102" levels="1" name="Vesper Gold Robe">
+    <set name="power" val="0.0" />
+    <set name="target" val="TARGET_SELF" />
+    <set name="skillType" val="BUFF" />
+    <set name="operateType" val="OP_PASSIVE" />
+    <set name="castRange" val="-1" />
+    <set name="effectRange" val="-1" />
+    <for>
+      <add order="0x40" stat="INT" val="2" /><!-- Int +2 -->
+      <add order="0x40" stat="MEN" val="2" /><!-- Men +2 -->
+      <sub order="0x40" stat="CON" val="1" /><!-- Con -1 -->
+      <add order="0x40" stat="mAtk" val="7000" /><!-- M. Atk. +10.4% -->
+      <mul order="0x30" stat="mAtkSpd" val="1.22" /><!-- Casting Spd +12% -->
+      <add order="0x40" stat="maxHp" val="7500" /><!-- Maximum HP +900 effect -->
+      <add order="0x40" stat="maxMp" val="5000" /><!-- Maximum MP +1500 effect -->
+      <add order="0x40" stat="maxCp" val="1500" /><!-- MaxCP +1000 -->
+      <mul order="0x30" stat="darkVuln" val="0.92" /><!-- Darkness resistance is increased by +8 -->
+      <mul order="0x30" stat="PhysicalMpConsumeRate" val="0.97" /><!-- MP consumption of the active skill is decreased +? -->
+    </for>
+  </skill>
+  <skill id="10113" levels="1" name="Vesper Silver Heavy">
+    <set name="power" val="0.0" />
+    <set name="target" val="TARGET_SELF" />
+    <set name="skillType" val="BUFF" />
+    <set name="operateType" val="OP_PASSIVE" />
+    <set name="castRange" val="-1" />
+    <set name="effectRange" val="-1" />
+    <for>
+      <add order="0x40" stat="CON" val="1" /><!-- Con +1 -->
+      <add order="0x40" stat="STR" val="3" /><!-- Str +3 -->
+      <mul order="0x30" stat="pDef" val="1.312" /><!-- P. Def +14.6% -->
+      <add order="0x40" stat="maxHp" val="8000" /><!-- MaxHP +1500 -->
+      <add order="0x40" stat="maxCp" val="2000" /><!-- MaxCP +1000 -->
+      <mul order="0x30" stat="darkVuln" val="0.92" /><!-- Increase Darkness Resistance +8 -->
+      <basemul order="0x30" stat="rCrit" val="0.03" /><!-- Critical Damage Chance +? -->
+      <!-- Guessing -->
+    </for>
+  </skill>
+  <skill id="10114" levels="1" name="Vesper Silver Light">
+    <set name="power" val="0.0" />
+    <set name="target" val="TARGET_SELF" />
+    <set name="skillType" val="BUFF" />
+    <set name="operateType" val="OP_PASSIVE" />
+    <set name="castRange" val="-1" />
+    <set name="effectRange" val="-1" />
+    <for>
+      <add order="0x40" stat="CON" val="2" /><!-- Con +2 -->
+      <add order="0x40" stat="DEX" val="3" /><!-- Dex +3 -->
+      <add order="0x40" stat="accCombat" val="3.52" /><!-- Accuracy +2.72 -->
+      <add order="0x40" stat="rEvas" val="2.72" /><!-- Evasion +2.72 -->
+      <mul order="0x30" stat="pAtk" val="1.306" /><!-- P. Atk. +10.4% -->
+      <add order="0x40" stat="maxHp" val="8000" /><!-- MaxHP +1000 -->
+      <add order="0x40" stat="maxCp" val="2000" /><!-- MaxCP +1000 -->
+      <mul order="0x30" stat="darkVuln" val="0.94" /><!-- Darkness Resistance +6 -->
+    </for>
+  </skill>
+  <skill id="10115" levels="1" name="Vesper Silver Robe">
+    <set name="power" val="0.0" />
+    <set name="target" val="TARGET_SELF" />
+    <set name="skillType" val="BUFF" />
+    <set name="operateType" val="OP_PASSIVE" />
+    <set name="castRange" val="-1" />
+    <set name="effectRange" val="-1" />
+    <for>
+      <add order="0x40" stat="INT" val="2" /><!-- Int +2 -->
+      <add order="0x40" stat="MEN" val="2" /><!-- Men +3 -->
+      <mul order="0x30" stat="mAtk" val="1.308" /><!-- M. Atk. +10.4% -->
+      <mul order="0x30" stat="mAtkSpd" val="1.32" /><!-- Casting Spd +12% -->
+      <add order="0x40" stat="maxHp" val="8000" /><!-- Maximum HP +1000 effect -->
+      <add order="0x40" stat="maxMp" val="2000" /><!-- Maximum MP +2000 effect -->
+      <add order="0x40" stat="maxCp" val="2000" /><!-- MaxCP +1000 -->
+      <mul order="0x30" stat="darkVuln" val="0.92" /><!-- Darkness resistance is increased by +8 -->
+      <mul order="0x30" stat="PhysicalMpConsumeRate" val="0.97" /><!-- MP consumption of the active skill is decreased +? -->
+    </for>
+  </skill>
+</list>

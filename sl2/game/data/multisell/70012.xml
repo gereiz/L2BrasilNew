@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Npc Craft - L2legends -->
+<list>
+    <!-- Zaken Hair -->
+    <item id="1">
+    <ingredient id="28120" count="7500" enchant="0"/>
+    <production id="9752" count="1" enchant="0"/>
+    </item>
+
+    <!-- Zaken Swords -->
+    <item id="2">
+    <ingredient id="28120" count="7500" enchant="0"/>
+    <production id="9753" count="1" enchant="0"/>
+    </item>
+
+    <!-- Baium Hair -->
+    <item id="12">
+    <ingredient id="28120" count="7500" enchant="0"/>
+    <production id="9754" count="1" enchant="0"/>
+    </item>
+    </list>

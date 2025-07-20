@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='8914' name="Dinasty Helmet - Donate">
+<for>
+<add val='20' order='0x40' stat='pAtk' />
+<add val='10' order='0x40' stat='maxHp' />
+<add val='40' order='0x40' stat='mAtk />
+</for>
+</item>
+<item id='8915' name="Dinasty Helmet - Donate">
+<for>
+<add val='20' order='0x40' stat='pAtk' />
+<add val='10' order='0x40' stat='maxHp' />
+<add val='40' order='0x40' stat='mAtk />
+</for>
+</item>
+<item id='9158' name="Dinasty Helmet - Donate">
+<for>
+<add val='20' order='0x40' stat='pAtk' />
+<add val='10' order='0x40' stat='maxHp' />
+<add val='40' order='0x40' stat='mAtk />
+</for>
+</item>
+<item id='9159' name="Dinasty Helmet - Donate">
+<for>
+<add val='20' order='0x40' stat='pAtk' />
+<add val='10' order='0x40' stat='maxHp' />
+<add val='40' order='0x40' stat='mAtk />
+</for>
+</item>
+<item id='8564' name="Dinasty Helmet - Donate">
+<for>
+<add val='80' order='0x40' stat='pAtk' />
+<add val='40' order='0x40' stat='maxHp' />
+<add val='10' order='0x40' stat='mAtk />
+</for>
+</item>
+<item id='8565' name="Dinasty Helmet - Donate">
+<for>
+<add val='20' order='0x10' stat='pDef'/>
+<add val='20' order='0x40' stat='mDef' />
+<mul order="0x30" stat="pAtkSpd" val="1.10"/> <!-- p atk Spd. +10% -->
+<mul order="0x30" stat="pAtk" val="1.10"/> <!-- p. Atk. +10% -->
+<add val='10' order='0x40' stat='mAtk />
+</for>
+</item>
+<item id='8566' name="Dinasty Helmet - Donate">
+<for>
+<add val='40' order='0x40' stat='pAtk' />
+<add val='20' order='0x40' stat='maxHp' />
+<add val='80' order='0x40' stat='mAtk />
+</for>
+</item>
+<item id='8567' name="Dinasty Helmet - Donate">
+<for>
+<add val='40' order='0x40' stat='pAtk' />
+<add val='20' order='0x40' stat='maxHp' />
+<add val='80' order='0x40' stat='mAtk />
+</for>
+</item>
+<item id='8568' name="Dinasty Helmet - Donate">
+<for>
+<add val='40' order='0x40' stat='pAtk' />
+<add val='20' order='0x40' stat='maxHp' />
+<add val='80' order='0x40' stat='mAtk />
+</for>
+</item>
+<item id='8562' name="Dinasty Helmet - Donate">
+<for>
+<add val='25' order='0x10' stat='pDef'/>
+<add val='21' order='0x40' stat='mDef' />
+<mul order="0x30" stat="pAtkSpd" val="1.10"/> <!-- p atk Spd. +10% -->
+<mul order="0x30" stat="pAtk" val="1.10"/> <!-- p. Atk. +10% -->
+<mul order="0x30" stat="mAtkSpd" val="1.10"/> <!-- Casting Spd. +10% -->
+<mul order="0x30" stat="mAtk" val="1.10"/> <!-- m. Atk. +10% -->
+</for>
+</item>
+<item id='8563' name="Dinasty Helmet - Donate">
+<for>
+<add val='20' order='0x10' stat='pDef'/>
+<add val='20' order='0x40' stat='mDef' />
+<mul order="0x30" stat="mAtk" val="1.10"/> <!-- m. Atk. +10% -->
+<add val='10' order='0x40' stat='mAtk />
+</for>
+</item>
+<item id='8920' name="Dinasty Helmet - Donate">
+<for>
+<add val='80' order='0x40' stat='pAtk' />
+<add val='40' order='0x40' stat='maxHp' />
+<add val='10' order='0x40' stat='mAtk />
+</for>
+</item>
+<item id='8921' name="Dinasty Helmet - Donate">
+<for>
+<add val='80' order='0x40' stat='pAtk' />
+<add val='40' order='0x40' stat='maxHp' />
+<add val='10' order='0x40' stat='mAtk />
+</for>
+</item>
+<item id='6842' name="Dinasty Helmet - Donate">
+<for>
+<add val='30' order='0x40' stat='pAtk' />
+<add val='20' order='0x40' stat='maxHp' />
+<add val='60' order='0x40' stat='mAtk />
+</for>
+</item>
+</list>

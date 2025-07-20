@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--Donation Trader L2Makabro-->
+<list>
+
+<!-- Ice -->
+  <item id="1">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+	<production id="9713" count="1" enchant="0"/>
+  </item>
+
+<!-- Ice -->
+  <item id="2">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="200000000" enchant="0"/>
+	<production id="9714" count="1" enchant="0"/>
+  </item>
+
+<!-- Ice -->
+  <item id="3">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+	<production id="9715" count="1" enchant="0"/>
+  </item>
+
+<!-- Ice -->
+  <item id="4">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+	<production id="9716" count="1" enchant="0"/>
+  </item>
+
+<!-- Ice -->
+  <item id="5">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+	<production id="9717" count="1" enchant="0"/>
+  </item>
+
+<!-- Ice -->
+  <item id="11">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+    <production id="9723" count="1" enchant="0"/>
+  </item>
+
+<!-- Ice -->
+  <item id="12">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+    <production id="9724" count="1" enchant="0"/>
+  </item>
+
+<!-- Ice -->
+  <item id="13">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+    <production id="9725" count="1" enchant="0"/>
+  </item>
+
+<!-- Ice -->
+  <item id="11">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+    <production id="9726" count="1" enchant="0"/>
+  </item>
+  
+  <!-- Ice -->
+  <item id="17">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+    <production id="9718" count="1" enchant="0"/>
+  </item>
+  
+  <!-- Ice -->
+  <item id="18">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+    <production id="9719" count="1" enchant="0"/>
+  </item>
+  
+  <!-- Ice -->
+  <item id="14">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+    <production id="9720" count="1" enchant="0"/>
+  </item>
+  
+  <!-- Ice -->
+  <item id="15">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+    <production id="9721" count="1" enchant="0"/>
+  </item>
+  
+  <!-- Ice -->
+  <item id="16">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+    <production id="9722" count="1" enchant="0"/>
+  </item>
+</list>

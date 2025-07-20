@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='14630' name="Dynasty wing">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='350' order='0x08' stat='sDef'/>
+    <set val='50' order='0x08' stat='rShld'/>
+    <add val="1000" order="0x40" stat='maxCp'/>
+    <add val="1000" order="0x40" stat='maxHp'/>
+    <add val="1000" order="0x40" stat='maxMp'/>
+    <enchant val='1' order='0x10C' stat='sDef'/>
+    <enchant val='1' order='0x10C' stat='pDef'/>
+  </for>
+</item>
+<item id='14631' name="BloodLust Wing">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <add val="1000" order="0x40" stat='maxCp'/>
+    <add val="1000" order="0x40" stat='maxHp'/>
+    <add val="1000" order="0x40" stat='maxMp'/>
+    <set val='350' order='0x08' stat='sDef'/>
+    <set val='50' order='0x08' stat='rShld'/>
+    <enchant val='1' order='0x10C' stat='sDef'/>
+    <enchant val='1' order='0x10C' stat='pDef'/>
+  </for>
+</item>
+<item id='14632' name="Fire Wing">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='350' order='0x08' stat='sDef'/>
+    <add val="1000" order="0x40" stat='maxCp'/>
+    <add val="1000" order="0x40" stat='maxHp'/>
+    <add val="1000" order="0x40" stat='maxMp'/>
+    <set val='50' order='0x08' stat='rShld'/>
+    <enchant val='1' order='0x10C' stat='sDef'/>
+    <enchant val='1' order='0x10C' stat='pDef'/>
+  </for>
+</item>
+<item id='14633' name="Ice Wing">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='350' order='0x08' stat='sDef'/>
+    <add val="1000" order="0x40" stat='maxCp'/>
+    <add val="1000" order="0x40" stat='maxHp'/>
+    <add val="1000" order="0x40" stat='maxMp'/>
+    <set val='50' order='0x08' stat='rShld'/>
+    <enchant val='1' order='0x10C' stat='sDef'/>
+    <enchant val='1' order='0x10C' stat='pDef'/>
+  </for>
+</item>
+<item id='14634' name="HighGuard Wing">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='350' order='0x08' stat='sDef'/>
+    <add val="1000" order="0x40" stat='maxCp'/>
+    <add val="1000" order="0x40" stat='maxHp'/>
+    <add val="1000" order="0x40" stat='maxMp'/>
+    <set val='50' order='0x08' stat='rShld'/>
+    <enchant val='1' order='0x10C' stat='sDef'/>
+    <enchant val='1' order='0x10C' stat='pDef'/>
+  </for>
+</item>
+<item id='14635' name="Titanium Wing">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='350' order='0x08' stat='sDef'/>
+    <set val='50' order='0x08' stat='rShld'/>
+    <add val="1000" order="0x40" stat='maxCp'/>
+    <add val="1000" order="0x40" stat='maxHp'/>
+    <add val="1000" order="0x40" stat='maxMp'/>
+    <enchant val='1' order='0x10C' stat='sDef'/>
+    <enchant val='1' order='0x10C' stat='pDef'/>
+  </for>
+</item>
+<item id='14636' name="Hell Wing">
+  <for>
+    <sub val='8' order='0x10' stat='rEvas'/>
+    <set val='350' order='0x08' stat='sDef'/>
+    <set val='50' order='0x08' stat='rShld'/>
+    <add val="1000" order="0x40" stat='maxCp'/>
+    <add val="1000" order="0x40" stat='maxHp'/>
+    <add val="1000" order="0x40" stat='maxMp'/>
+    <enchant val='1' order='0x10C' stat='sDef'/>
+    <enchant val='1' order='0x10C' stat='pDef'/>
+  </for>
+</item>
+</list>

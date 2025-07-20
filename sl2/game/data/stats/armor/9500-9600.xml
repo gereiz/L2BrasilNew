@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<!-- Done by GmVulcano -->
+<item id='9600' name="DragonFire armor Heavy">
+    <for>
+        <add val='425' order='0x10' stat='pDef'/>
+<add val='1000' order='0x40' stat='maxHp'>
+<and>
+<using slotitem="9601;9"/>
+<using slotitem="9602;12"/>
+<using slotitem="9603;6"/>
+</and>
+</add>
+<mul val='1.20' order='0x40' stat='pDef'>
+<and>
+<using slotitem="9601;9"/>
+<using slotitem="9602;12"/>
+<using slotitem="9603;6"/>
+</and>
+</mul>
+<mul val='1.19' order='0x40' stat='rCrit'>
+<and> 
+<using slotitem="10002;9"/>
+<using slotitem="10003;12"/>
+<using slotitem="10000;6"/>
+</and> 
+</mul>
+<mul val='1.16' order='0x40' stat='pAtkSpd'>
+<and> 
+<using slotitem="9601;9"/>
+<using slotitem="9602;12"/>
+<using slotitem="9603;6"/>
+</and> 
+</mul>
+<mul val='1.57' order='0x40' stat='mDef'>
+<and> 
+<using slotitem="9601;9"/>
+<using slotitem="9602;12"/>
+<using slotitem="9603;6"/>
+</and> 
+</mul>  
+<mul val='1.26' order='0x40' stat='pAtk'>
+<and> 
+<using slotitem="9601;9"/>
+<using slotitem="9602;12"/>
+<using slotitem="9603;6"/>
+</and> 
+</mul> 
+<enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+</list>

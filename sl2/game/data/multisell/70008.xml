@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Npc Craft - L2legends -->
+<list>
+    <!-- Devil Spear -->
+    <item id="1">
+    <ingredient id="57" count="750000000" enchant="0"/>
+    <production id="9700" count="1" enchant="0"/>
+    </item>
+
+    <!-- Medusa Blade -->
+    <item id="2">
+    <ingredient id="57" count="750000000" enchant="0"/>
+    <production id="9701" count="1" enchant="0"/>
+    </item>
+
+    <!-- Hades Dagger -->
+    <item id="3">
+    <ingredient id="57" count="750000000" enchant="0"/>
+    <production id="9702" count="1" enchant="0"/>
+    </item>
+
+    <!-- Thor Hammer -->
+    <item id="4">
+    <ingredient id="57" count="750000000" enchant="0"/>
+    <production id="9703" count="1" enchant="0"/>
+    </item>
+
+    <!-- Odin Cleaver -->
+    <item id="5">
+    <ingredient id="57" count="750000000" enchant="0"/>
+    <production id="9704" count="1" enchant="0"/>
+    </item>
+
+    <!-- Artemis Bow -->
+    <item id="6">
+    <ingredient id="57" count="750000000" enchant="0"/>
+    <production id="9705" count="1" enchant="0"/>
+    </item>
+
+    <!-- Zeus Mace -->
+    <item id="7">
+    <ingredient id="57" count="750000000" enchant="0"/>
+    <production id="9706" count="1" enchant="0"/>
+    </item>
+
+    <!-- Ares Fists -->
+    <item id="8">
+    <ingredient id="57" count="750000000" enchant="0"/>
+    <production id="9707" count="1" enchant="0"/>
+    </item>
+
+    <!-- Aphrodite Staff -->
+    <item id="9">
+    <ingredient id="57" count="750000000" enchant="0"/>
+    <production id="9708" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dual Medusa Blade -->
+    <item id="10">
+    <ingredient id="57" count="750000000" enchant="0"/>
+    <production id="9709" count="1" enchant="0"/>
+    </item>
+    </list>

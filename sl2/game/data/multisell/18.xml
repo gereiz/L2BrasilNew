@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--Donation Trader L2Makabro-->
+<list>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="3">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+	<production id="8565" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="4">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="200000000" enchant="0"/>
+	<production id="8562" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="5">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+	<production id="8563" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="6">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+	<production id="8920" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="7">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+	<production id="8921" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="11">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+	<production id="4422" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="12">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+	<production id="4423" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="13">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+	<production id="4424" count="1" enchant="0"/>
+  </item>
+
+<!-- [Barras de Ouro] for [Moedas de Ouro] -->
+  <item id="17">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+    <production id="9754" count="1" enchant="0"/>
+  </item>
+
+<!-- [Barras de Ouro] for [Moedas de Ouro] -->
+  <item id="18">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+    <production id="9753" count="1" enchant="0"/>
+  </item>
+
+<!-- [Barras de Ouro] for [Moedas de Ouro] -->
+  <item id="19">
+    <ingredient id="6673" count="40" enchant="0"/>
+    <ingredient id="57" count="100000000" enchant="0"/>
+    <production id="9752" count="1" enchant="0"/>
+  </item>
+</list>

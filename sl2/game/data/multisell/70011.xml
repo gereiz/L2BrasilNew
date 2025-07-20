@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Mystic Shop - By Setokaiba -->
+<list>
+
+    <!-- Vesper Black Blade -->
+    <item id="1">
+    <ingredient id="1724" count="20000" enchant="0"/>
+    <production id="9900" count="1" enchant="0"/>
+    </item>
+
+    <!-- Vesper Black Bow -->
+    <item id="2">
+    <ingredient id="1724" count="15000" enchant="0"/>
+    <production id="9904" count="1" enchant="0"/>
+    </item>
+
+    <!-- Vesper Black Dagger -->
+    <item id="3">
+    <ingredient id="1724" count="20000" enchant="0"/>
+    <production id="9908" count="1" enchant="0"/>
+    </item>
+
+    <!-- Vesper Black Avenger -->
+    <item id="4">
+    <ingredient id="1724" count="20000" enchant="0"/>
+    <production id="9912" count="1" enchant="0"/>
+    </item>
+
+    <!-- Vesper Black Fangs -->
+    <item id="5">
+    <ingredient id="1724" count="20000" enchant="0"/>
+    <production id="9916" count="1" enchant="0"/>
+    </item>
+
+    <!-- Vesper Black Magic Blunt -->
+    <item id="6">
+    <ingredient id="1724" count="20000" enchant="0"/>
+    <production id="9920" count="1" enchant="0"/>
+    </item>
+
+    <!-- Vesper Black Spear -->
+    <item id="7">
+    <ingredient id="1724" count="20000" enchant="0"/>
+    <production id="9924" count="1" enchant="0"/>
+    </item>
+
+    <!-- Vesper Black Magic Sword -->
+    <item id="8">
+    <ingredient id="1724" count="20000" enchant="0"/>
+    <production id="9928" count="1" enchant="0"/>
+    </item>
+
+    <!-- Vesper Black Big Sword -->
+    <item id="9">
+    <ingredient id="1724" count="20000" enchant="0"/>
+    <production id="9932" count="1" enchant="0"/>
+    </item>
+
+    <!-- Dual Vesper Black Sword -->
+    <item id="10">
+    <ingredient id="1724" count="20000" enchant="0"/>
+    <production id="9937" count="1" enchant="0"/>
+    </item>
+    </list>

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Donation Trader L10000000Makabro -->
+<list>
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="1">
+    <ingredient id="3490" count="10" enchant="0"/>
+    <ingredient id="6393" count="80" enchant="0"/>
+    <ingredient id="5575" count="8000000" enchant="0"/>
+    <ingredient id="57" count="150000000" enchant="0"/>
+	<production id="9983" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="2">
+    <ingredient id="3490" count="10" enchant="0"/>
+    <ingredient id="6393" count="80" enchant="0"/>
+    <ingredient id="5575" count="8000000" enchant="0"/>
+    <ingredient id="57" count="150000000" enchant="0"/>
+	<production id="9984" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="3">
+    <ingredient id="3490" count="10" enchant="0"/>
+    <ingredient id="6393" count="80" enchant="0"/>
+    <ingredient id="5575" count="8000000" enchant="0"/>
+    <ingredient id="57" count="150000000" enchant="0"/>
+	<production id="9985" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="4">
+   <ingredient id="3490" count="10" enchant="0"/>
+    <ingredient id="6393" count="80" enchant="0"/>
+    <ingredient id="5575" count="8000000" enchant="0"/>
+    <ingredient id="57" count="150000000" enchant="0"/>
+	<production id="9986" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="5">
+   <ingredient id="3490" count="10" enchant="0"/>
+    <ingredient id="6393" count="80" enchant="0"/>
+    <ingredient id="5575" count="8000000" enchant="0"/>
+    <ingredient id="57" count="150000000" enchant="0"/>
+	<production id="9987" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="6">
+    <ingredient id="3490" count="10" enchant="0"/>
+    <ingredient id="6393" count="80" enchant="0"/>
+    <ingredient id="5575" count="8000000" enchant="0"/>
+    <ingredient id="57" count="150000000" enchant="0"/>
+	<production id="9988" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="7">
+    <ingredient id="3490" count="10" enchant="0"/>
+    <ingredient id="6393" count="80" enchant="0"/>
+    <ingredient id="5575" count="8000000" enchant="0"/>
+    <ingredient id="57" count="150000000" enchant="0"/>
+	<production id="9989" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="8">
+    <ingredient id="3490" count="10" enchant="0"/>
+    <ingredient id="6393" count="80" enchant="0"/>
+    <ingredient id="5575" count="8000000" enchant="0"/>
+    <ingredient id="57" count="150000000" enchant="0"/>
+	<production id="9990" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="9">
+    <ingredient id="3490" count="10" enchant="0"/>
+    <ingredient id="6393" count="80" enchant="0"/>
+    <ingredient id="5575" count="8000000" enchant="0"/>
+    <ingredient id="57" count="150000000" enchant="0"/>
+	<production id="9991" count="1" enchant="0"/>
+  </item>
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="10">
+    <ingredient id="3490" count="10" enchant="0"/>
+    <ingredient id="6393" count="80" enchant="0"/>
+    <ingredient id="5575" count="8000000" enchant="0"/>
+    <ingredient id="57" count="150000000" enchant="0"/>
+	<production id="9992" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="11">
+    <ingredient id="3490" count="10" enchant="0"/>
+    <ingredient id="6393" count="80" enchant="0"/>
+    <ingredient id="5575" count="8000000" enchant="0"/>
+    <ingredient id="57" count="150000000" enchant="0"/>
+	<production id="9993" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="12">
+    <ingredient id="3490" count="10" enchant="0"/>
+    <ingredient id="6393" count="80" enchant="0"/>
+    <ingredient id="5575" count="8000000" enchant="0"/>
+    <ingredient id="57" count="150000000" enchant="0"/>
+	<production id="9994" count="1" enchant="0"/>
+  </item>
+
+<!-- [ouro] por [Weapons dynasty] -->
+  <item id="13">
+    <ingredient id="3490" count="10" enchant="0"/>
+    <ingredient id="6393" count="80" enchant="0"/>
+    <ingredient id="5575" count="8000000" enchant="0"/>
+    <ingredient id="57" count="150000000" enchant="0"/>
+	<production id="9995" count="1" enchant="0"/>
+  </item>
+</list>

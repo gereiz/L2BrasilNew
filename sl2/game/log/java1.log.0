@@ -1,0 +1,474 @@
+2016.06.14 15:40:26,229	INFO	1	net.sf.l2j.Config	loading gameserver config
+2016.06.14 15:40:26,880	INFO	1	net.sf.l2j.Config	Chat Filter: Loaded 40 words
+2016.06.14 15:40:27,245	INFO	1	com.mchange.v2.log.MLog	MLog clients using java 1.4+ standard logging.
+2016.06.14 15:40:28,276	INFO	1	com.mchange.v2.c3p0.C3P0Registry	Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2016.06.14 15:40:30,423	INFO	1	com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource	Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 0, acquireRetryDelay -> 500, autoCommitOnClose -> true, automaticTestTable -> connection_test_table, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hge1369hm98q7q1lqa8lo|176c05c, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hge1369hm98q7q1lqa8lo|176c05c, idleConnectionTestPeriod -> 3600, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://localhost/l2jesenn, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 500, maxStatements -> 0, maxStatementsPerConnection -> 100, minPoolSize -> 10, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2016.06.14 15:40:30,733	INFO	1	net.sf.l2j.gameserver.idfactory.IdFactory	Updated characters online status.
+2016.06.14 15:40:31,644	INFO	1	net.sf.l2j.gameserver.idfactory.IdFactory	Cleaned 0 elements from database.
+2016.06.14 15:40:32,076	INFO	1	net.sf.l2j.gameserver.idfactory.BitSetIDFactory	IDFactory: 102912 id's available.
+2016.06.14 15:40:35,545	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	SkillTreeTable: Loaded 35570 skills.
+2016.06.14 15:40:36,506	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	FishingSkillTreeTable: Loaded 109 general skills.
+2016.06.14 15:40:36,524	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	DwarvenCraftSkillTreeTable: Loaded 8 dwarven skills.
+2016.06.14 15:40:36,527	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	EnchantSkillTreeTable: Loaded 13200 enchant skills.
+2016.06.14 15:40:36,528	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	PledgeSkillTreeTable: Loaded 64 pledge skills
+2016.06.14 15:40:50,147	SEVERE	1	net.sf.l2j.gameserver.skills.DocumentBase	Error loading file E:\Program files\Servidor No Custom\L2 Frozen Esenn Server\gameserver_Dot\data\stats\armor\itens de cabeca.xml
+2016.06.14 15:40:51,152	CONFIG	1	net.sf.l2j.gameserver.datatables.ItemTable	ItemTable: Loaded 1142 Armors.
+2016.06.14 15:40:51,228	CONFIG	1	net.sf.l2j.gameserver.datatables.ItemTable	ItemTable: Loaded 6882 Items.
+2016.06.14 15:40:51,898	SEVERE	1	net.sf.l2j.gameserver.skills.DocumentBase	Error in file E:\Program files\Servidor No Custom\L2 Frozen Esenn Server\gameserver_Dot\data\stats\weapon\20001-20002.xml
+2016.06.14 15:40:52,747	CONFIG	1	net.sf.l2j.gameserver.datatables.ItemTable	ItemTable: Loaded 1475 Weapons.
+2016.06.14 15:40:54,432	CONFIG	1	net.sf.l2j.gameserver.TradeController	TradeController: Loaded 530 Buylists.
+2016.06.14 15:40:54,444	CONFIG	1	net.sf.l2j.gameserver.TradeController	TradeController: Loaded 120 Limited Buylists.
+2016.06.14 15:40:54,612	INFO	1	net.sf.l2j.gameserver.datatables.SpawnTable	Initializing Walkers Routes Table.
+2016.06.14 15:40:54,647	INFO	1	net.sf.l2j.gameserver.datatables.SpawnTable	WalkerRoutesTable: Loaded 4 Npc Walker Routes.
+2016.06.14 15:40:54,802	CONFIG	1	net.sf.l2j.gameserver.RecipeController	RecipeController: Loaded 871 Recipes.
+2016.06.14 15:40:54,828	INFO	1	net.sf.l2j.gameserver.GameServer	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2016.06.14 15:40:54,834	INFO	1	net.sf.l2j.gameserver.GameServer	                 Voce esta usando o L2J-MWX Interlude Version
+2016.06.14 15:40:54,837	INFO	1	net.sf.l2j.gameserver.GameServer	                              Copyright 2009-2010
+2016.06.14 15:40:54,839	INFO	1	net.sf.l2j.gameserver.GameServer	                _______ ______  ___    ___ __      __ ___    ___ 
+2016.06.14 15:40:54,851	INFO	1	net.sf.l2j.gameserver.GameServer	               |   |   |       |   .  /   |  |    |  |.  .  /  / 
+2016.06.14 15:40:54,916	INFO	1	net.sf.l2j.gameserver.GameServer	               |.  |   |___|   |    ./    |  | /. |  | .  ./  /  
+2016.06.14 15:40:54,927	INFO	1	net.sf.l2j.gameserver.GameServer	               |.  |___ /  ___/|  |.  /|  |  |/  .|  |  >    <   
+2016.06.14 15:40:54,929	INFO	1	net.sf.l2j.gameserver.GameServer	               |:  |   |:  |   |  | ./ |  |    /.    | /  /.  .  
+2016.06.14 15:40:54,930	INFO	1	net.sf.l2j.gameserver.GameServer	               |::.. . |::.. . |  |    |  |   /  .   |/  /  .  . 
+2016.06.14 15:40:54,932	INFO	1	net.sf.l2j.gameserver.GameServer	               `-------`-------`--'    `--'--'    `--'--     --- 
+2016.06.14 15:40:54,934	INFO	1	net.sf.l2j.gameserver.GameServer	                              L2MwX Server Version: 9:10
+2016.06.14 15:40:54,935	INFO	1	net.sf.l2j.gameserver.GameServer	                              L2MWX Datapack Version: 9:11M
+2016.06.14 15:40:54,936	INFO	1	net.sf.l2j.gameserver.GameServer	                                  By DanielMwx 
+2016.06.14 15:40:54,939	INFO	1	net.sf.l2j.gameserver.GameServer	                           Projeto baseado em L2JDdot 
+2016.06.14 15:40:54,956	INFO	1	net.sf.l2j.gameserver.GameServer	
+2016.06.14 15:40:54,967	INFO	1	net.sf.l2j.gameserver.GameServer	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2016.06.14 15:40:55,111	CONFIG	1	net.sf.l2j.gameserver.datatables.ArmorSetsTable	ArmorSetsTable: Loaded 63 armor sets.
+2016.06.14 15:40:55,305	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	FishTable: Loaded 270 Fishes.
+2016.06.14 15:40:55,340	CONFIG	1	net.sf.l2j.gameserver.datatables.SkillTreeTable	SkillSpellbookTable: Loaded 334 Spellbooks.
+2016.06.14 15:40:55,556	CONFIG	1	net.sf.l2j.gameserver.datatables.CharTemplateTable	CharTemplateTable: Loaded 89 Character Templates.
+2016.06.14 15:40:55,678	INFO	1	net.sf.l2j.gameserver.cache.HtmCache	Cache[HTML]: Running lazy cache
+2016.06.14 15:40:55,832	INFO	1	net.sf.l2j.gameserver.cache.CrestCache	Cache[Crest]: 0,006MB on 26 files loaded. (Forget Time: 300s , Capacity: 50)
+2016.06.14 15:40:55,898	CONFIG	1	net.sf.l2j.gameserver.datatables.ClanTable	Restored 0 clans from the database.
+2016.06.14 15:40:58,752	CONFIG	1	net.sf.l2j.gameserver.datatables.NpcTable	NpcTable: Loaded 6522 custom NPC templates.
+2016.06.14 15:40:58,816	CONFIG	1	net.sf.l2j.gameserver.datatables.NpcTable	NpcTable: Loaded 6536 custom NPC templates.
+2016.06.14 15:40:58,856	INFO	1	net.sf.l2j.gameserver.datatables.NpcTable	NpcTable: Loaded 14 Custom Npc Templates.
+2016.06.14 15:41:00,247	INFO	1	net.sf.l2j.gameserver.datatables.NpcTable	CustomDropList: Added 0 custom droplist.
+2016.06.14 15:41:00,393	CONFIG	1	net.sf.l2j.gameserver.datatables.NpcTable	NpcTable: Loaded 439 Minions.
+2016.06.14 15:41:00,581	CONFIG	1	net.sf.l2j.gameserver.datatables.HennaTable	HennaTable: Loaded 180 Templates.
+2016.06.14 15:41:00,808	CONFIG	1	net.sf.l2j.gameserver.datatables.HennaTreeTable	HennaTreeTable: Loaded 7128 Henna Tree Templates.
+2016.06.14 15:41:00,897	CONFIG	1	net.sf.l2j.gameserver.datatables.HennaTable	Helper Buff Table: Loaded 15 Templates.
+2016.06.14 15:41:01,042	INFO	1	net.sf.l2j.gameserver.GeoData	Geodata Engine: Disabled.
+2016.06.14 15:41:01,801	CONFIG	1	net.sf.l2j.gameserver.model.L2World	L2World: Setting up World Regions
+2016.06.14 15:41:02,561	CONFIG	1	net.sf.l2j.gameserver.model.L2World	L2World: (87 by 128) World Region Grid set up.
+2016.06.14 15:41:03,040	CONFIG	1	net.sf.l2j.gameserver.datatables.TeleportLocationTable	TeleportLocationTable: Loaded 659 Teleport Location Templates.
+2016.06.14 15:41:03,098	CONFIG	1	net.sf.l2j.gameserver.datatables.TeleportLocationTable	TeleportLocationTable: Loaded 174 Custom Teleport Location Templates.
+2016.06.14 15:41:03,116	CONFIG	1	net.sf.l2j.gameserver.datatables.LevelUpData	LevelUpData: Loaded 89 Character Level Up Templates.
+2016.06.14 15:41:03,135	INFO	1	net.sf.l2j.gameserver.datatables.ZoneData	Loading zones...
+2016.06.14 15:41:03,976	INFO	1	net.sf.l2j.gameserver.instancemanager.TownManager	Initializing TownManager
+2016.06.14 15:41:05,292	INFO	1	net.sf.l2j.gameserver.datatables.ZoneData	Done: loaded 111 zones.
+2016.06.14 15:41:24,743	INFO	1	net.sf.l2j.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Day/Night handler initialised
+2016.06.14 15:41:27,794	WARNING	1	net.sf.l2j.gameserver.datatables.SpawnTable	SpawnTable: Data missing in NPC table for ID: 90001.
+2016.06.14 15:41:28,025	CONFIG	1	net.sf.l2j.gameserver.datatables.SpawnTable	SpawnTable: Loaded 38869 Npc Spawn Locations.
+2016.06.14 15:41:28,577	WARNING	1	net.sf.l2j.gameserver.instancemanager.RaidBossSpawnManager	RaidBossSpawnManager: Could not load raidboss #251073 from DB
+2016.06.14 15:41:28,579	INFO	1	net.sf.l2j.gameserver.instancemanager.RaidBossSpawnManager	RaidBossSpawnManager: Loaded 179 Instances
+2016.06.14 15:41:28,580	INFO	1	net.sf.l2j.gameserver.instancemanager.RaidBossSpawnManager	RaidBossSpawnManager: Scheduled 0 Instances
+2016.06.14 15:41:28,582	INFO	1	net.sf.l2j.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Deleted 0 night creatures
+2016.06.14 15:41:28,622	INFO	1	net.sf.l2j.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawning 232 day creatures
+2016.06.14 15:41:28,934	INFO	1	net.sf.l2j.gameserver.instancemanager.DimensionalRiftManager	DimensionalRiftManager: Loaded 7 room types with 56 rooms.
+2016.06.14 15:41:29,080	INFO	1	net.sf.l2j.gameserver.instancemanager.DimensionalRiftManager	DimensionalRiftManager: Loaded 462 dimensional rift spawns, 0 errors.
+2016.06.14 15:41:29,176	CONFIG	1	net.sf.l2j.gameserver.Announcements	Announcements: Loaded 3 Announcements.
+2016.06.14 15:41:29,319	INFO	1	net.sf.l2j.gameserver.model.L2Manor	ManorManager: Loaded 256 seeds
+2016.06.14 15:41:29,891	INFO	1	net.sf.l2j.gameserver.instancemanager.CastleManorManager	Initializing CastleManorManager
+2016.06.14 15:41:30,114	INFO	1	net.sf.l2j.gameserver.instancemanager.CastleManorManager	Manor System: Manor refresh updated
+2016.06.14 15:41:30,116	INFO	1	net.sf.l2j.gameserver.instancemanager.CastleManorManager	Manor System: Manor period approve updated
+2016.06.14 15:41:30,118	INFO	1	net.sf.l2j.gameserver.instancemanager.CastleManorManager	Manor System: New Schedule for period approve @ Wed Jun 15 06:00:30 BRT 2016
+2016.06.14 15:42:12,212	INFO	1	net.sf.l2j.gameserver.datatables.AugmentationData	Initializing AugmentationData.
+2016.06.14 15:42:12,281	INFO	1	net.sf.l2j.gameserver.datatables.AugmentationData	AugmentationData: Loaded: 52 augmentation stats.
+2016.06.14 15:42:12,414	INFO	1	net.sf.l2j.gameserver.datatables.AugmentationData	AugmentationData: Loaded: 80 active, 21 passive and 70 chance skills
+2016.06.14 15:42:12,454	WARNING	1	net.sf.l2j.gameserver.datatables.DoorTable	Searching clan halls doors:
+2016.06.14 15:42:12,710	CONFIG	1	net.sf.l2j.gameserver.datatables.DoorTable	DoorTable: Loaded 548 Door Templates.
+2016.06.14 15:42:12,773	CONFIG	1	net.sf.l2j.gameserver.datatables.StaticObjects	StaticObject: Loaded 29 StaticObject Templates.
+2016.06.14 15:42:12,952	INFO	1	net.sf.l2j.gameserver.SevenSigns	SevenSigns: Currently in the Seal Validation period!
+2016.06.14 15:42:12,996	INFO	1	net.sf.l2j.gameserver.SevenSigns	SevenSigns: The Seal of Avarice remains unclaimed.
+2016.06.14 15:42:13,111	INFO	1	net.sf.l2j.gameserver.SevenSigns	SevenSigns: The Seal of Gnosis remains unclaimed.
+2016.06.14 15:42:13,215	INFO	1	net.sf.l2j.gameserver.SevenSigns	SevenSigns: The Seal of Strife remains unclaimed.
+2016.06.14 15:42:13,243	INFO	1	net.sf.l2j.gameserver.SevenSigns	SevenSigns: The competition ended with a tie last week.
+2016.06.14 15:42:13,247	INFO	1	net.sf.l2j.gameserver.SevenSigns	SevenSigns: Next period begins in 6 days, 2 hours and 17 mins.
+2016.06.14 15:42:13,380	INFO	1	net.sf.l2j.gameserver.SevenSignsFestival	SevenSignsFestival: Initialization bypassed due to Seal Validation in effect.
+2016.06.14 15:42:13,748	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: Loading Olympiad System....
+2016.06.14 15:42:13,836	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: Currently in Olympiad Period
+2016.06.14 15:42:13,837	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: Period Ends....
+2016.06.14 15:42:13,839	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: In 47 days, 20 hours and 17 mins.
+2016.06.14 15:42:13,916	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: Next Weekly Change is in....
+2016.06.14 15:42:14,053	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: 11 days, 22 hours and 13 mins.
+2016.06.14 15:42:14,120	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: Loaded 0 Nobles
+2016.06.14 15:42:14,200	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: Competition Period Starts in 0 days, 0 hours and 0 mins.
+2016.06.14 15:42:14,251	INFO	1	net.sf.l2j.gameserver.Olympiad	Olympiad System: Event starts/started : Tue Jun 14 12:00:14 BRT 2016
+2016.06.14 15:42:14,333	INFO	23	net.sf.l2j.gameserver.Olympiad	Olympiad System: Olympiad Game Started
+2016.06.14 15:42:14,338	INFO	1	net.sf.l2j.gameserver.model.entity.Hero	Hero System: Loaded 0 Heroes.
+2016.06.14 15:42:14,552	INFO	1	net.sf.l2j.gameserver.model.entity.Hero	Hero System: Loaded 0 all time Heroes.
+2016.06.14 15:42:15,512	WARNING	1	net.sf.l2j.gameserver.script.faenor.FaenorEventParser	Event ID: (Valentines Event) has passed... Ignored.
+2016.06.14 15:42:15,587	INFO	1	net.sf.l2j.gameserver.instancemanager.CursedWeaponsManager	Initializing CursedWeaponsManager
+2016.06.14 15:42:15,885	INFO	1	net.sf.l2j.gameserver.instancemanager.CursedWeaponsManager	Loaded : 2 cursed weapon(s).
+2016.06.14 15:42:16,015	CONFIG	1	net.sf.l2j.gameserver.GameServer	AutoChatHandler: Loaded 32 handlers in total.
+2016.06.14 15:42:16,019	CONFIG	1	net.sf.l2j.gameserver.GameServer	AutoSpawnHandler: Loaded 129 handlers in total.
+2016.06.14 15:42:16,638	CONFIG	1	net.sf.l2j.gameserver.handler.AdminCommandHandler	AdminCommandHandler: Loaded 370 handlers.
+2016.06.14 15:42:16,868	CONFIG	1	net.sf.l2j.gameserver.handler.ItemHandler	ItemHandler: Loaded 2010 handlers.
+2016.06.14 15:42:17,106	CONFIG	1	net.sf.l2j.gameserver.handler.SkillHandler	SkillHandler: Loaded 71 handlers.
+2016.06.14 15:42:17,294	CONFIG	1	net.sf.l2j.gameserver.handler.ItemHandler	VoicedCommandHandler: Loaded 10 handlers.
+2016.06.14 15:42:17,521	INFO	1	net.sf.l2j.gameserver.handler.AutoAnnouncementHandler	GameServer: Loaded 0 Auto Announcements.
+2016.06.14 15:42:17,766	CONFIG	1	net.sf.l2j.gameserver.GameServer	IdFactory: Free ObjectID's remaining: 1879004804
+2016.06.14 15:42:17,950	INFO	1	net.sf.l2j.gameserver.util.FloodProtector	Initializing FloodProtector
+2016.06.14 15:42:18,158	INFO	1	net.sf.l2j.gameserver.GameServer	Away System
+2016.06.14 15:42:18,197	INFO	1	net.sf.l2j.gameserver.instancemanager.AwayManager	AwayManager: initialized.
+2016.06.14 15:42:19,694	INFO	1	net.sf.l2j.gameserver.GameServer	GameServer Started, free memory 205 Mb of 494 Mb
+2016.06.14 15:42:20,064	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:42:20,933	CONFIG	1	net.sf.l2j.gameserver.GameServer	Maximum Numbers of Connected Players: 1000
+2016.06.14 15:42:21,223	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:42:21,488	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:42:26,649	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:42:27,822	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:42:27,861	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:42:32,969	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:42:34,222	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:42:34,328	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:42:39,348	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:42:40,422	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:42:40,494	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:42:45,564	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:42:46,628	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:42:46,698	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:42:51,825	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:42:53,228	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:42:53,265	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:42:58,304	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:42:59,422	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:42:59,430	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:43:04,432	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:43:05,622	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:43:05,697	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:43:10,766	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:43:11,928	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:43:11,996	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:43:17,050	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:43:18,229	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:43:18,255	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:43:23,287	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:43:24,528	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:43:24,567	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:43:29,580	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:43:30,828	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:43:30,841	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:43:35,852	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:43:36,923	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:43:37,006	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:43:42,021	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:43:43,128	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:43:43,135	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:43:48,136	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:43:49,228	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:43:49,253	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:43:54,255	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:43:55,328	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:43:55,333	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:44:00,336	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:44:01,422	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:44:01,432	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:44:06,434	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:44:07,529	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:44:07,542	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:44:12,545	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:44:13,622	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:44:13,634	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:44:18,639	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:44:19,723	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:44:19,724	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:44:24,729	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:44:25,928	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:44:25,991	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:44:31,028	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:44:32,222	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:44:32,263	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:44:37,276	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:44:38,322	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:44:38,366	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:44:43,369	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:44:44,422	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:44:44,443	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:44:49,463	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:44:50,622	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:44:50,636	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:44:55,640	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:44:56,722	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:44:56,773	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:45:01,786	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:45:02,822	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:45:02,826	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:45:07,830	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:45:08,928	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:45:08,929	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:45:13,931	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:45:15,128	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:45:15,145	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:45:20,147	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:45:21,223	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:45:21,242	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:45:26,246	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:45:27,428	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:45:27,439	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:45:32,440	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:45:33,728	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:45:33,748	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:45:38,750	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:45:39,928	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:45:39,948	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:45:44,950	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:45:46,028	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:45:46,034	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:45:51,042	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:45:52,228	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:45:52,239	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:45:57,253	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:45:58,328	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:45:58,358	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:46:03,369	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:46:04,422	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:46:04,423	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:46:09,426	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:46:10,530	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:46:10,543	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:46:15,547	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:46:16,622	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:46:16,631	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:46:21,634	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:46:22,723	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:46:22,730	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:46:27,731	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:46:28,928	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:46:28,969	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:46:33,971	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:46:35,023	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:46:35,046	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:46:40,052	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:46:41,123	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:46:41,161	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:46:46,167	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:46:47,429	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:46:47,438	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:46:52,439	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:46:53,528	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:46:53,537	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:46:58,538	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:46:59,722	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:46:59,723	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:47:04,725	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:47:05,929	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:47:05,932	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:47:10,936	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:47:12,128	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:47:12,132	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:47:17,134	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:47:18,135	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:47:18,136	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:47:23,138	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:47:24,139	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:47:24,152	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:47:29,154	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:47:30,231	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:47:30,239	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:47:35,240	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:47:36,428	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:47:36,431	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:47:41,434	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:47:42,728	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:47:42,733	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:47:47,735	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:47:48,928	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:47:48,939	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:47:53,949	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:47:55,042	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:47:55,043	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:48:00,045	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:48:01,053	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:48:01,054	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:48:06,055	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:48:07,059	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:48:07,066	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:48:12,067	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:48:13,195	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:48:13,199	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:48:18,204	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:48:19,395	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:48:19,399	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:48:24,401	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:48:25,405	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:48:25,408	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:48:30,416	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:48:31,417	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:48:31,418	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:48:36,420	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:48:37,421	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:48:37,422	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:48:42,425	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:48:43,429	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:48:43,432	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:48:48,437	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:48:49,440	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:48:49,450	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:48:54,453	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:48:55,454	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:48:55,455	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:49:00,459	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:49:01,461	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:49:01,465	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:49:06,466	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:49:07,470	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:49:07,471	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:49:12,474	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:49:13,477	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:49:13,481	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:49:18,484	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:49:19,485	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:49:19,486	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:49:24,490	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:49:25,502	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:49:25,503	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:49:30,505	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:49:31,517	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:49:31,518	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:49:36,521	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:49:37,524	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:49:37,527	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:49:42,531	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:49:43,533	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:49:43,537	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:49:48,540	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:49:49,546	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:49:49,562	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:49:54,564	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:49:55,566	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:49:55,567	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:50:00,569	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:50:01,571	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:50:01,575	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:50:06,578	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:50:07,579	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:50:07,586	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:50:12,588	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:50:13,590	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:50:13,592	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:50:18,597	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:50:19,598	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:50:19,599	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:50:24,616	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:50:25,629	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:50:25,779	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:50:31,083	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:50:32,245	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:50:32,248	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:50:37,249	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:50:38,346	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:50:38,394	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:50:43,476	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:50:44,545	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:50:44,546	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:50:49,547	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:50:50,645	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:50:50,655	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:50:55,658	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:50:56,846	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:50:56,849	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:51:01,852	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:51:02,857	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:51:02,894	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:51:07,948	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:51:09,046	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:51:09,047	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:51:14,050	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:51:15,052	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:51:15,054	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:51:20,060	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:51:21,061	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:51:21,062	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:51:26,065	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:51:27,067	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:51:27,072	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:51:32,077	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:51:33,081	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:51:33,083	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:51:38,085	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:51:39,092	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:51:39,094	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:51:44,096	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:51:45,097	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:51:45,099	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:51:50,101	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:51:51,112	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:51:51,114	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:51:56,115	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:51:57,117	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:51:57,121	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:52:02,124	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:52:03,129	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:52:03,131	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:52:08,133	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:52:09,135	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:52:09,138	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:52:14,143	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:52:15,146	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:52:15,159	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:52:20,161	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:52:21,162	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:52:21,163	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:52:26,166	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:52:27,170	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:52:27,172	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:52:32,173	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:52:33,175	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:52:33,178	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:52:38,183	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:52:39,524	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:52:39,562	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:52:44,565	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:52:45,638	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:52:45,661	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:52:50,675	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:52:51,824	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:52:51,827	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:52:56,828	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:52:57,838	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:52:57,844	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:53:02,845	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:53:04,124	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:53:04,125	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:53:09,126	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:53:10,224	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:53:10,231	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:53:15,235	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:53:16,324	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:53:16,336	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:53:21,338	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:53:22,424	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:53:22,425	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:53:27,427	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:53:28,440	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:53:28,441	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:53:33,443	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:53:34,540	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:53:34,541	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:53:39,545	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:53:40,553	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:53:40,569	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:53:45,573	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:53:46,626	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:53:46,635	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:53:51,637	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:53:52,725	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:53:52,736	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:53:57,737	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:53:58,827	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:53:58,900	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:54:03,912	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:54:05,025	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:54:05,026	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:54:10,028	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:54:11,031	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:54:11,032	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect
+2016.06.14 15:54:16,034	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.06.14 15:54:17,244	INFO	47	net.sf.l2j.gameserver.LoginServerThread	Deconnected from Login, Trying to reconnect:
+2016.06.14 15:54:17,247	INFO	47	net.sf.l2j.gameserver.LoginServerThread	java.net.ConnectException: Connection refused: connect

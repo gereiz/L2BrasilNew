@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='19050' name="Electric Pulse Blade">
+  <for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- SA: Health -->
+    <mul val='1.25' order='0x30' stat='maxHp'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+<item id='19051' name="Electric Pulse Dagger">
+  <for>
+    <set val='246' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='433' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- SA: HP Drain -->
+    <add val='3' order='0x40' stat='absorbDam'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+<item id='19052' name="Electric Pulse Mace">
+  <for>
+    <set val='225' order='0x08' stat='pAtk'/>
+    <set val='175' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='19053' name="Electric Pulse Hammer">
+  <for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='379' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- SA: Health -->
+    <mul val='1.25' order='0x30' stat='maxHp'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+<item id='19054' name="Electric Pulse Fist">
+  <for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='4' order='0x08' stat='rCrit'/>
+    <add val='4' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+<item id='19055' name="Electric Pulse Demon Bow">
+  <for>
+    <set val='581' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='12' order='0x08' stat='rCrit'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='293' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+  </for>
+</item>
+<item id='19056' name="Electric Pulse Sword">
+  <for>
+    <set val='342' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <add val='0' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- SA: Health -->
+    <mul val='1.25' order='0x30' stat='maxHp'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+<item id='19057' name="Electric Pulse Pole">
+  <for>
+    <set val='281' order='0x08' stat='pAtk'/>
+    <set val='132' order='0x08' stat='mAtk'/>
+    <set val='8' order='0x08' stat='rCrit'/>
+    <set val='66' order='0x08' stat='pAtkRange'/>
+    <add val='-3' order='0x10' stat='accCombat'/>
+    <set val='325' order='0x08' stat='pAtkSpd'/>
+    <enchant val='0' order='0x0C' stat='pAtk'/>
+    <enchant val='0' order='0x0C' stat='mAtk'/>
+    <!-- SA: Health -->
+    <mul val='1.25' order='0x30' stat='maxHp'/>
+    <!-- Enhances damage to target during PvP -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
+  </for>
+</item>
+</list>

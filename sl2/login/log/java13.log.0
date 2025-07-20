@@ -1,0 +1,28 @@
+2016.12.15 19:30:09,207	INFO	1	net.sf.l2j.Config	loading login config
+2016.12.15 19:30:11,049	INFO	1	com.mchange.v2.log.MLog	MLog clients using java 1.4+ standard logging.
+2016.12.15 19:30:18,108	INFO	1	com.mchange.v2.c3p0.C3P0Registry	Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2016.12.15 19:30:22,425	INFO	1	com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource	Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 0, acquireRetryDelay -> 500, autoCommitOnClose -> true, automaticTestTable -> connection_test_table, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 6ygbgh9l1a0owx1ts6tuj|6477463f, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 6ygbgh9l1a0owx1ts6tuj|6477463f, idleConnectionTestPeriod -> 3600, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://localhost/l2jesenn, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 10, maxStatements -> 0, maxStatementsPerConnection -> 100, minPoolSize -> 10, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2016.12.15 19:30:22,884	INFO	1	net.sf.l2j.loginserver.LoginController	Loading LoginContoller...
+2016.12.15 19:30:31,372	INFO	1	net.sf.l2j.loginserver.LoginController	Cached 10 KeyPairs for RSA communication
+2016.12.15 19:30:36,478	INFO	1	net.sf.l2j.loginserver.LoginController	Stored 20 keys for Blowfish communication
+2016.12.15 19:30:37,114	INFO	1	net.sf.l2j.loginserver.GameServerTable	Loaded 127 server names
+2016.12.15 19:30:37,606	INFO	1	net.sf.l2j.loginserver.GameServerTable	Loaded 1 registered Game Servers
+2016.12.15 19:30:39,369	INFO	1	net.sf.l2j.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
+2016.12.15 19:30:39,678	CONFIG	1	net.sf.l2j.loginserver.L2LoginServer	Loaded 2 IP Bans.
+2016.12.15 19:30:40,209	INFO	1	net.sf.l2j.loginserver.L2LoginServer	Listening for GameServers on 127.0.0.1:9014
+2016.12.15 19:30:41,060	INFO	1	net.sf.l2j.loginserver.L2LoginServer	Login Server ready on *:2106
+2016.12.15 19:35:07,451	INFO	22	net.sf.l2j.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2016.12.15 19:35:07,483	INFO	22	net.sf.l2j.loginserver.GameServerThread	InternalIP: 25.18.216.1
+2016.12.15 19:35:07,484	INFO	22	net.sf.l2j.loginserver.GameServerThread	ExternalIP: 25.18.216.1
+2016.12.15 20:56:15,813	INFO	20	net.sf.l2j.loginserver.LoginController	Created new account for jere5
+2016.12.15 22:06:23,563	INFO	22	net.sf.l2j.loginserver.GameServerThread	GameServer [1] Bartz: Connection lost: Connection reset
+2016.12.15 22:06:23,657	INFO	22	net.sf.l2j.loginserver.GameServerThread	Server [1] Bartz is now set as disconnected
+2016.12.15 22:09:26,555	INFO	23	net.sf.l2j.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2016.12.15 22:19:07,581	INFO	23	net.sf.l2j.loginserver.GameServerThread	GameServer [1] Bartz: Connection lost: Connection reset
+2016.12.15 22:19:07,634	INFO	23	net.sf.l2j.loginserver.GameServerThread	Server [1] Bartz is now set as disconnected
+2016.12.15 22:22:23,864	INFO	24	net.sf.l2j.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2016.12.15 22:36:22,656	INFO	24	net.sf.l2j.loginserver.GameServerThread	GameServer [1] Bartz: Connection lost: Connection reset
+2016.12.15 22:36:22,712	INFO	24	net.sf.l2j.loginserver.GameServerThread	Server [1] Bartz is now set as disconnected
+2016.12.15 22:39:02,824	INFO	25	net.sf.l2j.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2016.12.15 22:39:13,304	INFO	25	net.sf.l2j.loginserver.GameServerThread	GameServer [1] Bartz: Connection lost: Connection reset
+2016.12.15 22:39:13,353	INFO	25	net.sf.l2j.loginserver.GameServerThread	Server [1] Bartz is now set as disconnected

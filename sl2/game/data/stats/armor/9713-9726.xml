@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='9713' name="Ice Crusader Plate Helm">
+<for>
+<add val='95' order='0x200' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9714' name="Ice Crusader Plate">
+<for>
+<add val='355' order='0x200' stat='pDef'/>
+<add val='3' order='0x40' stat='CON'> 
+<and> 
+<using slotitem="9713;6"/>
+<using slotitem="9716;12"/>
+<using slotitem="9717;9"/>
+</and> 
+</add> 
+<add val='645' order='0x40' stat='maxHp'> 
+<and> 
+<using slotitem="9713;6"/>
+<using slotitem="9716;12"/>
+<using slotitem="9717;9"/>
+</and> 
+</add> 
+<mul val='1.22' order='0x90' stat='pAtkSpd'> 
+<and> 
+<using slotitem="9713;6"/>
+<using slotitem="9716;12"/>
+<using slotitem="9717;9"/>
+</and> 
+</mul> 
+<mul val='1.05' order='0x40' stat='pAtk'> 
+<and> 
+<using slotitem="9713;6"/>
+<using slotitem="9716;12"/>
+<using slotitem="9717;9"/>
+</and>  
+</mul> 
+<mul val='1.02' order='0x200' stat='pDef'> 
+<and> 
+<using slotitem="9713;6"/>
+<using slotitem="9716;12"/>
+<using slotitem="9717;9"/>
+</and> 
+</mul> 
+<mul val='1.05' order='0x30' stat='regMp'>
+<and> 
+<using slotitem="9713;6;6"/>
+<using slotitem="9716;12;6"/>
+<using slotitem="9717;9;6"/>
+</and> 
+</mul> 
+<mul val='1.35' order='0x50' stat='mDef'>
+<and> 
+<using slotitem="9713;6;6"/>
+<using slotitem="9716;12;6"/>
+<using slotitem="9717;9;6"/>
+</and> 
+</mul> 
+<enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9715' name="Ice Crusader Gaiters">
+<for>
+<add val='65' order='0x200' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9716' name="Ice Crusader Boots">
+<for>
+<add val='75' order='0x200' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9717' name="Ice Crusader Gloves">
+<for>
+<add val='75' order='0x200' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9718' name="Ice Crusader Leather Helm">
+<for>
+<add val='95' order='0x200' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9719' name="Ice Crusader Leather">
+<for>
+<add val='325' order='0x200' stat='pDef'/>
+<add val='3' order='0x40' stat='DEX'> 
+<and> 
+<using slotitem="9718;6"/>
+<using slotitem="9721;12"/>
+<using slotitem="9722;9"/>
+</and> 
+</add> 
+<add val='445' order='0x40' stat='maxHp'> 
+<and> 
+<using slotitem="9718;6"/>
+<using slotitem="9721;12"/>
+<using slotitem="9722;9"/>
+</and> 
+</add> 
+<mul val='1.09' order='0x90' stat='pAtkSpd'> 
+<and> 
+<using slotitem="9718;6"/>
+<using slotitem="9721;12"/>
+<using slotitem="9722;9"/>
+</and> 
+</mul> 
+<mul val='1.08' order='0x40' stat='pAtk'> 
+<and> 
+<using slotitem="9718;6"/>
+<using slotitem="9721;12"/>
+<using slotitem="9722;9"/>
+</and>  
+</mul> 
+<mul val='1.05' order='0x200' stat='pDef'> 
+<and> 
+<using slotitem="9718;6"/>
+<using slotitem="9721;12"/>
+<using slotitem="9722;9"/>
+</and> 
+</mul> 
+<add val='5' order='0x40' stat='rEvas'>
+<and>
+<using slotitem="9718;6;6"/>
+<using slotitem="9721;12;6"/>
+<using slotitem="9722;9;6"/>
+</and>
+</add>
+<mul val='1.05' order='0x50' stat='mDef'> 
+<and> 
+<using slotitem="9718;6;6"/>
+<using slotitem="9721;12;6"/>
+<using slotitem="9722;9;6"/>
+</and> 
+</mul> 
+<enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9720' name="Ice Crusader Pants">
+<for>
+<add val='55' order='0x200' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9721' name="Ice Crusader Boots">
+<for>
+<add val='65' order='0x200' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9722' name="Ice Crusader Gloves">
+<for>
+<add val='65' order='0x200' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9723' name="Ice Crusader Hat">
+<for>
+<add val='95' order='0x200' stat='pDef'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9724' name="Ice Crusader Robe">
+<for>
+<add val='170' order='0x10' stat='pDef'/>
+<add val='3' order='0x40' stat='WIT'> 
+<and> 
+<using slotitem="9723;6"/>
+<using slotitem="9725;12"/>
+<using slotitem="9726;9"/>
+</and> 
+</add> 
+<add val='500' order='0x40' stat='maxMp'> 
+<and> 
+<using slotitem="9723;6"/>
+<using slotitem="9725;12"/>
+<using slotitem="9726;9"/>
+</and> 
+</add> 
+<mul val='1.30' order='0x40' stat='mAtkSpd'> 
+<and> 
+<using slotitem="9723;6"/>
+<using slotitem="9725;12"/>
+<using slotitem="9726;9"/>
+</and> 
+</mul> 
+<mul val='1.10' order='0x60' stat='mAtk'> 
+<and> 
+<using slotitem="9723;6"/>
+<using slotitem="9725;12"/>
+<using slotitem="9726;9"/>
+</and>  
+</mul> 
+<mul val='1.05' order='0x50' stat='pDef'> 
+<and> 
+<using slotitem="9723;6"/>
+<using slotitem="9725;12"/>
+<using slotitem="9726;9"/>
+</and> 
+</mul> 
+<mul val='1.02' order='0x50' stat='pDef'> 
+<and> 
+<using slotitem="9723;6;6"/>
+<using slotitem="9725;12;6"/>
+<using slotitem="9726;9;6"/>
+</and> 
+</mul> 
+<add val='1500' order='0x40' stat='maxLoad'> 
+<and> 
+<using slotitem="9723;6;6"/>
+<using slotitem="9725;12;6"/>
+<using slotitem="9726;9;6"/>
+</and> 
+</add>
+<enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9725' name="Ice Crusader Boots">
+<for>
+<add val='55' order='0x30' stat='pDef'/>
+<add val='25' order='0x40' stat='maxMp'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9726' name="Ice Crusader Gloves">
+<for>
+<add val='55' order='0x30' stat='pDef'/>
+<add val='25' order='0x40' stat='maxMp'/>
+<enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+</list>
