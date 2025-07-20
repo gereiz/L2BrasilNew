@@ -21,7 +21,7 @@ COPY --from=builder /app/target/classes /app/classes
 COPY --from=builder /app/target/dependency /app/lib
 
 # Copia os scripts launcher (assumindo que você os colocou na pasta launcher)
-COPY ./launcher /app/launcher
+COPY ./sl2/launcher /app/launcher
 
 # Dá permissão executável aos scripts
 RUN chmod +x /app/launcher/*.sh
