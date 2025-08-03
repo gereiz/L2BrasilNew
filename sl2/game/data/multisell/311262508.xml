@@ -1,173 +1,198 @@
-<?xml version='1.0' encoding='utf-8'?> 
-<!-- Seven Signs - Blacksmith of Mammon - Reseal A-grade Armor --> 
-<list maintainEnchantment="true"> 
-
-<!-- Reseal Dark Crystal Gloves Heavy --> 
-<item id="1"> 
-<ingredient id="5765" count="1"/> 
-<ingredient id="5575" count="4350"/> 
-<production id="5290" count="1"/> 
-</item> 
-
-<!-- Reseal Dark Crystal Gloves Light --> 
-<item id="2"> 
-<ingredient id="5766" count="1"/> 
-<ingredient id="5575" count="4350"/> 
-<production id="5290" count="1"/> 
-</item> 
-
-<!-- Reseal Dark Crystal Gloves Robe --> 
-<item id="3"> 
-<ingredient id="5767" count="1"/> 
-<ingredient id="5575" count="4350"/> 
-<production id="5290" count="1"/> 
-</item> 
-
-<!-- Reseal Dark Crystal Boots Heavy --> 
-<item id="4"> 
-<ingredient id="5777" count="1"/> 
-<ingredient id="5575" count="4350"/> 
-<production id="5291" count="1"/> 
-</item> 
-
-<!-- Reseal Dark Crystal Boots Light --> 
-<item id="5"> 
-<ingredient id="5778" count="1"/> 
-<ingredient id="5575" count="4350"/> 
-<production id="5291" count="1"/> 
-</item> 
-
-<!-- Reseal Dark Crystal Boots Robe --> 
-<item id="6"> 
-<ingredient id="5779" count="1"/> 
-<ingredient id="5575" count="4350"/> 
-<production id="5291" count="1"/> 
-</item> 
-
-<!-- Reseal Tallum Gloves Heavy --> 
-<item id="7"> 
-<ingredient id="5768" count="1"/> 
-<ingredient id="5575" count="4350"/> 
-<production id="5295" count="1"/> 
-</item> 
-
-<!-- Reseal Tallum Gloves Light --> 
-<item id="8"> 
-<ingredient id="5769" count="1"/> 
-<ingredient id="5575" count="4350"/> 
-<production id="5295" count="1"/> 
-</item> 
-
-<!-- Reseal Tallum Gloves Robe --> 
-<item id="9"> 
-<ingredient id="5770" count="1"/> 
-<ingredient id="5575" count="4350"/> 
-<production id="5295" count="1"/> 
-</item> 
-
-<!-- Reseal Tallum Boots Heavy --> 
-<item id="10"> 
-<ingredient id="5780" count="1"/> 
-<ingredient id="5575" count="4350"/> 
-<production id="5296" count="1"/> 
-</item> 
-
-<!-- Reseal Tallum Boots Light --> 
-<item id="11"> 
-<ingredient id="5781" count="1"/> 
-<ingredient id="5575" count="4350"/> 
-<production id="5296" count="1"/> 
-</item> 
-
-<!-- Reseal Tallum Boots Robe --> 
-<item id="12"> 
-<ingredient id="5782" count="1"/> 
-<ingredient id="5575" count="4350"/> 
-<production id="5296" count="1"/> 
-</item> 
-
-<!-- Reseal Nightmare Gloves Heavy --> 
-<item id="13"> 
-<ingredient id="5771" count="1"/> 
-<ingredient id="5575" count="6600"/> 
-<production id="5313" count="1"/> 
-</item> 
-
-<!-- Reseal Nightmare Gloves Light --> 
-<item id="14"> 
-<ingredient id="5772" count="1"/> 
-<ingredient id="5575" count="6600"/> 
-<production id="5313" count="1"/> 
-</item> 
-
-<!-- Reseal Nightmare Gloves Robe --> 
-<item id="15"> 
-<ingredient id="5773" count="1"/> 
-<ingredient id="5575" count="6600"/> 
-<production id="5313" count="1"/> 
-</item> 
-
-<!-- Reseal Nightmare Boots Heavy --> 
-<item id="16"> 
-<ingredient id="5783" count="1"/> 
-<ingredient id="5575" count="6600"/> 
-<production id="5314" count="1"/> 
-</item> 
-
-<!-- Reseal Nightmare Boots Light --> 
-<item id="17"> 
-<ingredient id="5784" count="1"/> 
-<ingredient id="5575" count="6600"/> 
-<production id="5314" count="1"/> 
-</item> 
-
-<!-- Reseal Nightmare Boots Robe --> 
-<item id="18"> 
-<ingredient id="5785" count="1"/> 
-<ingredient id="5575" count="6600"/> 
-<production id="5314" count="1"/> 
-</item> 
-
-<!-- Reseal Majestic Gloves Heavy --> 
-<item id="19"> 
-<ingredient id="5774" count="1"/> 
-<ingredient id="5575" count="6600"/> 
-<production id="5318" count="1"/> 
-</item> 
-
-<!-- Reseal Majestic Gloves Light --> 
-<item id="20"> 
-<ingredient id="5775" count="1"/> 
-<ingredient id="5575" count="6600"/> 
-<production id="5318" count="1"/> 
-</item> 
-
-<!-- Reseal Majestic Gloves Robe --> 
-<item id="21"> 
-<ingredient id="5776" count="1"/> 
-<ingredient id="5575" count="6600"/> 
-<production id="5318" count="1"/> 
-</item> 
-
-<!-- Reseal Majestic Boots Heavy --> 
-<item id="22"> 
-<ingredient id="5786" count="1"/> 
-<ingredient id="5575" count="6600"/> 
-<production id="5319" count="1"/> 
-</item> 
-
-<!-- Reseal Majestic Boots Light --> 
-<item id="23"> 
-<ingredient id="5787" count="1"/> 
-<ingredient id="5575" count="6600"/> 
-<production id="5319" count="1"/> 
-</item> 
-
-<!-- Reseal Majestic Boots Robe --> 
-<item id="24"> 
-<ingredient id="5788" count="1"/> 
-<ingredient id="5575" count="6600"/> 
-<production id="5319" count="1"/> 
-</item> 
-
+<?xml version="1.0" encoding="UTF-8"?>
+<list maintainEnchantment="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+	<npcs>
+		<npc>31126</npc> <!-- Blacksmith of Mammon -->
+	</npcs>
+	<item>
+		<!-- Dark Crystal Gloves - Heavy Armor -->
+		<ingredient count="1" id="5765" />
+		<!-- Ancient Adena -->
+		<ingredient count="4350" id="5575" />
+		<!-- Sealed Dark Crystal Gloves -->
+		<production count="1" id="5290" />
+	</item>
+	<item>
+		<!-- Dark Crystal Gloves - Light Armor -->
+		<ingredient count="1" id="5766" />
+		<!-- Ancient Adena -->
+		<ingredient count="4350" id="5575" />
+		<!-- Sealed Dark Crystal Gloves -->
+		<production count="1" id="5290" />
+	</item>
+	<item>
+		<!-- Dark Crystal Gloves - Robe -->
+		<ingredient count="1" id="5767" />
+		<!-- Ancient Adena -->
+		<ingredient count="4350" id="5575" />
+		<!-- Sealed Dark Crystal Gloves -->
+		<production count="1" id="5290" />
+	</item>
+	<item>
+		<!-- Tallum Gloves - Heavy Armor -->
+		<ingredient count="1" id="5768" />
+		<!-- Ancient Adena -->
+		<ingredient count="4350" id="5575" />
+		<!-- Sealed Tallum Gloves -->
+		<production count="1" id="5295" />
+	</item>
+	<item>
+		<!-- Tallum Gloves - Light Armor -->
+		<ingredient count="1" id="5769" />
+		<!-- Ancient Adena -->
+		<ingredient count="4350" id="5575" />
+		<!-- Sealed Tallum Gloves -->
+		<production count="1" id="5295" />
+	</item>
+	<item>
+		<!-- Tallum Gloves - Robe -->
+		<ingredient count="1" id="5770" />
+		<!-- Ancient Adena -->
+		<ingredient count="4350" id="5575" />
+		<!-- Sealed Tallum Gloves -->
+		<production count="1" id="5295" />
+	</item>
+	<item>
+		<!-- Gauntlets of Nightmare - Heavy Armor -->
+		<ingredient count="1" id="5771" />
+		<!-- Ancient Adena -->
+		<ingredient count="6600" id="5575" />
+		<!-- Sealed Gauntlets of Nightmare -->
+		<production count="1" id="5313" />
+	</item>
+	<item>
+		<!-- Gauntlets of Nightmare - Light Armor -->
+		<ingredient count="1" id="5772" />
+		<!-- Ancient Adena -->
+		<ingredient count="6600" id="5575" />
+		<!-- Sealed Gauntlets of Nightmare -->
+		<production count="1" id="5313" />
+	</item>
+	<item>
+		<!-- Gauntlets of Nightmare - Robe -->
+		<ingredient count="1" id="5773" />
+		<!-- Ancient Adena -->
+		<ingredient count="6600" id="5575" />
+		<!-- Sealed Gauntlets of Nightmare -->
+		<production count="1" id="5313" />
+	</item>
+	<item>
+		<!-- Majestic Gauntlets - Heavy Armor -->
+		<ingredient count="1" id="5774" />
+		<!-- Ancient Adena -->
+		<ingredient count="6600" id="5575" />
+		<!-- Sealed Majestic Gauntlets -->
+		<production count="1" id="5318" />
+	</item>
+	<item>
+		<!-- Majestic Gauntlets - Light Armor -->
+		<ingredient count="1" id="5775" />
+		<!-- Ancient Adena -->
+		<ingredient count="6600" id="5575" />
+		<!-- Sealed Majestic Gauntlets -->
+		<production count="1" id="5318" />
+	</item>
+	<item>
+		<!-- Majestic Gauntlets - Robe -->
+		<ingredient count="1" id="5776" />
+		<!-- Ancient Adena -->
+		<ingredient count="6600" id="5575" />
+		<!-- Sealed Majestic Gauntlets -->
+		<production count="1" id="5318" />
+	</item>
+	<item>
+		<!-- Dark Crystal Boots - Heavy Armor -->
+		<ingredient count="1" id="5777" />
+		<!-- Ancient Adena -->
+		<ingredient count="4350" id="5575" />
+		<!-- Sealed Dark Crystal Boots -->
+		<production count="1" id="5291" />
+	</item>
+	<item>
+		<!-- Dark Crystal Boots - Light Armor -->
+		<ingredient count="1" id="5778" />
+		<!-- Ancient Adena -->
+		<ingredient count="4350" id="5575" />
+		<!-- Sealed Dark Crystal Boots -->
+		<production count="1" id="5291" />
+	</item>
+	<item>
+		<!-- Dark Crystal Boots - Robe -->
+		<ingredient count="1" id="5779" />
+		<!-- Ancient Adena -->
+		<ingredient count="4350" id="5575" />
+		<!-- Sealed Dark Crystal Boots -->
+		<production count="1" id="5291" />
+	</item>
+	<item>
+		<!-- Tallum Boots - Heavy Armor -->
+		<ingredient count="1" id="5780" />
+		<!-- Ancient Adena -->
+		<ingredient count="4350" id="5575" />
+		<!-- Sealed Tallum Boots -->
+		<production count="1" id="5296" />
+	</item>
+	<item>
+		<!-- Tallum Boots - Light Armor -->
+		<ingredient count="1" id="5781" />
+		<!-- Ancient Adena -->
+		<ingredient count="4350" id="5575" />
+		<!-- Sealed Tallum Boots -->
+		<production count="1" id="5296" />
+	</item>
+	<item>
+		<!-- Tallum Boots - Robe -->
+		<ingredient count="1" id="5782" />
+		<!-- Ancient Adena -->
+		<ingredient count="4350" id="5575" />
+		<!-- Sealed Tallum Boots -->
+		<production count="1" id="5296" />
+	</item>
+	<item>
+		<!-- Boots of Nightmare - Heavy Armor -->
+		<ingredient count="1" id="5783" />
+		<!-- Ancient Adena -->
+		<ingredient count="6600" id="5575" />
+		<!-- Sealed Boots of Nightmare -->
+		<production count="1" id="5314" />
+	</item>
+	<item>
+		<!-- Boots of Nightmare - Light Armor -->
+		<ingredient count="1" id="5784" />
+		<!-- Ancient Adena -->
+		<ingredient count="6600" id="5575" />
+		<!-- Sealed Boots of Nightmare -->
+		<production count="1" id="5314" />
+	</item>
+	<item>
+		<!-- Boots of Nightmare - Robe -->
+		<ingredient count="1" id="5785" />
+		<!-- Ancient Adena -->
+		<ingredient count="6600" id="5575" />
+		<!-- Sealed Boots of Nightmare -->
+		<production count="1" id="5314" />
+	</item>
+	<item>
+		<!-- Majestic Boots - Heavy Armor -->
+		<ingredient count="1" id="5786" />
+		<!-- Ancient Adena -->
+		<ingredient count="6600" id="5575" />
+		<!-- Sealed Majestic Boots -->
+		<production count="1" id="5319" />
+	</item>
+	<item>
+		<!-- Majestic Boots - Light Armor -->
+		<ingredient count="1" id="5787" />
+		<!-- Ancient Adena -->
+		<ingredient count="6600" id="5575" />
+		<!-- Sealed Majestic Boots -->
+		<production count="1" id="5319" />
+	</item>
+	<item>
+		<!-- Majestic Boots - Robe -->
+		<ingredient count="1" id="5788" />
+		<!-- Ancient Adena -->
+		<ingredient count="6600" id="5575" />
+		<!-- Sealed Majestic Boots -->
+		<production count="1" id="5319" />
+	</item>
 </list>
